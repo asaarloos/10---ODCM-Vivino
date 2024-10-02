@@ -1,328 +1,330 @@
-Brand,Wine,Rating,Price
-Jean Leon,3055 Rosé 2023,"3,7","€15,95"
-Vivanco,Tempranillo - Garnacha Tinta y Blanca 2022,"3,6","€15,20"
-Pago del Vicario,Petit Verdot Rosado 2023,"3,8",€10
-Armas de Guerra,Rosado Mencía 2022,"3,8","€6,45"
-Bodegas Care,Rosado 2023,"3,7","€8,25"
-Dominio del Águila,Pícaro del Águila Clarete 2022,"4,1","€43,51"
-Dominio de Eguren,Protocolo Rosado 2023,"3,5","€7,75"
-Bodegas Care,Solidarity Rosé 2023,"3,7","€8,35"
-Ibizkus,Rosado 2023,"3,7","€24,95"
-Hispano Suizas,Impromptu Rosé 2023,"4,0","€28,95"
-Celler del Roure,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2021,"3,8","€11,50"
-Belondrade,Quinta Clarisa Belondrade 2023,"3,6","€18,95"
-Barinas,Rosado 2023,"3,9","€6,50"
-Franck Massard,Mas Amor Rosado 2019,"3,4","€12,97"
-Escabeces,Rosé 2021,"3,7","€18,95"
-El Coto,Rosado 2018,"3,3","€7,50"
-Ramón Bilbao,Rioja Rosado 2022,"3,8","€12,90"
-Pacheco,Rosado 2021,"3,3","€9,45"
-Marqués del Turia,Rosé 2023,"3,3","€5,95"
-Bodegas Care,Rosado 2022,"3,6","€8,25"
-Latido de Sara,Garnacha Rosé 2022,"3,7","€9,75"
-Muga,Muga Rosado 2023,"3,9","€11,17"
-Binigrau,B Rosat 2023,"4,3","€26,95"
-Linea Kármán,Clarete 2023,"3,9","€11,50"
-Antídoto,Le Rosé 2019,"4,3","€66,45"
-Can Axartell,Rosado 2022,"4,2","€14,95"
-Celler Frisach,L'Abrunet Rosado 2022,"3,6","€12,95"
-Nebla,Verdejo Rosé 2023,"3,6","€7,95"
-Sara Pérez y René Barbier,Priorat Partida Pedrer Rosat 2021,"4,1","€36,95"
-Vermador,Monastrell Rosé 2022,"3,3","€7,95"
-Azul y Garanza,Naturaleza Salvaje Clarete 2021,"4,0","€18,50"
-Marqués de Riscal,Rosado 2022,"3,6","€11,95"
-Señorío de Iniesta,Bobal Rosé 2023,"3,6","€7,95"
-La Bodega de Pinoso,Almorquí Rosé 2022,"3,9","€9,50"
-La Bodega de Pinoso,Almorquí Rosé 2023,"3,9","€8,95"
-Braña Vieja,Rosado 2023,"3,4","€6,95"
-Entre Vinyes,Oníric Rosat 2023,"3,6","€9,95"
-Winery On Creations,Demuerte Rosé 2023,"4,0","€12,95"
-Scala Dei,Pla dels Àngels Rosado 2021,"4,2","€37,99"
-El Coto,Rosado 2023,"3,5","€7,95"
-Antídoto,Roselito 2022,"3,9","€14,35"
-Ramón Bilbao,Rioja Rosado 2023,"3,7","€9,95"
-Can Axartell,Rosado 2023,"4,2","€14,95"
-Valdelacierva,Rosé 2022,"3,8","€8,75"
-Nube de Leza García,Rosé 2023,"3,8","€12,80"
-Scala Dei,Pla dels Àngels Rosado 2022,"4,1","€39,49"
-Born Rosé Barcelona,Born Rosé 2022,"3,9","€14,50"
-Bodegas Yuntero,Ortiga Tempranillo Rosado 2023,"3,4","€5,50"
-Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2023,"3,5","€5,95"
-Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2019,"3,5","€6,01"
-Laus,Rosado 2022,"3,8","€7,25"
-Sierra Cantabria,XF Rosado 2022,"4,1",€55
-Coviñas,Aula Bobal Rosado 2022,"3,7",€15
-Coviñas,Aula Bobal Rosado 2023,"3,7",€15
-Parés Baltà,Syrah Radix Rosé 2022,"4,2","€31,40"
-Rodríguez Sanzo,Gotas de Noche Rosé 2022,"4,1","€19,95"
-Enate,Cabernet Sauvignon Rosado 2023,"4,1","€13,25"
-Alsina & Sarda,Merlot de Llàgrima 2020,"3,2","€7,50"
-La Sastrería,Garnacha Rosé 2023,"3,5","€7,95"
-Ibizkus,Can Bassó Rosado 2023,"3,5","€13,95"
-Callejo,Vina Pilar Clarete 2020,"3,9","€55,40"
-Clos Montblanc,Castell Rosat 2022,"3,4","€8,50"
-U MES U,Anais Rosé 2021,"3,8","€10,95"
-José Pariente,Victoria Rosado 2022,"3,9","€14,95"
-Bodega Ribas,Ribas Rosat 2020,"4,0","€39,95"
-Puro Rofe,Mentidero 2021,"3,8","€43,95"
-Wine Wings,Garnacha Rosé 2019,"3,7","€20,90"
-Cueva del Chamán,Rosado Syrah 2023,"4,0","€9,95"
-El Coto,Garnacha Selección Viñedos 2023,"3,9","€11,17"
-Bodegas Marqués de Cáceres,Excellens Rosé 2023,"3,9","€9,95"
-Bodegas Vilano,Think Pink Rosado 2023,"4,1","€11,50"
-Casa Rojo,Haru 2022,"4,0","€18,25"
-El Gourmet,Rosalina 2023,"3,2","€5,58"
-Vinyes Tortuga,Juicy 2020,"3,9","€38,32"
-Celler del Roure,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2022,"3,7","€15,75"
-Sierra Cantabria,Rosado 2022,"3,7","€11,50"
-Clos Mogador,Gratallops Priorat Rosat 2021,"4,2","€39,95"
-Born Rosé Barcelona,Born Rosé 2023,"4,0","€14,95"
-Familia Torres,De Casta Rosado 2023,"3,7","€8,75"
-Familia Torres,Viña Esmeralda Rosado 2023,"4,0","€10,95"
-Hammeken Cellars,Mirada Organic Rosé 2022,"3,8","€18,19"
-Bodega de Liédena,Liskar Rosado 2021,"3,6","€20,30"
-La Chita,Iwazaru 2022,"3,3","€6,95"
-Inurrieta,Mediodía Rosado 2023,"3,7","€7,81"
-Candidato,Rosado 2019,"3,2","€8,95"
-Castillo de Mendoza,Rosado Ecológico 2019,"3,8","€10,95"
-Castillo de Mendoza,Rosado Ecológico 2022,"3,8","€11,95"
-Sierra Cantabria,XF Rosado 2023,"4,1","€25,85"
-Bodega de Liédena,Liskar Rosado 2020,"3,7","€20,30"
-Dominio de Otero,Tempranillo Rosé 2022,"3,6",€7
-Dominio de Otero,Tempranillo Rosé 2023,"3,6","€7,95"
-Born Rosé Barcelona,503 2020,"4,1","€24,50"
-U MES U,Dahlia Rosado 2022,"4,0","€14,50"
-Viña Real,Rioja Rosado 2023,"3,7","€10,05"
-Bendito Destino,Clarete 2021,"4,2","€73,10"
-Marta Maté,Rosado 2022,"3,9","€21,50"
-Familia Torres,Natureo Syrah - Cabernet Sauvignon Rosado 2022,"3,3","€9,99"
-Rodríguez de Vera,Rosado 2022,"4,0","€14,95"
-Oriol Artigas,# Cuvée Total 2020,"3,9","€55,40"
-Santo Cristo,Flor de Añón Rosado 2022,"3,5","€5,95"
-Autentico,Organic Rosado 2023,"3,5","€5,49"
-Baron de Ley,Rioja Rosado 2023,"3,6","€7,25"
-Terra Remota,Caminito 2021,"3,9","€21,95"
-Viña Oria,Tempranillo - Garnacha Rosé 2018,"3,4","€6,95"
-Bodega Ribas,Ribas Rosat 2023,"3,8","€21,95"
-Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2020,"3,3","€5,95"
-Bodega Bravo Escós,Bravo 2022,"3,5","€18,95"
-Vicente Gandía,Bobal Rosa 2023,"4,0","€11,95"
-Nius,Organic Bobal Rosé 2023,"3,7","€8,25"
-Pagos de Aráiz,Navarra Rosado 2022,"3,7","€10,95"
-Ostatu,Rioja Rosé 2023,"3,9",€13
-Muga,Flor de Muga Rosado 2023,"4,0","€24,49"
-VALENCISO,Rioja Rose 2022,"4,0","€23,25"
-Mesta,Organic Tempranillo Rosé 2023,"3,5","€5,22"
-Soto y Manrique,Naranjas Azules Garnacha Rosado 2023,"3,6","€8,95"
-Bodegas Faustino,V Rosado 2023,"3,4","€7,65"
-Bodegas Valdemar,Conde de Valdemar Rosado 2023,"3,6",€9
-Bach,Viña Extrísima Rosado 2023,"3,4","€9,14"
-Viñas del Vero,Luces Tempranillo - Merlot - Syrah Rosado 2023,"3,5","€6,26"
-Sierra Cantabria,Rosado 2023,"3,7","€9,29"
-Dominio de Eguren,Protocolo Rosado 2022,"3,5","€8,30"
-Macià Batle,Rosado 2023,"3,7","€10,42"
-Muga,Muga Rosado 2021,"3,9","€11,90"
-Bodegas Franco-Españolas,Diamante Semi-Dulce Rosado 2019,"3,7","€6,95"
-Celler de Capçanes,Mas Donis Rosat Montsant 2023,"3,5","€7,60"
-Familia Torres,Mas Rabell Rosado 2023,"3,7","€7,42"
-Ramón Bilbao,Rioja Rosado 2021,"3,8","€8,30"
-Castillo de Maetierra,Libalis Rosé 2023,"3,6","€11,22"
-Ramón Bilbao,LaLomba Rosado 2022,"3,9","€30,98"
-Bodega Iniesta,Corazón Loco Rosado 2023,"3,2","€12,26"
-René Barbier,Tradición Rosado 2022,"3,1","€8,68"
-Dominio Dostares,Tombú Prieto Picudo 2023,"3,6","€9,40"
-Castillo Perelada,Empordà Jardins Rosé 2022,"3,4","€11,16"
-Castell Miquel,Stairway To Heaven Rosado 2023,"3,9","€16,26"
-Celler Frisach,Les Alifares 2022,"3,9","€21,10"
-Chivite,Navarra Coleccion 125 Rosado 2022,"4,1","€27,10"
-Canals Canals,Fragància de Marta 2023,"4,2","€10,90"
-Bodegas Castelo de Medina,Castelo Rosé 2023,"3,7","€8,80"
-Bodega Otazu,Otazu Tempranillo Rosé 2022,"3,8","€10,10"
-Pagos de Aráiz,Navarra Rosado 2023,"3,7","€8,50"
-Vergel,Rosado 2022,"3,6","€6,69"
-Avgvstvs,Rosat 2022,"3,7","€12,73"
-Huerta de Albala,Barbazul Rosado 2023,"3,7","€10,10"
-Acustic Celler,Acústic Rosat 2023,"3,8","€11,20"
-Viñas del Vero,Tempranillo - Cabernet Sauvignon Rosado 2023,"3,3","€7,29"
-Laus,Rosado 2023,"3,6","€5,65"
-Can Ràfols dels Caus,Petit Caus Rosat 2022,"3,4","€13,31"
-Raúl Pérez,Los Arrotos del Pendón Rosado 2023,"3,8","€9,35"
-Bodegas Nekeas,Rosado de Lágrima 2023,"3,3",€7
-Enate,Cabernet Sauvignon Rosado 2021,"4,0","€10,95"
-Familia Torres,Viña Esmeralda Rosado 2022,"3,8","€6,99"
-El Paso del Lazo,Tempranillo Rosé 2023,"3,3","€4,95"
-Altanza,Rosado 2022,"3,6","€11,23"
-Gramona,Mart Xarel-lo Vermell 2022,"4,1","€17,57"
-Torre Oria,Mare Meua Pinot Noir 2023,"3,7","€5,95"
-Bàrbara Forés,Rosat 2023,"3,5","€9,20"
-Inurrieta,Coral Rosado 2023,"3,7","€7,15"
-Familia Torres,De Casta Rosado 2022,"3,5","€6,25"
-Nuviana,Veranza Cabernet Sauvignon - Tempranillo Rosado 2022,"3,2","€4,90"
-Miedes,Garnacha Rosado 2023,"3,4","€5,90"
-Celler de Capçanes,Peraj Petita Rosat Montsant 2023,"3,7","€11,95"
-Bodegas Piedemonte,Garnacha Rosado 2023,"3,4","€7,25"
-Pardevalles,Prieto Picudo Rosado 2023,"3,7","€8,30"
-Ramón Roqueta,Cabernet Sauvignon - Garnacha Rosado 2023,"3,3","€7,95"
-Ramón Roqueta,Cabernet Sauvignon - Garnacha Rosado 2020,"3,3","€6,70"
-Hammeken Cellars,Mirada Organic Rosé 2023,"3,9","€9,35"
-Bodegas Victorianas,Don Hugo Tempranillo Rosado 2019,"2,9","€6,35"
-Bodegas Victorianas,Don Hugo Tempranillo Rosado 2020,"2,9","€6,66"
-El Meson,Rioja Rosado 2023,"3,4","€5,79"
-Alceño,Monastrell Rosé 2017,"3,7","€8,34"
-Celler Frisach,L'Abrunet Rosado 2023,"3,6","€8,45"
-Alta Alella,Parvus Rosé 2021,"3,6","€14,55"
-Espelt,Lledoner Rosat 2022,"3,5","€11,70"
-Venus la Universal,Dido La Solució Rosa 2021,"4,1","€27,95"
-El Grifo,Rosado 2022,"3,4","€27,95"
-Nebla,Verdejo Rosé 2022,"3,6","€7,90"
-Vermador,Monastrell Rosé 2021,"3,3","€5,19"
-El Coto,Rosado 2022,"3,4","€5,95"
-Mas Llunes,Maragda Rosa 2022,"3,5","€12,39"
-Enate,Cabernet Sauvignon Rosado 2022,"4,0","€12,95"
-Mesquida Mora,Sincronia Rosat 2022,"3,6","€13,49"
-Herència Altés,Garnatxa Negra Rosat 2023,"3,6","€11,95"
-Osborne,Solaz Rosado 2023,"3,5","€8,37"
-La Casa de Lúculo,Cátulo Rosado Garnacha 2023,"3,6","€8,99"
-Parató,Pinot Noir Rosé 2023,"3,7","€7,95"
-Cuatro Rayas,Tempranillo Rosé 2022,"3,7","€7,95"
-Marco Real,Garnacha Rosado 2022,"3,5","€7,45"
-Martín Faixó,Perafita Rosat 2022,"3,9","€17,02"
-Camina,Tempranillo Rosé 2022,"3,3","€6,25"
-Conde Pinel,Rosé 2023,"3,5",€4
-Montecillo,Rioja Rosado 2022,"3,5","€12,15"
-Luzon,Colección Rosado 2022,"3,8","€9,95"
-Alceño,Sierra de Enmedio Rosado 2023,"3,9","€6,95"
-Herència Altés,Celastrina 2021,"3,9","€11,80"
-Rovellats,Merlot Rosé 2022,"3,5","€12,91"
-Condesa de Leganza,Selección de Familia Rosado 2022,"3,8","€9,81"
-Baron de Ley,Rioja Rosado 2021,"3,7","€6,95"
-Chivite,Las Fincas Rosado 2022,"3,9","€10,29"
-Raimat,Abadia Cabernet Sauvignon - Tempranillo Rosé 2020,"3,3","€7,95"
-Rio Añejo,Bobal Rosé 2022,"3,6","€5,95"
-Cune (CVNE),Rosado 2022,"3,5","€9,87"
-Bach,Viña Extrísima Rosado 2021,"3,6","€6,95"
-Bodegas Marqués de Cáceres,Excellens Rosé 2022,"3,9","€10,25"
-Hacienda Grimon,Rosado 2023,"3,7","€10,64"
-Marqués de Montecierzo,Emergente Rosado 2023,"3,4","€8,50"
-Rigau Ros,Rosat Flor 2022,"3,5","€10,12"
-Azul y Garanza,Rosa 2023,"3,4","€7,59"
-Bodegas Aradon,Rosado 2023,"3,6","€7,87"
-Azul y Garanza,Rosa 2018,"3,4","€11,22"
-Rendé Masdéu,El Follet Rosat de Syrah 2023,"3,6","€8,20"
-Espelt,Trapella Syrah Rosat 2022,"3,7","€14,34"
-Jané Ventura,Vinyes Roses 2023,"3,4","€8,80"
-Oliveda,Masia Oliveda Rosat Flor 2022,"3,4","€9,23"
-Tayaimgut,Frsssc Merlot 2022,"3,7","€15,32"
-Bicicletas y Peces,Tempranillo Rosė 2022,"3,8","€9,95"
-Anna de Codorniu,Viñas de Anna Flor de Rosa 2022,"3,6","€14,12"
-Vinyes Singulars,Sumoi Barmei 2018,"4,1",€22
-Dominio de Punctum,Norte Sur Rosado 2022,"3,7","€7,95"
-Dominio de Punctum,Norte Sur Rosado 2023,"3,7","€5,95"
-Oliveda,Clos Primat Rosado 2022,"3,4","€8,25"
-Vall de Baldomar,Cristiari Rosat 2023,"3,7","€9,95"
-Finca Enguera,Rosado 2023,"3,6","€5,59"
-Antídoto,Roselito 2020,"3,9","€12,56"
-Campo Viejo,Suave Rosado 2022,"3,3","€8,49"
-Pere Guardiola,Floresta Rosado 2021,"3,5","€10,70"
-Bicicletas y Peces,Tempranillo Rosė 2021,"3,8","€14,48"
-Bodegas Victorianas,Monterio Tempranillo Rosé 2022,"3,5","€6,16"
-Bodegas Yuntero,Ortiga Tempranillo Rosado 2018,"3,4","€6,24"
-Martí Fabra,Lladoner Empordà 2022,"3,5","€12,56"
-Chivite,Las Fincas Rosado 2023,"4,0","€12,85"
-Raimat,Clamor Rosado 2022,"3,7","€13,71"
-Bodegas Marqués de Cáceres,Rosado 2023,"3,7","€10,10"
-Canals Canals,Fragància de Marta 2022,"4,1","€16,70"
-Inurrieta,Mediodía Rosado 2021,"3,6","€6,50"
-Viñedos de Alfaro,Real Agrado Rosado 2020,"3,5","€5,95"
-Bodegas Care,Solidarity Rosé 2018,"3,8","€11,19"
-Vinyes Singulars,Sumoll Rosat Amphora 2021,"4,0","€22,50"
-Bodega Pirineos,3404 Rosado 2023,"3,8","€8,95"
-The Green Wine Company,Organic Tempranillo Rosé 2023,"3,1","€7,25"
-Celler Masroig,Solà Fred Rosat 2023,"3,2","€5,95"
-Radio Boka,Alicante Monastrell Rosé 2022,"3,2","€6,45"
-Bodegas Javier San Pedro Ortega,Cueva de Lobos Rosado 2023,"3,7","€5,80"
-Baron de Ley,Rioja Rosado 2022,"3,5","€10,95"
-Nuviana,Cabernet Sauvignon - Tempranillo Rosado 2022,"3,8","€5,25"
-Vegalfaro,Rebel.lia Rosado 2022,"3,6","€6,49"
-Can Sumoi,La Rosa 2023,"3,9",€12
-Martí Fabra,Claret d'Albera 2023,"3,6","€8,25"
-Celler de Capçanes,Mas Picosa Blanc De Negres Rosé 2022,"3,3","€8,20"
-Marqués de Riscal,Rosado 2023,"3,9","€9,95"
-Alquézar,Rosado 2022,"3,8","€10,10"
-Garriguella,Dinarells Rosé 2022,"3,0",€9
-Avgvstvs,Primer Rosat 2023,"3,9","€8,80"
-Homenaje,Garnacha Rosado 2021,"3,4","€5,95"
-Bach,Extrísimo Semi Dulce Rosado 2022,"4,0","€9,35"
-Juvé & Camps,Aurora D'Espiells Rosé 2022,"3,6","€15,65"
-Coll de Roses,Rosat 2022,"3,4","€13,89"
-De Moya,Mola Rosado 2021,"4,0","€9,90"
-Las Campanas,Garnacha Rosé 2022,"3,4","€9,11"
-Son Colom,Rosado 2021,"3,1","€8,50"
-Confidencia,Tempranillo Rosado 2023,"3,1","€6,75"
-Viña Pomal,Garnacha - Viura Rosé 2022,"3,7","€13,50"
-Arché Pagès,Sàtirs Rosat 2022,"3,4","€11,83"
-Rasgón,Tempranillo Rosado 2022,"3,7","€4,90"
-Bodegas Valdemar,Conde de Valdemar Rosado 2022,"3,7","€6,95"
-Gran Sello,Rosado 2021,"3,4","€7,50"
-Santa Elisa,III Cigüeñas Garnacha Rosé 2023,"3,5","€7,75"
-Bodegas Faustino,V Rosado 2022,"3,3","€6,94"
-Oliveda,Marrec Rosado 2023,"3,5","€9,80"
-Bodegas Piqueras,El Picoteo Rosado 2020,"3,8","€6,60"
-Bodegas Nodus,Chaval Bobal Rosado 2021,"3,9","€9,68"
-Gramona,Mart Xarel-lo Vermell 2023,"4,0","€13,30"
-Terra i Vins,Flor de Nit Rosat 2021,"3,6","€14,91"
-Hacienda López de Haro,Rosado 2020,"3,3","€10,95"
-Masia Perelada,Rosado 2022,"3,0","€8,91"
-Binigrau,B Rosat 2022,"4,3","€16,55"
-Cune (CVNE),Rosado 2023,"3,5","€9,19"
-Sierra Cantabria,Rosado 2020,"3,7","€11,72"
-Vinos Alex,Cata Rosa Rosado 2021,"2,9",€5
-Pago de Cirsus,Rosé Gran Cuvée Especial 2021,"3,9","€13,46"
-Gran Feudo,Rosado 2023,"3,6","€9,37"
-Familia Torres,Viña Sol Rosado 2023,"3,8","€6,55"
-Can Ràfols dels Caus,Gran Caus Rosat 2022,"3,9","€21,16"
-Altavins,Almodí Petit Rosé 2023,"3,4","€8,80"
-Santo Cristo,Finca Don Gavarre Rosado 2023,"2,7","€4,75"
-Chivite,Navarra Coleccion 125 Rosado 2021,"4,2","€36,49"
-Protos,Rosado (Clarete) 2023,"3,5","€7,90"
-La Chita,Iwazaru 2023,"3,3","€6,95"
-Bodegas Faustino,VII Rosado 2023,"3,6","€6,59"
-Nebla,Verdejo Rosé 2020,"3,5","€9,50"
-Baron de Ley,Rosado de Lágrima 2023,"3,9","€9,90"
-Vendôme Mademoiselle,Premium Rosé N.V.,"3,1","€9,49"
-Macià Batle,Rosado 2022,"3,7","€9,95"
-Bodegas Ochoa,Finca El Bosque Rosado de Lágrima 2022,"3,7","€11,86"
-Habla,Habla de Ti Rosé 2023,"3,8","€11,45"
-Terra Remota,Caminito 2022,"3,8","€25,77"
-Elvia,Bobal Rosado 2022,"3,3","€7,70"
-Elvia,Bobal Rosado 2023,"3,3","€7,06"
-Artadi,Artazuri Garnacha Rosado (Artazu) 2022,"3,9","€9,50"
-Los Frailes,Rosado 2022,"3,4","€6,50"
-Señorío de Sarria,Rosado 2022,"3,5","€9,51"
-Astobiza,Rosé 2021,"3,8","€17,95"
-Marques dé La Carrasca,Tempranillo - Grenache Rosé 2023,"3,4","€6,95"
-Abadal,elRosat 2022,"3,5","€14,36"
-Juvé & Camps,Aurora D'Espiells Rosé 2023,"3,7","€9,95"
-Volver,Tarima Rosado 2021,"3,9","€9,32"
-Protos,Aire de Protos 2023,"3,8","€13,90"
-Beronia,Rioja Rosé 2022,"3,6","€7,90"
-The Green Wine Company,Green Trail Organic Rosado 2023,"3,3","€7,25"
-Binimaimo,Rosé 2019,"4,3","€14,95"
-Baigorri,Rioja Rosado 2022,"3,7","€8,25"
-Castillo Perelada,Emporda Cigonyes Rosé 2022,"3,8","€12,95"
-Paniza,Sleeve Garnacha Rosé 2022,"3,4","€6,75"
-Parés Baltà,Syrah Radix Rosé 2023,"4,0","€22,95"
-Pasas,Rosé 2023,"3,6","€9,95"
-Viñedos Ruiz Jiménez,Osoti Organic Rosado 2023,"3,6","€7,95"
-Cristo de la Vega,Torre de Vejezate Rosé 2023,"3,9","€6,95"
-Espelt,Coralí 2022,"3,5","€13,50"
-Llopart,'La Vida Secreta de les Plantes' Carmi Rosat 2022,"3,7","€9,20"
-Juan Gil,Rosé 2021,"3,7","€9,95"
-Barcolobo,Lacrimae Rerum 2019,"3,8","€23,68"
-Vinyes dels Aspres,Oriol dels Aspres Rosat 2021,"3,5","€12,67"
-Celler Batea,Vall Major Rosé 2022,"3,6","€9,10"
-Castillo de Chiva,Rosado 2018,"3,3","€6,91"
-Torrelongares,Rosado 2022,"3,1","€6,82"
-Cruz del Castillo,Los Patos Superior Bobal 2023,"3,5","€6,59"
-Bodegas Parra Jimenez,Camino Rosado 2023,"3,3","€3,75"
-Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2018,"3,6","€6,36"
+hyperlink,Brand,Wine,Rating,Price,Timestamps
+/NL/nl/jean-leon-thirty-fiftyfive-rose/w/1567205?year=2023&price_id=36453641,Jean Leon,3055 Rosé 2023,"3,7","€15,95",1727909338.7366407
+/NL/nl/dinastia-vivanco-tempranillo-garnacha-tinta-y-blanca-rioja/w/6412920?year=2022&price_id=36313637,Vivanco,Tempranillo - Garnacha Tinta y Blanca 2022,"3,6","€15,20",1727909338.7377172
+/NL/nl/pago-del-vicario-petit-verdot-rosado/w/16924?year=2023&price_id=36647594,Pago del Vicario,Petit Verdot Rosado 2023,"3,8",€10,1727909338.7387388
+/NL/nl/armas-de-guerra-rosado-mencia/w/2437710?year=2022&price_id=33317716,Armas de Guerra,Rosado Mencía 2022,"3,8","€7,95",1727909338.7397575
+/NL/nl/bodegas-care-rosado/w/1261831?year=2023&price_id=35336772,Bodegas Care,Rosado 2023,"3,7","€8,25",1727909338.7408664
+/NL/nl/dominio-del-aguila-picaro-del-aguila-clarete/w/5009547?year=2022&price_id=37140939,Dominio del Águila,Pícaro del Águila Clarete 2022,"4,1","€43,51",1727909338.7419813
+/NL/nl/dominio-de-eguren-protocolo-rosado/w/9398?year=2023&price_id=35368516,Dominio de Eguren,Protocolo Rosado 2023,"3,5","€7,75",1727909338.7431023
+/NL/nl/bodegas-care-solidarity-rose/w/2402354?year=2023&price_id=35336770,Bodegas Care,Solidarity Rosé 2023,"3,7","€8,50",1727909338.744232
+/NL/nl/ibizkus-rosado/w/1730446?year=2023&price_id=36591074,Ibizkus,Rosado 2023,"3,7","€24,95",1727909338.744232
+/NL/nl/hispano-suizas-impromptu-rose/w/3228374?year=2023&price_id=37058680,Hispano Suizas,Impromptu Rosé 2023,"4,0","€28,95",1727909338.7464325
+/NL/nl/celler-del-roure-les-prunes-les-filles-d-amalia-blanc-de-mando-comunitat-valenciana/w/6545671?year=2021&price_id=31965429,Celler del Roure,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2021,"3,8","€11,50",1727909338.7474477
+/NL/nl/belondrade-quinta-clarisa-belondrade/w/1238913?year=2023&price_id=35519883,Belondrade,Quinta Clarisa Belondrade 2023,"3,6","€18,95",1727909338.748461
+/NL/nl/barinas-rosado/w/2546040?year=2023&price_id=35836118,Barinas,Rosado 2023,"3,9","€6,50",1727909338.749596
+/NL/nl/franck-massard-mas-amor-rosado/w/1229814?year=2019&price_id=29979185,Franck Massard,Mas Amor Rosado 2019,"3,4","€12,97",1727909338.7507205
+/NL/nl/escabeces-rose/w/6377394?year=2021&price_id=34932038,Escabeces,Rosé 2021,"3,7","€18,95",1727909338.751329
+/NL/nl/el-coto-rosado/w/2034549?year=2018&price_id=21523488,El Coto,Rosado 2018,"3,3","€7,50",1727909338.7518337
+/NL/nl/ramon-bilbao-rioja-rosado/w/1251649?year=2022&price_id=35833773,Ramón Bilbao,Rioja Rosado 2022,"3,8","€12,90",1727909338.752959
+/NL/nl/pacheco-rosado/w/2125332?year=2021&price_id=29771520,Pacheco,Rosado 2021,"3,3","€9,45",1727909338.7540843
+/NL/nl/marques-del-turia-rose/w/1601983?year=2023&price_id=34866959,Marqués del Turia,Rosé 2023,"3,3","€5,95",1727909338.7551012
+/NL/nl/bodegas-care-rosado/w/1261831?year=2022&price_id=33329737,Bodegas Care,Rosado 2022,"3,6","€8,25",1727909338.7562394
+/NL/nl/muga-muga-rosado/w/7490?year=2023&price_id=36281231,Muga,Muga Rosado 2023,"3,9","€11,17",1727909338.7572553
+/NL/nl/latido-115866-garnacha-rose/w/4285702?year=2022&price_id=35453818,Latido de Sara,Garnacha Rosé 2022,"3,7","€9,75",1727909338.7583795
+/NL/nl/binigrau-b-rosat/w/7085184?year=2023&price_id=36292403,Binigrau,B Rosat 2023,"4,3","€26,95",1727909338.7594986
+/NL/nl/linea-karman-clarete/w/9611976?year=2023&price_id=36606617,Linea Kármán,Clarete 2023,"3,9","€11,50",1727909338.7594986
+/NL/nl/hernando-y-sourdais-le-rose/w/3597822?year=2019&price_id=25297470,Antídoto,Le Rosé 2019,"4,3","€66,45",1727909338.7606044
+/NL/nl/can-axartell-rosado-mallorca/w/4626739?year=2022&price_id=33014480,Can Axartell,Rosado 2022,"4,2","€14,95",1727909338.7618377
+/NL/nl/frisach-l-abrunet-rosado/w/5029747?year=2022&price_id=35836434,Celler Frisach,L'Abrunet Rosado 2022,"3,6","€12,95",1727909338.762854
+/NL/nl/nebla-verdejo-rose-comunitat-valenciana/w/9271676?year=2023&price_id=36687558,Nebla,Verdejo Rosé 2023,"3,6","€7,95",1727909338.763878
+/NL/nl/sara-perez-y-rene-barbier-priorat-partida-pedrer-rosat/w/4995161?year=2021&price_id=34931485,Sara Pérez y René Barbier,Priorat Partida Pedrer Rosat 2021,"4,1","€36,95",1727909338.7648938
+/NL/nl/vermador-monastrell-rose/w/4399749?year=2022&price_id=33321114,Vermador,Monastrell Rosé 2022,"3,3","€7,95",1727909338.766017
+/NL/nl/azul-y-garanza-naturaleza-salvaje-clarete/w/10039768?year=2021&price_id=36636910,Azul y Garanza,Naturaleza Salvaje Clarete 2021,"4,0","€18,50",1727909338.7671301
+/NL/nl/marques-de-riscal-rosado/w/1163699?year=2022&price_id=34479912,Marqués de Riscal,Rosado 2022,"3,6","€11,95",1727909338.7682486
+/NL/nl/seoro-de-iniesta-bobal-rose/w/1766077?year=2023&price_id=35293713,Señorío de Iniesta,Bobal Rosé 2023,"3,6","€7,95",1727909338.769371
+/NL/nl/es-pinoso-almorqui-rose/w/8162547?year=2023&price_id=35241703,La Bodega de Pinoso,Almorquí Rosé 2023,"3,9","€8,95",1727909338.769371
+/NL/nl/brana-vieja-rosado/w/1484868?year=2023&price_id=35841776,Braña Vieja,Rosado 2023,"3,4","€6,95",1727909338.7704976
+/NL/nl/entre-vinyes-oniric-rosat/w/4353084?year=2023&price_id=36481246,Entre Vinyes,Oníric Rosat 2023,"3,6","€9,95",1727909338.7725031
+/NL/nl/winery-on-creations-demuerte-rose/w/10520945?year=2023&price_id=36170632,Winery On Creations,Demuerte Rosé 2023,"4,0","€12,95",1727909338.7740464
+/NL/nl/ramon-bilbao-rioja-rosado/w/1251649?year=2023&price_id=36371910,Ramón Bilbao,Rioja Rosado 2023,"3,7","€9,95",1727909338.7750695
+/NL/nl/scala-dei-pla-dels-angels-rosado/w/3387477?year=2021&price_id=29541902,Scala Dei,Pla dels Àngels Rosado 2021,"4,2","€37,99",1727909338.776181
+/NL/nl/el-coto-rosado/w/2034549?year=2023&price_id=36710085,El Coto,Rosado 2023,"3,5","€7,95",1727909338.77723
+/NL/nl/hernando-y-sourdais-roselito/w/3508744?year=2022&price_id=33405461,Antídoto,Roselito 2022,"3,9","€14,35",1727909338.7782736
+/NL/nl/can-axartell-rosado-mallorca/w/4626739?year=2023&price_id=35515632,Can Axartell,Rosado 2023,"4,2","€14,95",1727909338.7793078
+/NL/nl/valdelacierva-rose/w/5727802?year=2022&price_id=35863685,Valdelacierva,Rosé 2022,"3,8","€8,75",1727909338.7808805
+/NL/nl/nube-de-leza-garcia-rose/w/6721563?year=2023&price_id=37016963,Nube de Leza García,Rosé 2023,"3,8","€12,80",1727909338.78246
+/NL/nl/scala-dei-pla-dels-angels-rosado/w/3387477?year=2022&price_id=32992536,Scala Dei,Pla dels Àngels Rosado 2022,"4,1","€39,49",1727909338.7835124
+/NL/nl/born-rose-barcelona-born-rose/w/7199750?year=2022&price_id=32712423,Born Rosé Barcelona,Born Rosé 2022,"3,9","€14,50",1727909338.7846544
+/NL/nl/yuntero-ortiga-tempranillo-rosado/w/5674375?year=2023&price_id=36499233,Bodegas Yuntero,Ortiga Tempranillo Rosado 2023,"3,4","€5,50",1727909338.7856688
+/NL/nl/es-laus-rosado/w/2618149?year=2022&price_id=35392952,Laus,Rosado 2022,"3,8","€7,25",1727909338.7856688
+/NL/nl/yuntero-mundo-de-yuntero-tempranillo-rosado/w/7735666?year=2023&price_id=36499206,Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2023,"3,5","€5,95",1727909338.7867095
+/NL/nl/yuntero-mundo-de-yuntero-tempranillo-rosado/w/7735666?year=2019&price_id=30903449,Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2019,"3,5","€6,01",1727909338.7887473
+/NL/nl/sierra-cantabria-156664-xf-rosado/w/9399348?year=2022&price_id=32700640,Sierra Cantabria,XF Rosado 2022,"4,1",€55,1727909338.7897627
+/NL/nl/covinas-aula-bobal-rosado/w/7157775?year=2023&price_id=36688723,Coviñas,Aula Bobal Rosado 2023,"3,7",€15,1727909338.7907696
+/NL/nl/covinas-aula-bobal-rosado/w/7157775?year=2022&price_id=35612618,Coviñas,Aula Bobal Rosado 2022,"3,7",€15,1727909338.791889
+/NL/nl/pares-balta-syrah-radix-rose/w/1750122?year=2022&price_id=35911588,Parés Baltà,Syrah Radix Rosé 2022,"4,2","€31,40",1727909338.792904
+/NL/nl/rodriguez-sanzo-gotas-de-noche-rose/w/9880584?year=2022&price_id=36265095,Rodríguez Sanzo,Gotas de Noche Rosé 2022,"4,1","€19,95",1727909338.7940183
+/NL/nl/enate-cabernet-sauvignon-rosado/w/1829739?year=2023&price_id=35661867,Enate,Cabernet Sauvignon Rosado 2023,"4,0","€13,25",1727909338.7940183
+/NL/nl/alsina-sarda-merlot-de-llagrima/w/3147515?year=2020&price_id=33612390,Alsina & Sarda,Merlot de Llàgrima 2020,"3,2","€7,50",1727909338.7961535
+/NL/nl/la-sastreria-garnacha-rose/w/5424817?year=2023&price_id=35504508,La Sastrería,Garnacha Rosé 2023,"3,5","€7,95",1727909338.7971692
+/NL/nl/ibizkus-can-basso-rosado/w/7160433?year=2023&price_id=36591077,Ibizkus,Can Bassó Rosado 2023,"3,5","€13,95",1727909338.7981842
+/NL/nl/bodegas-felix-callejo-vina-pilar-clarete/w/8895382?year=2020&price_id=32523024,Callejo,Vina Pilar Clarete 2020,"3,9","€55,40",1727909338.7993069
+/NL/nl/u-mes-u-anais-rose/w/7354950?year=2021&price_id=30132715,U MES U,Anais Rosé 2021,"3,8","€10,95",1727909338.8004348
+/NL/nl/clos-montblanc-castillo-d-montblanc-rosato/w/16134?year=2022&price_id=36545053,Clos Montblanc,Castell Rosat 2022,"3,4","€8,50",1727909338.8004348
+/NL/nl/jose-pariente-victoria-rosado/w/10704049?year=2022&price_id=32424906,José Pariente,Victoria Rosado 2022,"3,9","€14,95",1727909338.8015723
+/NL/nl/bodegas-latue-clearly-organic-tempranillo-rose/w/3693094?year=2023&price_id=35885272,Bodegas Latúe,Clearly Organic Tempranillo Rosé 2023,"3,3","€6,45",1727909338.8026972
+/NL/nl/bodegas-latue-clearly-organic-tempranillo-rose/w/3693094?year=2022&price_id=33551679,Bodegas Latúe,Clearly Organic Tempranillo Rosé 2022,"3,3","€6,45",1727909338.8038192
+/NL/nl/ribas-ribas-rosat/w/2496602?year=2020&price_id=30096868,Bodega Ribas,Ribas Rosat 2020,"4,0","€39,95",1727909338.8048344
+/NL/nl/puro-rofe-mentidero/w/9474768?year=2021&price_id=34931559,Puro Rofe,Mentidero 2021,"3,8","€43,95",1727909338.8048344
+/NL/nl/wine-wings-garnacha-rose/w/4746583?year=2019&price_id=33518186,Wine Wings,Garnacha Rosé 2019,"3,7","€20,90",1727909338.8058553
+/NL/nl/cueva-del-chaman-rosado-syrah/w/8359676?year=2023&price_id=36008504,Cueva del Chamán,Rosado Syrah 2023,"4,0","€9,95",1727909338.8069367
+/NL/nl/el-coto-garnacha-seleccion-vinedos/w/8732907?year=2023&price_id=36281161,El Coto,Garnacha Selección Viñedos 2023,"3,9","€11,17",1727909338.8069367
+/NL/nl/bodegas-marques-de-caceres-excellens-rose/w/2202782?year=2023&price_id=36867166,Bodegas Marqués de Cáceres,Excellens Rosé 2023,"3,9","€9,95",1727909338.8089824
+/NL/nl/bodegas-vilano-think-pink-rosado-ribera-del-duero/w/5664517?year=2023&price_id=35621954,Bodegas Vilano,Think Pink Rosado 2023,"4,1","€11,50",1727909338.8089824
+/NL/nl/casa-rojo-haru/w/6347822?year=2022&price_id=32255121,Casa Rojo,Haru 2022,"4,0","€18,25",1727909338.8105936
+/NL/nl/el-gourmet-rosalina-campo-de-borja/w/5508975?year=2023&price_id=36507434,El Gourmet,Rosalina 2023,"3,2","€8,93",1727909338.8111567
+/NL/nl/celler-del-roure-les-prunes-les-filles-d-amalia-blanc-de-mando-comunitat-valenciana/w/6545671?year=2022&price_id=37130605,Celler del Roure,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2022,"3,7","€15,75",1727909338.8121986
+/NL/nl/clos-mogador-gratallops-priorat-rosat/w/12288015?year=2021&price_id=35317231,Clos Mogador,Gratallops Priorat Rosat 2021,"4,2","€39,95",1727909338.8142302
+/NL/nl/sierra-cantabria-156664-rosado/w/3293066?year=2022&price_id=32700641,Sierra Cantabria,Rosado 2022,"3,7","€11,50",1727909338.8152487
+/NL/nl/born-rose-barcelona-born-rose/w/7199750?year=2023&price_id=35691756,Born Rosé Barcelona,Born Rosé 2023,"4,0","€14,95",1727909338.8162637
+/NL/nl/familia-torres-de-casta-rosado/w/2634?year=2023&price_id=36129977,Familia Torres,De Casta Rosado 2023,"3,7","€8,75",1727909338.8172927
+/NL/nl/familia-torres-vina-esmeralda-rosado/w/4096075?year=2023&price_id=36930059,Familia Torres,Viña Esmeralda Rosado 2023,"4,0","€10,95",1727909338.8172927
+/NL/nl/hammeken-cellars-mirada-organic-rose-la-mancha/w/9676287?year=2022&price_id=36135981,Hammeken Cellars,Mirada Organic Rosé 2022,"3,8","€18,19",1727909338.8183336
+/NL/nl/bodega-de-liedena-liskar-rosado/w/9843739?year=2021&price_id=35911338,Bodega de Liédena,Liskar Rosado 2021,"3,6","€20,30",1727909338.8193889
+/NL/nl/la-chita-iwazaru/w/10813827?year=2022&price_id=33682572,La Chita,Iwazaru 2022,"3,3","€6,95",1727909338.820417
+/NL/nl/inurrieta-mediodia-rosado/w/2443822?year=2023&price_id=36281174,Inurrieta,Mediodía Rosado 2023,"3,7","€7,81",1727909338.8219247
+/NL/nl/candidato-rosado/w/74438?year=2019&price_id=22222494,Candidato,Rosado 2019,"3,2","€8,95",1727909338.8219247
+/NL/nl/sierra-cantabria-156664-xf-rosado/w/9399348?year=2023&price_id=35368517,Sierra Cantabria,XF Rosado 2023,"4,1","€25,85",1727909338.8241086
+/NL/nl/castillo-de-mendoza-rosado-ecologico/w/7393716?year=2022&price_id=36601263,Castillo de Mendoza,Rosado Ecológico 2022,"3,8","€11,95",1727909338.8251383
+/NL/nl/castillo-de-mendoza-rosado-ecologico/w/7393716?year=2019&price_id=36601262,Castillo de Mendoza,Rosado Ecológico 2019,"3,8","€10,95",1727909338.826159
+/NL/nl/bodega-de-liedena-liskar-rosado/w/9843739?year=2020&price_id=26046926,Bodega de Liédena,Liskar Rosado 2020,"3,7","€20,30",1727909338.826159
+/NL/nl/dominio-de-otero-tempranillo-rose/w/7428614?year=2022&price_id=33612400,Dominio de Otero,Tempranillo Rosé 2022,"3,6",€7,1727909338.8271685
+/NL/nl/dominio-de-otero-tempranillo-rose/w/7428614?year=2023&price_id=36293640,Dominio de Otero,Tempranillo Rosé 2023,"3,6","€7,95",1727909338.8271685
+/NL/nl/born-rose-barcelona-fivehundredthree/w/9735689?year=2020&price_id=32906252,Born Rosé Barcelona,503 2020,"4,1","€24,50",1727909338.8281922
+/NL/nl/u-mes-u-dahlia-rosado/w/3847531?year=2022&price_id=32157345,U MES U,Dahlia Rosado 2022,"4,0","€14,50",1727909338.8281922
+/NL/nl/es-vina-real-rioja-rosado/w/3614008?year=2023&price_id=36281172,Viña Real,Rioja Rosado 2023,"3,7","€10,05",1727909338.8292315
+/NL/nl/bendito-destino-clarete/w/10941864?year=2021&price_id=33891889,Bendito Destino,Clarete 2021,"4,2","€73,10",1727909338.8307743
+/NL/nl/marta-mate-rosado/w/5892782?year=2022&price_id=32995671,Marta Maté,Rosado 2022,"3,9","€21,50",1727909338.8323224
+/NL/nl/familia-torres-natureo-syrah-cabernet-sauvignon-rosado/w/5311116?year=2022&price_id=34726774,Familia Torres,Natureo Syrah - Cabernet Sauvignon Rosado 2022,"3,3","€9,99",1727909338.833454
+/NL/nl/rodriguez-de-vera-rosado/w/10912508?year=2022&price_id=36740954,Rodríguez de Vera,Rosado 2022,"4,0","€14,95",1727909338.8345942
+/NL/nl/santo-cristo-flor-de-anon-rosado/w/6417504?year=2022&price_id=36394558,Santo Cristo,Flor de Añón Rosado 2022,"3,5","€5,95",1727909338.8357227
+/NL/nl/oriol-artigas-cuvee-total/w/10582108?year=2020&price_id=32524552,Oriol Artigas,# Cuvée Total 2020,"3,9","€55,40",1727909338.8357227
+/NL/nl/baron-de-ley-rioja-rosado/w/1149020?year=2023&price_id=36281213,Baron de Ley,Rioja Rosado 2023,"3,7","€7,25",1727909338.8378718
+/NL/nl/autentico-utiel-requena-organic-rosado/w/8862258?year=2023&price_id=36775234,Autentico,Organic Rosado 2023,"3,5","€5,49",1727909338.8389535
+/NL/nl/terra-remota-caminito/w/2385223?year=2021&price_id=30103231,Terra Remota,Caminito 2021,"3,9","€21,95",1727909338.8404996
+/NL/nl/covinca-scoop-tempranillo-garnacha-rose/w/5296272?year=2018&price_id=23793798,Viña Oria,Tempranillo - Garnacha Rosé 2018,"3,4","€6,95",1727909338.8410223
+/NL/nl/ribas-ribas-rosat/w/2496602?year=2023&price_id=36542908,Bodega Ribas,Ribas Rosat 2023,"3,8","€21,95",1727909338.8420877
+/NL/nl/yuntero-mundo-de-yuntero-tempranillo-rosado/w/7735666?year=2020&price_id=28901478,Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2020,"3,3","€5,95",1727909338.8432016
+/NL/nl/muga-flor-de-muga-rosado/w/5513425?year=2023&price_id=37046915,Muga,Flor de Muga Rosado 2023,"4,0","€24,49",1727909338.8443186
+/NL/nl/vicente-gandia-pla-bobal-rosa/w/10629278?year=2023&price_id=35691745,Vicente Gandía,Bobal Rosa 2023,"4,0","€11,95",1727909338.8443186
+/NL/nl/bodega-bravo-escos-bravo/w/9587590?year=2022&price_id=34372411,Bodega Bravo Escós,Bravo 2022,"3,5","€18,95",1727909338.8464665
+/NL/nl/bio-nius-organic-bobal-rose/w/9842650?year=2023&price_id=35627907,Nius,Organic Bobal Rosé 2023,"3,7","€8,25",1727909338.8475237
+/NL/nl/ostatu-rioja-rose/w/1606786?year=2023&price_id=35911681,Ostatu,Rioja Rosé 2023,"3,8",€13,1727909338.84854
+/NL/nl/murviedro-audentia-cabernet-sauvignon-rose/w/7149664?year=2023&price_id=35548225,Murviedro,Audentia Cabernet Sauvignon Rosé 2023,"3,8","€7,95",1727909338.8496783
+/NL/nl/pago-de-araiz-navarra-rosado/w/4588370?year=2022&price_id=35911449,Pagos de Aráiz,Navarra Rosado 2022,"3,7","€10,95",1727909338.8507864
+/NL/nl/valenciso-rioja-rose/w/2717000?year=2022&price_id=35095697,VALENCISO,Rioja Rose 2022,"4,0","€23,25",1727909338.851917
+/NL/nl/mesta-organic-tempranillo-rose/w/2342434?year=2023&price_id=35913929,Mesta,Organic Tempranillo Rosé 2023,"3,5","€5,22",1727909338.8530376
+/NL/nl/soto-y-manrique-naranjas-azules-garnacha-rosado/w/2348849?year=2023&price_id=35890234,Soto y Manrique,Naranjas Azules Garnacha Rosado 2023,"3,6","€8,95",1727909338.8530376
+/NL/nl/bodegas-faustino-v-rosado/w/1310185?year=2023&price_id=35500952,Bodegas Faustino,V Rosado 2023,"3,4","€7,65",1727909338.8552816
+/NL/nl/bodegas-valdemar-conde-de-valdemar-rosado/w/1815410?year=2023&price_id=36160593,Bodegas Valdemar,Conde de Valdemar Rosado 2023,"3,6",€9,1727909338.8573503
+/NL/nl/bach-29524-vina-extrisima-rosado/w/1212630?year=2023&price_id=35500955,Bach,Viña Extrísima Rosado 2023,"3,4","€9,14",1727909338.858479
+/NL/nl/vinas-del-vero-luces-tempranillo-merlot-syrah-rosado/w/3303841?year=2023&price_id=35883350,Viñas del Vero,Luces Tempranillo - Merlot - Syrah Rosado 2023,"3,5","€6,26",1727909338.8596175
+/NL/nl/sierra-cantabria-156664-rosado/w/3293066?year=2023&price_id=35506714,Sierra Cantabria,Rosado 2023,"3,7","€9,29",1727909338.8613586
+/NL/nl/dominio-de-eguren-protocolo-rosado/w/9398?year=2022&price_id=34306516,Dominio de Eguren,Protocolo Rosado 2022,"3,5","€8,30",1727909338.861865
+/NL/nl/es-macia-batle-rosado/w/77639?year=2023&price_id=35774250,Macià Batle,Rosado 2023,"3,7","€10,42",1727909338.8638906
+/NL/nl/muga-muga-rosado/w/7490?year=2021&price_id=31617798,Muga,Muga Rosado 2021,"3,9","€11,90",1727909338.8649175
+/NL/nl/bodegas-franco-espanolas-diamante-semi-dulce-rosado/w/1100361?year=2019&price_id=21748976,Bodegas Franco-Españolas,Diamante Semi-Dulce Rosado 2019,"3,7","€6,95",1727909338.8660462
+/NL/nl/celler-de-capcanes-mas-donis-rosat-montsant/w/1658874?year=2023&price_id=36573793,Celler de Capçanes,Mas Donis Rosat Montsant 2023,"3,5","€7,60",1727909338.8671784
+/NL/nl/familia-torres-mas-rabell-rosado/w/26034?year=2023&price_id=36540081,Familia Torres,Mas Rabell Rosado 2023,"3,7","€7,42",1727909338.8682635
+/NL/nl/ramon-bilbao-rioja-rosado/w/1251649?year=2021&price_id=35355797,Ramón Bilbao,Rioja Rosado 2021,"3,8","€8,30",1727909338.869441
+/NL/nl/castillo-de-maetierra-libalis-rose/w/99083?year=2023&price_id=36927032,Castillo de Maetierra,Libalis Rosé 2023,"3,6","€11,22",1727909338.8719168
+/NL/nl/ramon-bilbao-lalomba-rosado/w/4581119?year=2022&price_id=33444995,Ramón Bilbao,LaLomba Rosado 2022,"3,9","€30,98",1727909338.8729548
+/NL/nl/es-iniesta-corazon-loco-rosado/w/1836150?year=2023&price_id=36706360,Bodega Iniesta,Corazón Loco Rosado 2023,"3,2","€12,26",1727909338.8750446
+/NL/nl/rene-barbier-tradicion-rosado/w/65774?year=2022&price_id=34497762,René Barbier,Tradición Rosado 2022,"3,1","€8,68",1727909338.8761728
+/NL/nl/dominio-dostares-tombu-prieto-picudo/w/1231561?year=2023&price_id=36283256,Dominio Dostares,Tombú Prieto Picudo 2023,"3,6","€9,40",1727909338.8772924
+/NL/nl/castillo-perelada-emporda-jardins-rose/w/1660465?year=2022&price_id=31484802,Castillo Perelada,Empordà Jardins Rosé 2022,"3,4","€11,16",1727909338.8784187
+/NL/nl/castell-miquel-stairway-to-heaven-rosado/w/1197284?year=2023&price_id=35412954,Castell Miquel,Stairway To Heaven Rosado 2023,"3,9","€16,26",1727909338.8794873
+/NL/nl/frisach-les-alifares/w/7421039?year=2022&price_id=35571596,Celler Frisach,Les Alifares 2022,"3,9","€21,10",1727909338.8810005
+/NL/nl/chivite-comunidad-foral-de-navarra-navarra-coleccion-125-rosado/w/1183390?year=2022&price_id=36021612,Chivite,Navarra Coleccion 125 Rosado 2022,"4,1","€27,10",1727909338.8815053
+/NL/nl/ramon-canals-canals-fragancia-de-marta/w/4422694?year=2023&price_id=36334514,Canals Canals,Fragància de Marta 2023,"4,2","€10,90",1727909338.88263
+/NL/nl/bodegas-castelo-de-medina-castelo-rose/w/1611355?year=2023&price_id=35510439,Bodegas Castelo de Medina,Castelo Rosé 2023,"3,7","€8,80",1727909338.8837533
+/NL/nl/bodega-otazu-otazu-tempranillo-rose/w/4851821?year=2022&price_id=33698717,Bodega Otazu,Otazu Tempranillo Rosé 2022,"3,8","€10,10",1727909338.885947
+/NL/nl/pago-de-araiz-navarra-rosado/w/4588370?year=2023&price_id=35232830,Pagos de Aráiz,Navarra Rosado 2023,"3,7","€8,50",1727909338.8870685
+/NL/nl/vergel-family-rose/w/1376110?year=2022&price_id=36577798,Vergel,Rosado 2022,"3,6","€6,69",1727909338.8891435
+/NL/nl/avgvstvs-rosat/w/2528968?year=2022&price_id=33142201,Avgvstvs,Rosat 2022,"3,7","€12,73",1727909338.8901596
+/NL/nl/huerta-de-albala-barbazul-rosado/w/1978024?year=2023&price_id=36443229,Huerta de Albala,Barbazul Rosado 2023,"3,7","€10,10",1727909338.891194
+/NL/nl/acustic-celler-acustic-rosat/w/1913620?year=2023&price_id=35023694,Acustic Celler,Acústic Rosat 2023,"3,8","€11,20",1727909338.8922627
+/NL/nl/vinas-del-vero-tempranillo-cabernet-sauvignon-rosado/w/1699180?year=2023&price_id=36775157,Viñas del Vero,Tempranillo - Cabernet Sauvignon Rosado 2023,"3,3","€7,29",1727909338.893326
+/NL/nl/es-laus-rosado/w/2618149?year=2023&price_id=35347802,Laus,Rosado 2023,"3,6","€5,65",1727909338.8943777
+/NL/nl/can-rafols-dels-caus-petit-caus-rosat/w/2391652?year=2022&price_id=32679213,Can Ràfols dels Caus,Petit Caus Rosat 2022,"3,4","€13,31",1727909338.8954275
+/NL/nl/raul-perez-los-arrotos-del-pendon-rosado/w/9719527?year=2023&price_id=36110452,Raúl Pérez,Los Arrotos del Pendón Rosado 2023,"3,8","€9,35",1727909338.8964765
+/NL/nl/nekeas-rosado-de-lagrima/w/95431?year=2023&price_id=35143309,Bodegas Nekeas,Rosado de Lágrima 2023,"3,3",€7,1727909338.898539
+/NL/nl/familia-torres-vina-esmeralda-rosado/w/4096075?year=2022&price_id=35536004,Familia Torres,Viña Esmeralda Rosado 2022,"3,8","€6,99",1727909338.900594
+/NL/nl/enate-cabernet-sauvignon-rosado/w/1829739?year=2021&price_id=33564196,Enate,Cabernet Sauvignon Rosado 2021,"4,0","€10,95",1727909338.9011018
+/NL/nl/el-paso-del-lazo-tempranillo-rose/w/4807864?year=2023&price_id=35586047,El Paso del Lazo,Tempranillo Rosé 2023,"3,3","€4,95",1727909338.9021058
+/NL/nl/altanza-rosado/w/22137?year=2022&price_id=32911200,Altanza,Rosado 2022,"3,6","€11,23",1727909338.904187
+/NL/nl/torre-oria-mare-meua-pinot-noir/w/9863007?year=2023&price_id=36082230,Torre Oria,Mare Meua Pinot Noir 2023,"3,7","€5,95",1727909338.9072804
+/NL/nl/gramona-mart-xarel-lo-vermell-penedes/w/5645872?year=2022&price_id=31740856,Gramona,Mart Xarel-lo Vermell 2022,"4,1","€17,57",1727909338.9083169
+/NL/nl/barbara-fores-rosat/w/2286010?year=2023&price_id=36377809,Bàrbara Forés,Rosat 2023,"3,5","€9,20",1727909338.9103746
+/NL/nl/inurrieta-coral-rosado-comunidad-foral-de-navarra-rose-wine/w/5593354?year=2023&price_id=36620988,Inurrieta,Coral Rosado 2023,"3,7","€7,15",1727909338.9114318
+/NL/nl/familia-torres-de-casta-rosado/w/2634?year=2022&price_id=32408629,Familia Torres,De Casta Rosado 2022,"3,5","€9,33",1727909338.9135277
+/NL/nl/nuviana-veranza-cabernet-sauvignon-tempranillo-rosado/w/1272678?year=2022&price_id=34567915,Nuviana,Veranza Cabernet Sauvignon - Tempranillo Rosado 2022,"3,2","€4,90",1727909338.914546
+/NL/nl/vinas-de-miedes-viejas-garnacha-rosado/w/4191161?year=2023&price_id=36032163,Miedes,Garnacha Rosado 2023,"3,4","€5,90",1727909338.915623
+/NL/nl/celler-de-capcanes-peraj-petita-rosat-montsant/w/1892928?year=2023&price_id=37074133,Celler de Capçanes,Peraj Petita Rosat Montsant 2023,"3,7","€11,95",1727909338.9166336
+/NL/nl/piedemonte-garnacha-rosado-comunidad-foral-de-navarra/w/7572753?year=2023&price_id=36856120,Bodegas Piedemonte,Garnacha Rosado 2023,"3,4","€7,25",1727909338.9176512
+/NL/nl/pardevalles-prieto-picudo-rosado/w/4088554?year=2023&price_id=35965485,Pardevalles,Prieto Picudo Rosado 2023,"3,7","€8,30",1727909338.9186804
+/NL/nl/ramon-roqueta-cabernet-sauvignon-garnacha-rosado/w/1160091?year=2023&price_id=35898420,Ramón Roqueta,Cabernet Sauvignon - Garnacha Rosado 2023,"3,3","€7,95",1727909338.920767
+/NL/nl/ramon-roqueta-cabernet-sauvignon-garnacha-rosado/w/1160091?year=2020&price_id=24334461,Ramón Roqueta,Cabernet Sauvignon - Garnacha Rosado 2020,"3,3","€6,70",1727909338.9219315
+/NL/nl/hammeken-cellars-mirada-organic-rose-la-mancha/w/9676287?year=2023&price_id=36138559,Hammeken Cellars,Mirada Organic Rosé 2023,"3,9","€9,35",1727909338.9239776
+/NL/nl/victorianas-don-hugo-tempranillo-rosado/w/1536830?year=2019&price_id=22430724,Bodegas Victorianas,Don Hugo Tempranillo Rosado 2019,"2,9","€6,35",1727909338.9250112
+/NL/nl/victorianas-don-hugo-tempranillo-rosado/w/1536830?year=2020&price_id=25135659,Bodegas Victorianas,Don Hugo Tempranillo Rosado 2020,"2,9","€6,66",1727909338.9260526
+/NL/nl/el-meson-rioja-rosado/w/1574646?year=2023&price_id=35573905,El Meson,Rioja Rosado 2023,"3,4","€5,79",1727909338.9271808
+/NL/nl/alceno-monastrell-rose-jumilla/w/2365909?year=2017&price_id=33050030,Alceño,Monastrell Rosé 2017,"3,7","€8,51",1727909338.928302
+/NL/nl/frisach-l-abrunet-rosado/w/5029747?year=2023&price_id=35143047,Celler Frisach,L'Abrunet Rosado 2023,"3,6","€8,45",1727909338.9293566
+/NL/nl/alta-alella-parvus-rose/w/1373492?year=2021&price_id=32351353,Alta Alella,Parvus Rosé 2021,"3,6","€14,55",1727909338.9316447
+/NL/nl/venus-la-universal-dido-la-solucio-rosa/w/5479963?year=2021&price_id=36917375,Venus la Universal,Dido La Solució Rosa 2021,"4,1","€27,95",1727909338.9336863
+/NL/nl/es-espelt-lledoner-rosat/w/1795806?year=2022&price_id=31963831,Espelt,Lledoner Rosat 2022,"3,5","€11,70",1727909338.9357574
+/NL/nl/el-grifo-rosado/w/2811170?year=2022&price_id=31332770,El Grifo,Rosado 2022,"3,4","€27,95",1727909338.9367993
+/NL/nl/nebla-verdejo-rose-comunitat-valenciana/w/9271676?year=2022&price_id=36552555,Nebla,Verdejo Rosé 2022,"3,6","€7,90",1727909338.9378161
+/NL/nl/vermador-monastrell-rose/w/4399749?year=2021&price_id=28523302,Vermador,Monastrell Rosé 2021,"3,3","€5,19",1727909338.9404142
+/NL/nl/el-coto-rosado/w/2034549?year=2022&price_id=35392474,El Coto,Rosado 2022,"3,4","€5,95",1727909338.9409523
+/NL/nl/mas-llunes-maragda-rosa/w/2361964?year=2022&price_id=31759214,Mas Llunes,Maragda Rosa 2022,"3,5","€12,39",1727909338.942007
+/NL/nl/enate-cabernet-sauvignon-rosado/w/1829739?year=2022&price_id=32852000,Enate,Cabernet Sauvignon Rosado 2022,"4,0","€12,95",1727909338.943033
+/NL/nl/mesquida-mora-sincronia-rosat/w/4465091?year=2022&price_id=32867657,Mesquida Mora,Sincronia Rosat 2022,"3,6","€13,49",1727909338.944057
+/NL/nl/herencia-altes-garnatxa-negra-rosat/w/4173001?year=2023&price_id=35217248,Herència Altés,Garnatxa Negra Rosat 2023,"3,6","€11,95",1727909338.946136
+/NL/nl/osborne-solaz-rosado/w/2621008?year=2023&price_id=36869160,Osborne,Solaz Rosado 2023,"3,5","€8,37",1727909338.946136
+/NL/nl/la-casa-de-luculo-catulo-rosado/w/5527392?year=2023&price_id=35650403,La Casa de Lúculo,Cátulo Rosado Garnacha 2023,"3,6","€8,99",1727909338.9482143
+/NL/nl/parato-pinot-noir-rose/w/1833743?year=2023&price_id=34868502,Parató,Pinot Noir Rosé 2023,"3,7","€7,95",1727909338.9502563
+/NL/nl/castellana-tempranillo-rose/w/6332785?year=2022&price_id=32924394,Cuatro Rayas,Tempranillo Rosé 2022,"3,7","€7,95",1727909338.951345
+/NL/nl/marco-real-comunidad-foral-de-navarra-garnacha-rosado/w/5365133?year=2022&price_id=32987552,Marco Real,Garnacha Rosado 2022,"3,5","€7,45",1727909338.9527228
+/NL/nl/martin-faixo-perafita-rosat-empord/w/4626402?year=2022&price_id=33142208,Martín Faixó,Perafita Rosat 2022,"3,9","€17,02",1727909338.953752
+/NL/nl/camina-tempranillo-rose/w/4901740?year=2022&price_id=36276869,Camina,Tempranillo Rosé 2022,"3,3","€6,25",1727909338.9547935
+/NL/nl/conde-pinel-rose/w/2638506?year=2023&price_id=36037719,Conde Pinel,Rosé 2023,"3,5",€4,1727909338.9558113
+/NL/nl/es-montecillo-rioja-rosado/w/1217321?year=2022&price_id=33349705,Montecillo,Rioja Rosado 2022,"3,5","€12,15",1727909338.9568522
+/NL/nl/luzon-coleccion-rosado-jumilla/w/6345503?year=2022&price_id=34996160,Luzon,Colección Rosado 2022,"3,8","€9,95",1727909338.957899
+/NL/nl/alceno-sierra-de-enmedio-rosado-h339c/w/6401160?year=2023&price_id=35914555,Alceño,Sierra de Enmedio Rosado 2023,"3,9","€6,95",1727909338.9589427
+/NL/nl/herencia-altes-celastrina/w/9611508?year=2021&price_id=32216037,Herència Altés,Celastrina 2021,"3,9","€11,80",1727909338.9605381
+/NL/nl/rovellats-merlot-rose/w/2651989?year=2022&price_id=33624917,Rovellats,Merlot Rosé 2022,"3,5","€12,91",1727909338.9610703
+/NL/nl/condesa-de-leganza-seleccion-de-familia-rosado/w/2521491?year=2022&price_id=32408680,Condesa de Leganza,Selección de Familia Rosado 2022,"3,8","€9,81",1727909338.9631138
+/NL/nl/baron-de-ley-rioja-rosado/w/1149020?year=2021&price_id=30955120,Baron de Ley,Rioja Rosado 2021,"3,7","€6,95",1727909338.96362
+/NL/nl/chivite-comunidad-foral-de-navarra-las-fincas-rosado/w/3527928?year=2022&price_id=32929545,Chivite,Las Fincas Rosado 2022,"3,9","€10,29",1727909338.9656515
+/NL/nl/rio-anejo-bobal-rose/w/1919553?year=2022&price_id=36552592,Rio Añejo,Bobal Rosé 2022,"3,6","€5,95",1727909338.966682
+/NL/nl/raimat-abadia-cabernet-sauvignon-tempranillo-rose/w/3301447?year=2020&price_id=33380623,Raimat,Abadia Cabernet Sauvignon - Tempranillo Rosé 2020,"3,3","€7,95",1727909338.9677346
+/NL/nl/cune-cvne-rosado/w/1274811?year=2022&price_id=33211529,Cune (CVNE),Rosado 2022,"3,5","€9,87",1727909338.9687912
+/NL/nl/bodegas-marques-de-caceres-excellens-rose/w/2202782?year=2022&price_id=36660434,Bodegas Marqués de Cáceres,Excellens Rosé 2022,"3,9","€10,25",1727909338.9703875
+/NL/nl/bach-29524-vina-extrisima-rosado/w/1212630?year=2021&price_id=32166926,Bach,Viña Extrísima Rosado 2021,"3,6","€6,95",1727909338.9709187
+/NL/nl/hacienda-grimon-rosado/w/2268095?year=2023&price_id=35311431,Hacienda Grimon,Rosado 2023,"3,7","€10,64",1727909338.972969
+/NL/nl/marques-de-montecierzo-emergente-rosado/w/2242880?year=2023&price_id=36124236,Marqués de Montecierzo,Emergente Rosado 2023,"3,4","€8,50",1727909338.9750736
+/NL/nl/rigau-ros-rosat-flor/w/1747316?year=2022&price_id=32679184,Rigau Ros,Rosat Flor 2022,"3,5","€10,12",1727909338.9761147
+/NL/nl/vinicola-riojana-de-alcanadre-rosado/w/1870802?year=2023&price_id=34882969,Bodegas Aradon,Rosado 2023,"3,6","€7,87",1727909338.9771607
+/NL/nl/azul-y-garanza-rosa/w/1176489?year=2023&price_id=36851255,Azul y Garanza,Rosa 2023,"3,4","€7,59",1727909338.9782808
+/NL/nl/azul-y-garanza-rosa/w/1176489?year=2018&price_id=33326812,Azul y Garanza,Rosa 2018,"3,4","€11,22",1727909338.9808342
+/NL/nl/rende-masdeu-el-follet-rosat-de-syrah/w/5163951?year=2023&price_id=36472716,Rendé Masdéu,El Follet Rosat de Syrah 2023,"3,6","€8,20",1727909338.982395
+/NL/nl/es-espelt-trapella-syrah-rosat/w/1698444?year=2022&price_id=31963835,Espelt,Trapella Syrah Rosat 2022,"3,7","€14,34",1727909338.9844444
+/NL/nl/jane-ventura-vinyes-roses/w/5544568?year=2023&price_id=35920014,Jané Ventura,Vinyes Roses 2023,"3,4","€8,80",1727909338.9854548
+/NL/nl/oliveda-masia-oliveda-rosat-flor/w/1154522?year=2022&price_id=32797273,Oliveda,Masia Oliveda Rosat Flor 2022,"3,4","€9,23",1727909338.9864821
+/NL/nl/bicicletas-y-peces-tempranillo-rose-somontano/w/5463558?year=2022&price_id=34538951,Bicicletas y Peces,Tempranillo Rosė 2022,"3,8","€9,95",1727909338.9885812
+/NL/nl/tayaimgut-frsssc-merlot/w/4558764?year=2022&price_id=33899748,Tayaimgut,Frsssc Merlot 2022,"3,7","€15,32",1727909338.9896002
+/NL/nl/anna-de-codorniu-vinas-de-anna-flor-de-rosa/w/4801785?year=2022&price_id=33624932,Anna de Codorniu,Viñas de Anna Flor de Rosa 2022,"3,6","€14,12",1727909338.9926798
+/NL/nl/vinyes-singulars-sumoi-barmei/w/7443654?year=2018&price_id=23473807,Vinyes Singulars,Sumoi Barmei 2018,"4,1",€22,1727909338.993884
+/NL/nl/dominio-de-punctum-norte-sur-rosado/w/2901499?year=2022&price_id=32995082,Dominio de Punctum,Norte Sur Rosado 2022,"3,7","€6,95",1727909338.9959004
+/NL/nl/dominio-de-punctum-norte-sur-rosado/w/2901499?year=2023&price_id=35403631,Dominio de Punctum,Norte Sur Rosado 2023,"3,7","€6,75",1727909338.996925
+/NL/nl/oliveda-rosado/w/1154531?year=2022&price_id=32679201,Oliveda,Clos Primat Rosado 2022,"3,4","€8,25",1727909338.9979558
+/NL/nl/cristiari-cristiari-rosat/w/2009251?year=2023&price_id=36893093,Vall de Baldomar,Cristiari Rosat 2023,"3,7","€9,95",1727909338.9989958
+/NL/nl/finca-enguera-rosado/w/2236514?year=2023&price_id=36481153,Finca Enguera,Rosado 2023,"3,6","€5,59",1727909339.0005784
+/NL/nl/hernando-y-sourdais-roselito/w/3508744?year=2020&price_id=26383724,Antídoto,Roselito 2020,"3,9","€12,56",1727909339.0011246
+/NL/nl/campo-viejo-suave-rosado-m6aac/w/6548965?year=2022&price_id=33349710,Campo Viejo,Suave Rosado 2022,"3,3","€8,49",1727909339.002175
+/NL/nl/pere-guardiola-floresta-rosado/w/1198567?year=2021&price_id=27881377,Pere Guardiola,Floresta Rosado 2021,"3,5","€10,70",1727909339.0032253
+/NL/nl/bicicletas-y-peces-tempranillo-rose-somontano/w/5463558?year=2021&price_id=37076880,Bicicletas y Peces,Tempranillo Rosė 2021,"3,8","€14,48",1727909339.0052845
+/NL/nl/victorianas-monterio-tempranillo-rose/w/5250032?year=2022&price_id=32283024,Bodegas Victorianas,Monterio Tempranillo Rosé 2022,"3,5","€6,16",1727909339.0063066
+/NL/nl/yuntero-ortiga-tempranillo-rosado/w/5674375?year=2018&price_id=33326761,Bodegas Yuntero,Ortiga Tempranillo Rosado 2018,"3,4","€6,24",1727909339.0083795
+/NL/nl/chivite-comunidad-foral-de-navarra-las-fincas-rosado/w/3527928?year=2023&price_id=36559057,Chivite,Las Fincas Rosado 2023,"4,0","€12,85",1727909339.0093877
+/NL/nl/ramon-canals-canals-fragancia-de-marta/w/4422694?year=2022&price_id=33306455,Canals Canals,Fragància de Marta 2022,"4,1","€16,70",1727909339.010897
+/NL/nl/celler-marti-fabra-lladoner-emporda/w/2568140?year=2022&price_id=33349728,Martí Fabra,Lladoner Empordà 2022,"3,5","€12,56",1727909339.0119064
+/NL/nl/bodegas-marques-de-caceres-rosado/w/1189910?year=2023&price_id=35053100,Bodegas Marqués de Cáceres,Rosado 2023,"3,7","€10,10",1727909339.0129201
+/NL/nl/raimat-clamor-rosado/w/2474095?year=2022&price_id=31963848,Raimat,Clamor Rosado 2022,"3,7","€13,71",1727909339.0149617
+/NL/nl/inurrieta-mediodia-rosado/w/2443822?year=2021&price_id=29496335,Inurrieta,Mediodía Rosado 2021,"3,6","€6,50",1727909339.0170188
+/NL/nl/vinedos-de-alfaro-real-agrado-rioja-rosado/w/4743009?year=2020&price_id=25801540,Viñedos de Alfaro,Real Agrado Rosado 2020,"3,5","€5,95",1727909339.018049
+/NL/nl/bodegas-care-solidarity-rose/w/2402354?year=2018&price_id=33326788,Bodegas Care,Solidarity Rosé 2018,"3,8","€11,19",1727909339.0190952
+/NL/nl/pirineos-thirtyfour-zero-four-rosado/w/7398242?year=2023&price_id=35674852,Bodega Pirineos,3404 Rosado 2023,"3,8","€8,95",1727909339.0201447
+/NL/nl/vinyes-singulars-sumoll-rosat-amphora/w/5483630?year=2021&price_id=34602751,Vinyes Singulars,Sumoll Rosat Amphora 2021,"4,0","€22,50",1727909339.0212398
+/NL/nl/green-organic-tempranillo-rose/w/1568786?year=2023&price_id=35945367,The Green Wine Company,Organic Tempranillo Rosé 2023,"3,1","€7,25",1727909339.023284
+/NL/nl/el-masroig-sola-fred-rosat/w/1712754?year=2023&price_id=36612590,Celler Masroig,Solà Fred Rosat 2023,"3,2","€5,95",1727909339.0243118
+/NL/nl/radio-boka-alicante-monastrell-rose/w/4488424?year=2022&price_id=36146055,Radio Boka,Alicante Monastrell Rosé 2022,"3,2","€6,45",1727909339.025396
+/NL/nl/es-javier-cueva-de-lobos-rosado/w/6295092?year=2023&price_id=35174033,Bodegas Javier San Pedro Ortega,Cueva de Lobos Rosado 2023,"3,7","€5,80",1727909339.0274205
+/NL/nl/nuviana-cabernet-sauvignon-tempranillo-rosado/w/1656567?year=2022&price_id=34567913,Nuviana,Cabernet Sauvignon - Tempranillo Rosado 2022,"3,8","€5,25",1727909339.0294876
+/NL/nl/baron-de-ley-rioja-rosado/w/1149020?year=2022&price_id=32766332,Baron de Ley,Rioja Rosado 2022,"3,5","€10,95",1727909339.0309997
+/NL/nl/can-sumoi-la-rosa/w/6141269?year=2023&price_id=35391947,Can Sumoi,La Rosa 2023,"3,9",€12,1727909339.032522
+/NL/nl/vegalfaro-rebel-lia-rosado/w/2734345?year=2023&price_id=37186494,Vegalfaro,Rebel.lia Rosado 2023,"3,6","€6,49",1727909339.033536
+/NL/nl/vegalfaro-rebel-lia-rosado/w/2734345?year=2022&price_id=32007815,Vegalfaro,Rebel.lia Rosado 2022,"3,6","€6,99",1727909339.0345879
+/NL/nl/marques-de-riscal-rosado/w/1163699?year=2023&price_id=35410282,Marqués de Riscal,Rosado 2023,"3,8","€9,95",1727909339.0356455
+/NL/nl/celler-marti-fabra-claret-d-albera/w/8682688?year=2023&price_id=37074129,Martí Fabra,Claret d'Albera 2023,"3,6","€8,25",1727909339.0366936
+/NL/nl/celler-de-capcanes-mas-picosa-blanc-de-negres-rose/w/3718914?year=2022&price_id=33277125,Celler de Capçanes,Mas Picosa Blanc De Negres Rosé 2022,"3,3","€8,20",1727909339.038733
+/NL/nl/alquezar-rosado-somontano-rose-wine/w/2039904?year=2022&price_id=32185860,Alquézar,Rosado 2022,"3,8","€10,10",1727909339.0397518
+/NL/nl/garriguella-dinarells-rosat/w/5447557?year=2022&price_id=33899750,Garriguella,Dinarells Rosé 2022,"3,0",€9,1727909339.042104
+/NL/nl/avgvstvs-primer-rosat/w/11102769?year=2023&price_id=36458034,Avgvstvs,Primer Rosat 2023,"3,9","€8,80",1727909339.0441308
+/NL/nl/homenaje-garnacha-rosado/w/6332788?year=2021&price_id=28955536,Homenaje,Garnacha Rosado 2021,"3,4","€5,95",1727909339.0451593
+/NL/nl/bach-29524-extrisimo-semi-dulce-rosado/w/6429733?year=2022&price_id=33445082,Bach,Extrísimo Semi Dulce Rosado 2022,"4,0","€9,35",1727909339.0461707
+/NL/nl/juve-camps-aurora-d-espiells-rose/w/2486090?year=2022&price_id=31882950,Juvé & Camps,Aurora D'Espiells Rosé 2022,"3,6","€15,65",1727909339.0482025
+/NL/nl/coll-de-roses-rosat/w/5557968?year=2022&price_id=32283010,Coll de Roses,Rosat 2022,"3,4","€13,89",1727909339.0502498
+/NL/nl/de-moya-mola-rosado/w/9416052?year=2021&price_id=37017455,De Moya,Mola Rosado 2021,"4,0","€9,90",1727909339.0513015
+/NL/nl/las-campanas-garnacha-rose-comunidad-foral-de-navarra/w/1983693?year=2022&price_id=33306422,Las Campanas,Garnacha Rosé 2022,"3,4","€9,11",1727909339.0523548
+/NL/nl/sun-colom-rosado/w/3613442?year=2021&price_id=32420151,Son Colom,Rosado 2021,"3,1","€8,50",1727909339.0533848
+/NL/nl/pomal-garnacha-viura-rose/w/4695160?year=2022&price_id=31759244,Viña Pomal,Garnacha - Viura Rosé 2022,"3,7","€13,50",1727909339.054393
+/NL/nl/confidencia-tempranillo-rosado/w/1772087?year=2023&price_id=35945370,Confidencia,Tempranillo Rosado 2023,"3,1","€6,75",1727909339.0554097
+/NL/nl/arche-pages-60870-satirs-rosat/w/1708192?year=2022&price_id=31963825,Arché Pagès,Sàtirs Rosat 2022,"3,4","€11,83",1727909339.0575645
+/NL/nl/rasgon-tempranillo-rosado/w/3775731?year=2022&price_id=35356081,Rasgón,Tempranillo Rosado 2022,"3,7","€4,90",1727909339.058593
+/NL/nl/bodegas-valdemar-conde-de-valdemar-rosado/w/1815410?year=2022&price_id=36429317,Bodegas Valdemar,Conde de Valdemar Rosado 2022,"3,7","€6,95",1727909339.0596192
+/NL/nl/gran-sello-tempranillo-rosado/w/6005779?year=2023&price_id=37185613,Gran Sello,Rosado 2023,"3,4","€7,50",1727909339.0613797
+/NL/nl/santa-elisa-iii-ciguenas-garnacha-rose/w/5582606?year=2023&price_id=35111216,Santa Elisa,III Cigüeñas Garnacha Rosé 2023,"3,5","€7,75",1727909339.0628972
+/NL/nl/bodegas-faustino-v-rosado/w/1310185?year=2022&price_id=33666342,Bodegas Faustino,V Rosado 2022,"3,3","€6,94",1727909339.063909
+/NL/nl/gramona-mart-xarel-lo-vermell-penedes/w/5645872?year=2023&price_id=35839715,Gramona,Mart Xarel-lo Vermell 2023,"4,0","€13,30",1727909339.0659387
+/NL/nl/oliveda-marrec-rosado/w/5296029?year=2023&price_id=35026834,Oliveda,Marrec Rosado 2023,"3,5","€9,80",1727909339.066949
+/NL/nl/bodegas-piqueras-sa-el-picoteo-rosado/w/7149577?year=2020&price_id=34425769,Bodegas Piqueras,El Picoteo Rosado 2020,"3,8","€6,60",1727909339.0679562
+/NL/nl/nodus-chaval-bobal-rosado/w/8290232?year=2021&price_id=33688742,Bodegas Nodus,Chaval Bobal Rosado 2021,"3,9","€9,60",1727909339.0689657
+/NL/nl/terra-i-vins-flor-de-nit-rosat/w/5527288?year=2021&price_id=31485216,Terra i Vins,Flor de Nit Rosat 2021,"3,6","€14,91",1727909339.070533
+/NL/nl/hacienda-lopez-de-haro-rosado/w/3415933?year=2020&price_id=24969384,Hacienda López de Haro,Rosado 2020,"3,3","€10,95",1727909339.0722127
+/NL/nl/cune-cvne-rosado/w/1274811?year=2023&price_id=35898635,Cune (CVNE),Rosado 2023,"3,5","€9,19",1727909339.0732532
+/NL/nl/masia-perelada-rosado/w/1281741?year=2022&price_id=32797276,Masia Perelada,Rosado 2022,"3,0","€8,91",1727909339.0753257
+/NL/nl/binigrau-b-rosat/w/7085184?year=2022&price_id=33024680,Binigrau,B Rosat 2022,"4,3","€16,55",1727909339.0763462
+/NL/nl/sierra-cantabria-156664-rosado/w/3293066?year=2020&price_id=25649775,Sierra Cantabria,Rosado 2020,"3,7","€11,72",1727909339.0773633
+/NL/nl/chivite-rosado/w/1662936?year=2023&price_id=35500928,Gran Feudo,Rosado 2023,"3,6","€9,37",1727909339.0783753
+/NL/nl/pago-de-cirsus-rose-gran-cuvee-especial/w/2584637?year=2021&price_id=31740806,Pago de Cirsus,Rosé Gran Cuvée Especial 2021,"3,9","€13,46",1727909339.0793874
+/NL/nl/vinos-alex-cata-rosa-rosado/w/1263825?year=2021&price_id=29546707,Vinos Alex,Cata Rosa Rosado 2021,"2,9",€5,1727909339.08144
+/NL/nl/familia-torres-vina-sol-rosado/w/28584?year=2023&price_id=36129625,Familia Torres,Viña Sol Rosado 2023,"3,8","€6,34",1727909339.0824661
+/NL/nl/protos-rosado-clarete/w/1135273?year=2023&price_id=36265137,Protos,Rosado (Clarete) 2023,"3,5","€7,90",1727909339.0834916
+/NL/nl/can-rafols-dels-caus-gran-caus-rosat/w/1253426?year=2022&price_id=33731196,Can Ràfols dels Caus,Gran Caus Rosat 2022,"3,9","€21,16",1727909339.084506
+/NL/nl/altavins-almodi-petit-rose/w/7569113?year=2023&price_id=35707904,Altavins,Almodí Petit Rosé 2023,"3,4","€8,80",1727909339.0866435
+/NL/nl/chivite-comunidad-foral-de-navarra-navarra-coleccion-125-rosado/w/1183390?year=2021&price_id=32756863,Chivite,Navarra Coleccion 125 Rosado 2021,"4,2","€38,29",1727909339.087887
+/NL/nl/santo-cristo-finca-don-gavarre-rosado/w/7133305?year=2023&price_id=35470890,Santo Cristo,Finca Don Gavarre Rosado 2023,"2,7","€4,75",1727909339.0899282
+/NL/nl/bodegas-faustino-vii-rosado/w/22350?year=2023&price_id=35788092,Bodegas Faustino,VII Rosado 2023,"3,5","€6,59",1727909339.0909688
+/NL/nl/la-chita-iwazaru/w/10813827?year=2023&price_id=36407822,La Chita,Iwazaru 2023,"3,3","€6,95",1727909339.0919886
+/NL/nl/bodegas-ochoa-finca-el-bosque-rosado-de-lagrima/w/50434?year=2022&price_id=33349726,Bodegas Ochoa,Finca El Bosque Rosado de Lágrima 2022,"3,7","€11,86",1727909339.0930228
+/NL/nl/nebla-verdejo-rose-comunitat-valenciana/w/9271676?year=2020&price_id=36660488,Nebla,Verdejo Rosé 2020,"3,5","€9,50",1727909339.0940711
+/NL/nl/baron-de-ley-rosado-de-lagrima/w/8729994?year=2023&price_id=35629468,Baron de Ley,Rosado de Lágrima 2023,"3,9","€9,90",1727909339.0951004
+/NL/nl/vendome-mademoiselle-premium-rose/w/3151444?price_id=12363715,Vendôme Mademoiselle,Premium Rosé N.V.,"3,1","€9,49",1727909339.096111
+/NL/nl/es-macia-batle-rosado/w/77639?year=2022&price_id=34480839,Macià Batle,Rosado 2022,"3,7","€9,95",1727909339.0981748
+/NL/nl/terra-remota-caminito/w/2385223?year=2022&price_id=32454227,Terra Remota,Caminito 2022,"3,8","€25,77",1727909339.0992265
+/NL/nl/habla-habla-de-ti-rose/w/12501492?year=2023&price_id=36877001,Habla,Habla de Ti Rosé 2023,"3,8","€11,45",1727909339.1008189
+/NL/nl/elvia-bobal-rosado/w/8642687?year=2022&price_id=33310328,Elvia,Bobal Rosado 2022,"3,3","€7,70",1727909339.1013355
+/NL/nl/elvia-bobal-rosado/w/8642687?year=2023&price_id=36093806,Elvia,Bobal Rosado 2023,"3,3","€7,06",1727909339.1033723
+/NL/nl/artadi-artazuri-garnacha-rosado-artazu/w/49774?year=2022&price_id=32867719,Artadi,Artazuri Garnacha Rosado (Artazu) 2022,"3,9","€9,50",1727909339.1056361
+/NL/nl/los-frailes-rosado/w/1725666?year=2022&price_id=34777207,Los Frailes,Rosado 2022,"3,4","€6,50",1727909339.107702
+/NL/nl/senorio-de-sarria-rosado/w/1306702?year=2022&price_id=32570314,Señorío de Sarria,Rosado 2022,"3,5","€9,51",1727909339.1097736
+/NL/nl/astobiza-rose/w/4417327?year=2021&price_id=33695811,Astobiza,Rosé 2021,"3,8","€17,95",1727909339.1113057
+/NL/nl/masies-davinyo-abadal-elrosat/w/90064?year=2022&price_id=32408683,Abadal,elRosat 2022,"3,5","€14,36",1727909339.1118155
+/NL/nl/marques-de-la-carrasca-tempranillo-grenache-rose-a5206/w/6531751?year=2023&price_id=34867117,Marques dé La Carrasca,Tempranillo - Grenache Rosé 2023,"3,4","€6,95",1727909339.1138597
+/NL/nl/juve-camps-aurora-d-espiells-rose/w/2486090?year=2023&price_id=35023695,Juvé & Camps,Aurora D'Espiells Rosé 2023,"3,7","€9,95",1727909339.1148872
+/NL/nl/protos-aire-de-protos/w/5803518?year=2023&price_id=36379556,Protos,Aire de Protos 2023,"3,8","€13,90",1727909339.1169631
+/NL/nl/green-green-trail-organic-rosado/w/9830385?year=2023&price_id=35945382,The Green Wine Company,Green Trail Organic Rosado 2023,"3,3","€7,25",1727909339.1179879
+/NL/nl/tarima-tarima-rosado/w/2529769?year=2021&price_id=31484674,Volver,Tarima Rosado 2021,"3,9","€9,32",1727909339.1191041
+/NL/nl/beronia-rioja-rose/w/4660692?year=2022&price_id=32846418,Beronia,Rioja Rosé 2022,"3,6","€7,90",1727909339.1201305
+/NL/nl/binimaimo-rose/w/7522645?year=2019&price_id=21130671,Binimaimo,Rosé 2019,"4,3","€14,95",1727909339.1211865
+/NL/nl/baigorri-rioja-rosado/w/97070?year=2022&price_id=33016027,Baigorri,Rioja Rosado 2022,"3,7","€8,25",1727909339.1243205
+/NL/nl/pares-balta-syrah-radix-rose/w/1750122?year=2023&price_id=35856572,Parés Baltà,Syrah Radix Rosé 2023,"4,0","€22,95",1727909339.125361
+/NL/nl/castillo-perelada-emporda-cigonyes-rose/w/1764981?year=2022&price_id=32676756,Castillo Perelada,Emporda Cigonyes Rosé 2022,"3,8","€12,95",1727909339.1263871
+/NL/nl/es-paniza-garnacha-red-wine/w/3339797?year=2022&price_id=32395753,Paniza,Sleeve Garnacha Rosé 2022,"3,4","€6,75",1727909339.1274152
+/NL/nl/pasas-rose/w/10758036?year=2023&price_id=36084138,Pasas,Rosé 2023,"3,6","€9,95",1727909339.1284406
+/NL/nl/vinedos-ruiz-jimenez-osoti-organic-rosado/w/2786260?year=2023&price_id=36685765,Viñedos Ruiz Jiménez,Osoti Organic Rosado 2023,"3,6","€7,95",1727909339.1304865
+/NL/nl/cristo-de-la-vega-torre-de-vejezate-rose/w/9614265?year=2023&price_id=36205612,Cristo de la Vega,Torre de Vejezate Rosé 2023,"3,9","€6,95",1727909339.132014
+/NL/nl/es-espelt-corali/w/1177912?year=2022&price_id=31575825,Espelt,Coralí 2022,"3,5","€13,50",1727909339.1330366
+/NL/nl/llopart-la-vida-secreta-de-les-plantes-carmi-rosat/w/5509556?year=2022&price_id=32714949,Llopart,'La Vida Secreta de les Plantes' Carmi Rosat 2022,"3,7","€9,20",1727909339.134062
+/NL/nl/juan-gil-rose-jumilla/w/5544809?year=2021&price_id=28795241,Juan Gil,Rosé 2021,"3,7","€9,95",1727909339.1364193
+/NL/nl/vinyes-dels-aspres-oriol-dels-aspres-rosat/w/1835177?year=2021&price_id=31484944,Vinyes dels Aspres,Oriol dels Aspres Rosat 2021,"3,5","€12,67",1727909339.1374383
+/NL/nl/barcolobo-lacrimae-rerum/w/2573140?year=2019&price_id=35630036,Barcolobo,Lacrimae Rerum 2019,"3,8","€23,68",1727909339.1388657
+/NL/nl/celler-batea-vall-major-rose/w/5443226?year=2022&price_id=32283011,Celler Batea,Vall Major Rosé 2022,"3,6","€9,10",1727909339.1404555
+/NL/nl/vinica-chivana-rosado/w/2460199?year=2018&price_id=19123775,Castillo de Chiva,Rosado 2018,"3,3","€6,91",1727909339.1419935
+/NL/nl/es-torrelongares-rosado/w/1665980?year=2022&price_id=33731209,Torrelongares,Rosado 2022,"3,1","€6,82",1727909339.1430266
+/NL/nl/cruz-del-castillo-los-patos-superior-bobal/w/10107251?year=2023&price_id=35879321,Cruz del Castillo,Los Patos Superior Bobal 2023,"3,5","€6,59",1727909339.1440642
+/NL/nl/parra-jimenez-camino-rosado/w/1149712?year=2023&price_id=35715366,Bodegas Parra Jimenez,Camino Rosado 2023,"3,3","€3,75",1727909339.1461473
+/NL/nl/yuntero-mundo-de-yuntero-tempranillo-rosado/w/7735666?year=2018&price_id=33327057,Bodegas Yuntero,Mundo de Yuntero Tempranillo Rosado 2018,"3,6","€6,36",1727909339.1473088
