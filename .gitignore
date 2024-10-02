@@ -1,4 +1,7 @@
 *.csv
+*.csv
+*.Rproj
+*.proj.user/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
