@@ -1,597 +1,587 @@
-Brand,Wine,Rating,Price
-Marqués de Vizhoja,Torre la Moreira Albariño 2021,"3,9",€20
-Abadia da Cova,A Fuga Blanco 2021,"4,0",€20
-Macià Batle,Blanc de Blancs 2023,"3,8","€20,02"
-Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2023,"4,2","€20,19"
-Acustic Celler,Ritme Blanc 2022,"3,9","€20,25"
-Lagar de Cervera,Pazo de Seoane Rosal 2021,"4,0","€20,40"
-Zárate,Albariño 2023,"4,0","€20,40"
-Eduardo Peña,María Andrea 2023,"3,9","€20,40"
-Protos,Verdejo 2023,"3,9","€20,46"
-Pazo Casanova,Finca Viñoa Blanco 2021,"4,0","€20,50"
-Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2022,"3,8","€20,50"
-Estones,Vine Blanco 2019,"4,1","€20,50"
-Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2021,"3,7","€20,50"
-Javier Sanz Viticultor,Singular V Malcorta Verdejo 2023,"4,1","€23,95"
-Viña Costeira,Via Barrosa Albariño 2023,"4,0","€20,77"
-Tentenublo,Rioja Blanco 2021,"3,8","€20,95"
-Ossian,Quintaluna 2021,"4,0","€20,95"
-Bodegas Pascual,Leira Reyero Albariño 2023,"4,0",€21
-Iturrialde,Geroa Txakoli 2021,"3,7","€21,01"
-Ferrador,Treixadura - Torrontés 2022,"4,2","€21,40"
-Viñátigo,Listan Blanco de Canarias Blanco 2022,"3,8","€21,50"
-Eduardo Peña,María Andrea 2022,"3,9","€21,50"
-Attis,Albariño Lías Finas 2023,"4,1","€21,50"
-El Pacto,El Pacto del Alto Najerilla Blanco 2021,"3,9","€21,79"
-Sierra de Toloño,Viura 2023,"3,7","€21,83"
-Eulogio Pomares,Maceración Con Pieles 2022,"4,2",€65
-Finca Valpiedra,Rioja Blanco Reserva 2017,"4,2",€65
-Nin-Ortiz,Terra Vermella de Nin Blanco 2020,"4,1","€63,96"
-Eulogio Pomares,Maceración Con Pieles 2021,"4,2","€62,40"
-Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2014,"4,3","€61,95"
-Pujanza,S.J. Anteportalatina 2020,"4,2","€59,95"
-Venus la Universal,Venus de Cartoixà 2018,"4,3","€59,95"
-Vinyes del Terrer,Nus del Terrer Blanco 2016,"4,3","€59,50"
-Joan Rubió,Obstinat 2018,"3,9","€59,50"
-Rafael Palacios,As Sortes Val do Bibei Godello 2022,"4,3","€59,16"
-Gómez Cruzado,Montes Obarenes Selección Terroir 2019,"4,3",€59
-Gómez Cruzado,Montes Obarenes Selección Terroir 2021,"4,2",€59
-Pazo Señorans,Tras Los Muros Albariño 2020,"4,3","€58,90"
-Bodegas Ximénez-Spínola,Varietal Fermentacion Lenta 2021,"4,2","€58,28"
-Sara Pérez y René Barbier,Gratallops Partida Bellvisos Blanco 2019,"4,2","€57,95"
-Familia Torres,Milmanda 2020,"4,0","€56,95"
-Javier Sanz Viticultor,Finca Saltamontes 2018,"4,1","€56,95"
-Llanos Negros,Los Tabaqueros 2006,"4,3",€55
-Vinyes del Terrer,Nus del Terrer Blanco 2019,"4,3",€55
-Clos Mogador,Nelin 2021,"4,2","€54,95"
-Sara Pérez y René Barbier,Gratallops Partida Bellvisos Blanco 2018,"4,2","€54,95"
-Belondrade,Belondrade y Lurton 2022,"4,4","€54,95"
-Nin-Ortiz,Planetes de Nin Priorat Blanc 2022,"4,0","€54,81"
-Clos Mogador,Nelin 2020,"4,2","€52,95"
-Nin-Ortiz,Terra Vermella de Nin Blanco 2019,"4,1","€52,95"
-Clos Mogador,Nelin 2019,"4,2","€51,95"
-Zárate,Balado Albariño 2022,"4,0","€51,90"
-Zárate,El Palomar Albariño 2022,"4,1","€51,90"
-Zárate,Tras da Viña Albariño 2021,"4,2","€51,90"
-Can Bas,La Romana 2019,"4,3","€49,95"
-Escoda-Sanahuja,Mas del Gaio 2022,"3,9","€49,83"
-Escoda-Sanahuja,Mas del Gaio 2020,"3,9","€49,83"
-Escoda-Sanahuja,Mas del Gaio 2021,"4,1","€49,83"
-Enate,Chardonnay Fermentado en Barrica 2021,"4,2","€49,75"
-Suertes del Marqués,Vidonia 2021,"4,2","€48,70"
-Muchada-Léclapart,Lumière 2019,"4,1","€48,40"
-Muchada-Léclapart,Lumière 2018,"4,1","€47,95"
-Telmo Rodriguez,Molino Real 2019,"4,3","€47,88"
-Telmo Rodriguez,Molino Real 2016,"4,4","€47,88"
-Telmo Rodriguez,Molino Real 2010,"4,3","€47,88"
-Telmo Rodriguez,Molino Real 2017,"4,1","€47,88"
-Telmo Rodriguez,Molino Real 2015,"4,2","€47,88"
-Bodegas Ximénez-Spínola,Varietal Fermentacion Lenta 2022,"4,3","€47,19"
-Scala Dei,Massipa de Scala Dei Garnatxa Blanca - Xenin 2022,"4,3",€47
-Viña Pomal,Vinos Singulares Tempranillo Blanco Reserva 2017,"4,1","€46,95"
-Puro Rofe,Juan Bello 2022,"4,0","€46,50"
-Conreria d'Scala Dei,Les Brugueres Blanc 2022,"4,1","€46,45"
-Veronica Ortega,Tormenta 2021,"4,1","€46,40"
-Pazo Barrantes,Gran Vino Albariño 2020,"4,3","€45,95"
-Pazo Barrantes,Gran Vino Albariño 2021,"4,3","€45,95"
-Mengoba,Mengoba las Botas 2017,"4,0","€45,90"
-Zárate,Balado Albariño 2021,"4,1","€45,40"
-Zárate,Tras da Viña Albariño 2020,"4,2","€45,40"
-Zárate,El Palomar Albariño 2021,"4,2","€45,40"
-Valserrano,Rioja Gran Reserva White Premium 2017,"4,2",€45
-Puro Rofe,Tilama 2023,"4,1","€44,95"
-Sierra de Toloño,Nahikun Blanco 2022,"4,0","€44,86"
-Costers del Priorat,Blanc de Closos Vinyes Velles Old Vines 2021,"3,9","€44,09"
-Mengoba,Mengoba las Tinajas 2017,"3,6","€43,95"
-Pazo Barrantes,Albariño 2019,"3,9","€43,50"
-Pago de Los Capellanes,O Luar do Sil Vides de Córgomo 2019,"4,2","€43,40"
-Terroir Al Límit Soc. Lda,Terra de Cuques 2021,"4,0","€42,90"
-Galmés I Ribot,Avior Malvasia 2023,"4,1","€42,54"
-Escoda-Sanahuja,Els Bassots 2022,"4,0","€42,22"
-Costers del Priorat,Blanc de Closos Vinyes Velles Old Vines 2019,"3,9","€42,09"
-Clos Figueras,Font de la Figuera Priorat Blanco 2022,"4,0",€42
-Ossian,Viñas Viejas Verdejo 2021,"4,2",€42
-Celler Credo,Mirabelles 2019,"3,8","€41,95"
-Puro Rofe,Chibusque 2020,"4,0","€41,95"
-Bodegas Virgen de Galir,Regueirón 2022,"4,1","€41,27"
-Remírez de Ganuza,Rioja Blanco Reserva 2021,"4,3","€40,95"
-Jordi Llorens,Kremo 2019,"3,9","€40,82"
-Trossos del Priorat,Abracadabra 2021,"4,1","€40,24"
-Celler Credo,Mirabelles 2017,"3,8","€39,95"
-Puro Rofe,Masdache 2020,"4,1","€39,95"
-Rodriguez y Sanzo,Clavius 2018,"4,0","€39,95"
-Mixtura,Blanco 2020,"4,3","€39,90"
-Viñedos Verticales,Filitas y Lutitas 2018,"3,9","€39,65"
-Artuke,Trascuevas 2021,"4,1","€39,50"
-Bodega Tamerán,Malvasia Volcanica 2022,"4,2","€39,40"
-Bodega Tamerán,Verdello 2021,"4,2","€39,40"
-Bodega Tamerán,Marmajuelo 2021,"4,2","€39,40"
-Bodega Tamerán,Vijariego Blanco 2021,"4,1","€39,40"
-Verum,Airén de Pie Franco 2020,"3,7","€39,32"
-Celler Credo,Aloers Xarel-lo 2019,"3,9","€39,32"
-Terroir Al Límit Soc. Lda,Terra de Cuques 2022,"4,1","€39,10"
-Algueira,Escalada 2019,"4,1",€39
-Bodega Campo Eliseo,Campo Eliseo Blanco 2014,"3,9","€38,95"
-Bodega Contador (Benjamín Romeo),Predicador Blanco 2019,"4,0","€38,95"
-Bimbache,Blanco 2021,"4,1","€38,95"
-Bodegas Margon - Pricum,Albariñ Valdemuz 2015,"4,1","€38,90"
-Costador,Metamorphika Macabeu Orange 2021,"3,9","€38,90"
-Equipo Navazos,Navazos Niepoort Blanco 2019,"3,9","€38,50"
-José Pariente,Cuvée Especial Verdejo 2021,"4,1","€38,45"
-Eulogio Pomares,Sal da Terra Albariño 2022,"4,3","€38,30"
-Viñátigo,Ensamblaje Blanco 2022,"4,2",€38
-La Caña,Navia Albarino 2021,"4,2","€37,95"
-Quinta de Couselo,Tradición Rosal 2015,"4,2","€37,50"
-Valdesil,Pezas da Portela Godello 2021,"4,2","€37,50"
-Quinta de Couselo,Selección Rosal 2015,"4,2","€37,50"
-Ramón Bilbao,Límite Norte Reserva Tempranillo Blanco - Maturana Blanca 2017,"4,0","€37,20"
-Atlante,Albillo Criollo - Listán Blanco 2020,"3,9",€37
-Muchada-Léclapart,Elixir 2019,"4,2","€36,95"
-Muchada-Léclapart,Ètoile 2019,"4,0","€36,95"
-Jordi Llorens,Si Si Macabeu 2019,"4,1","€36,92"
-Veronica Ortega,La Llorona Godello 2021,"4,1","€36,60"
-José Pariente,Verdejo 2021,"4,1","€36,60"
-Galmés I Ribot,Son Llebre Ve d'Avior.Cati Ribot Blanc 2023,"4,1","€36,55"
-Jordi Llorens,Blan d’Angera 2022,"3,9","€36,54"
-Comando G,El Hombre Bala Blanco 2022,"4,0","€36,51"
-Artadi,Viñas de Gain Blanco 2015,"3,7","€36,51"
-Pago de Vallegarcía,Vallegarcia Viognier 2021,"4,2","€36,50"
-Parés Baltà,Xarel-lo Amphora Roja 2022,"4,0","€36,40"
-Verum,Airén de Pie Franco 2021,"3,6","€36,28"
-A Coroa,200 Cestos Godello 2022,"4,3","€35,95"
-Castell d'Encus,Ekam 2021,"4,2","€35,94"
-Jordi Llorens,Parellada 2023,"3,8","€35,90"
-Menade,La Misión 2019,"4,2","€35,01"
-Pazo Casanova,Finca Viñoa Paraje Penaboa 2017,"4,2","€34,95"
-Hispano Suizas,Finca Casa Julia Albariño 2023,"4,1","€34,95"
-Celler Credo,Vi-D-Re 2023,"3,8","€34,95"
-Callejo,El Lebrero 2021,"3,9","€34,95"
-Viña Meín,O Gran Meín Castes Brancas Blanco 2021,"4,1","€34,95"
-Herència Altés,La Serra Blanc 2021,"4,1","€34,80"
-Estones,Únic PX 2020,"4,2","€34,50"
-Bodega Bruno Ruiz - Esencia Rural,De Sol a Sol Airén 2018,"3,7","€34,20"
-Palacios Remondo,Rioja Plácet Valtomelloso 2022,"4,1","€33,95"
-Puro Rofe,Rofe Blanco 2022,"3,9","€33,95"
-Viña Meín,O Gran Meín Castes Brancas Blanco 2020,"4,1","€33,95"
-Sota els Àngels,Blanco 2016,"4,2","€33,95"
-Telmo Rodriguez,Branco de Santa Cruz 2021,"4,1","€33,50"
-Gancedo,Herencia del Capricho Godello 2020,"4,3","€33,50"
-Tantaka - Juanjo Tellaetxe,Diapiro 2021,"3,9","€33,25"
-Naia,Naiades 2019,"4,2","€32,95"
-Fedellos do Couto,Conasbrancas 2022,"4,0","€32,90"
-Jordi Llorens,Blan d’Angera 2020,"3,9","€32,89"
-VALENCISO,Fermentado En Barrica Tempranillo Blanco 2022,"4,2","€32,75"
-Albamar,O Sebal 2023,"4,0","€32,70"
-Castro Brey,Sin Palabras Albariño 2018,"3,9","€32,50"
-Viña Meín,O Gran Meín Castes Brancas Blanco 2019,"4,1","€32,45"
-Oriol Artigas,La Rumbera 2019,"3,9","€32,27"
-José Pariente,Verdejo 2022,"4,1","€32,22"
-Escoda-Sanahuja,Els Bassotets 2022,"3,9","€32,11"
-Cuatro Rayas,Amador Diez Cuvée Verdejo 2015,"4,2","€31,95"
-Herència Altés,La Serra Blanc 2020,"4,1","€31,95"
-Shaya,Habis 2020,"4,2","€31,95"
-Set & Ros,Costenc Malvasia de Sitges 2018,"4,0","€31,95"
-Ordóñez,Nisia Las Suertes Verdejo Old Vines 2022,"4,2","€31,95"
-José Pariente,Cuvée Especial Verdejo 2022,"4,2","€41,95"
-Dominio do Bibei,Lapola 2020,"4,2","€31,90"
-Bodega Bruno Ruiz - Esencia Rural,De Sol a Sol Airén 2016,"3,9","€31,74"
-Menade,La Misión 2022,"4,1","€31,50"
-Acustic Celler,Auditori Blanc 2021,"4,0","€31,50"
-Jordi Llorens,Blan 5.7 Blanc 2021,"3,8","€31,44"
-Valdesil,Asadoira Godello Sobre Lias 2022,"3,9","€30,95"
-Raúl Pérez,La del Vino Lomas de Valtuille 2022,"4,0","€30,95"
-Sierra Cantabria,Organza 2021,"4,0","€30,65"
-Viñátigo,Gual 2022,"4,0","€30,50"
-Parés Baltà,Satèl·lit 2019,"4,1","€30,40"
-Nanclares y Prieto,O Bocoi Vello de Silvia Albariño 2022,"4,1",€30
-Bodega Ribas,Sió Blanc 2022,"4,1","€29,95"
-Bodegas Bentomiz,Ariyanas Terruño Pizarroso 2012,"4,3","€29,95"
-Can Bas,La Creu 2021,"4,2","€29,95"
-Telmo Rodriguez,Branco de Santa Cruz 2020,"4,2","€29,95"
-Matsu,La Jefa 2021,"4,1","€29,95"
-Matsu,La Jefa 2020,"4,2","€29,90"
-Bartolomé Vernet,Clos Bartolomé Blanc 2021,"4,0","€29,75"
-VALENCISO,Rioja Blanco 2022,"4,2","€29,75"
-Bodega Bruno Ruiz - Esencia Rural,De Sol a Sol Airén 2019,"3,9","€29,57"
-VALENCISO,Rioja Blanco 2023,"4,1","€29,50"
-Bell Cros,L’Addicio 2020,"4,0","€29,50"
-Lagravera,Cíclic Blanc 2021,"4,1","€29,45"
-Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2022,"4,1","€29,25"
-Loxera,Beberás de la Copa de tu Hermana 2020,"3,9","€29,15"
-Algueira,Cortezada 2022,"3,9",€29
-Valdesil,Asadoira Godello Sobre Lias 2020,"3,9","€28,95"
-Emilio Moro,La Revelía Godello 2021,"4,1","€28,95"
-Hispano Suizas,Impromptu Sauvignon Blanc 2023,"4,0","€28,95"
-Fento,Pedraneira Albariño 2022,"4,2","€28,45"
-Albamar,Albariño 2023,"4,0","€28,45"
-Torralbenc,Blanco 2021,"3,9","€28,30"
-Mixtura,MIX Blanco 2021,"4,2","€28,30"
-Bodegas Luis Perez,La Escribana Macharnudo 2022,"4,2","€28,25"
-Herència Altés,Trementinaire Garnatxa Blanca 2020,"4,1","€27,95"
-Avgvstvs,Chardonnay 2022,"4,1","€27,95"
-Muchada-Léclapart,Univers 2019,"4,0","€27,95"
-Loxera,Beberás de la Copa de tu Hermana 2022,"3,7","€27,94"
-Bodega Cerrón,Stratum Wines Matas Altas Blanco 2022,"4,0","€27,75"
-Binigrau,Nounat 2023,"4,2","€27,75"
-Bodegas Fulcro,O Equilibrio 2021,"4,1","€27,50"
-Bodegas Valdemar,Conde de Valdemar Finca Alto Cantabria 2021,"4,0","€27,39"
-Envínate,Benje Blanco 2023,"3,9","€26,95"
-Pedralonga,Albariño Pedralonga 2021,"4,1","€26,95"
-Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2022,"4,0","€26,95"
-Ramón do Casar,Nobre 2022,"4,1","€26,50"
-Joan Rubió,Essencial 2022,"3,9","€26,50"
-José Pariente,Verdejo Fermentado en Barrica 2020,"4,1","€26,50"
-Bodegas Exopto,El Bernate Malvasia Riojana Blanco 2021,"3,9","€26,45"
-Terroir Al Límit Soc. Lda,Historic Blanco 2021,"3,9","€26,40"
-Olivier Rivière,La Bastid Rioja Blanco 2022,"4,1","€26,25"
-Murua,Murua Blanco Fermentado en Barrica 2022,"4,1","€26,20"
-Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2020,"3,9",€26
-Ostatu,Lore Rioja 2021,"4,0","€25,95"
-Terra Remota,Caminante 2020,"4,0","€25,95"
-Allende,Rioja Blanco 2019,"4,1","€25,95"
-Ibizkus,Blanco 2019,"3,8","€25,95"
-Casa Rojo,Tokyo Gomez-Rojo La Malpagada 2020,"4,0","€25,95"
-Ibizkus,Blanco 2023,"3,8","€25,95"
-Rafael Palacios,Louro Godello 2022,"4,1","€25,95"
-Celler Credo,Ratpenat 2018,"3,6","€25,95"
-Bodegas Vilano,La Baraja Godello 2021,"4,1","€25,95"
-Lagar de Cervera,Albariño 2023,"4,1","€25,85"
-La Niña de Cuenca,Orovelo 2020,"4,1","€25,50"
-Raul Moreno,Destellos 2022,"4,0",€25
-Ostatu,Lore Rioja 2020,"4,0",€25
-Bodegas Moraza,Las Tasugueras Blanc 2021,"4,0","€24,99"
-Jean Leon,Chardonnay Penedès Vinya Gigi 2022,"4,1","€24,95"
-Mar de Frades,Godello 2020,"3,8","€24,95"
-Rodríguez Sanzo,Bajo Velo Verdejo 2021,"4,2","€24,95"
-Bodegas Pedro Escudero,Bestia Parda 2019,"4,2","€24,95"
-Bodegas Martín Códax,Rías Baixas Albariño Organistrum 2021,"4,0","€24,95"
-Ossian,Verdling Trocken 2016,"3,8","€24,95"
-Torelló,50 Lliures Xarel·lo 2022,"3,9","€24,95"
-Telmo Rodriguez,El Transistor Verdejo 2020,"3,8","€24,88"
-Mengoba,Godello Sobre Lias 2022,"3,9","€24,70"
-Telmo Rodriguez,El Transistor Verdejo 2022,"3,9","€24,50"
-Javier Sanz Viticultor,Fermentado En Barrica Verdejo 2021,"3,9","€24,50"
-José Pariente,Verdejo Fermentado en Barrica 2022,"4,2","€24,35"
-Botani,Moscatel Old Vines 2022,"3,9","€24,25"
-Bodegas Valduero,Blanco de Albillo (Garcia) 2022,"4,1","€23,95"
-Casa Rojo,The Orange Republic 2022,"4,0","€23,95"
-Casa Rojo,La Marimorena Albariño 2022,"4,1","€23,95"
-Camino Del Bosque - Libre Y Salvaje,Narancha Orange 2019,"4,0","€23,95"
-Esteban Celemín,Señora Vale Albillo Real 2020,"4,0","€23,95"
-Bodegas Vilano,La Baraja Godello 2023,"4,2","€23,95"
-Bodegas Vilano,La Baraja Godello 2022,"4,2","€27,95"
-Raúl Pérez,Ultreia Godello 2021,"4,0","€23,75"
-Enate,Chardonnay Fermentado en Barrica 2022,"4,2","€23,70"
-Marqués de Riscal,Finca Montico Gran Vino de Rueda 2022,"4,0","€23,50"
-Trossos del Priorat,Llum d'Alba 2022,"3,8","€23,45"
-Telmo Rodriguez,El Transistor Verdejo 2021,"3,9","€23,25"
-Esteban Celemín,Verdeja le Dicen 2020,"4,0","€23,25"
-Eduardo Peña,Castrelo de Miño 2022,"4,1","€23,20"
-Rafael Palacios,Louro Godello 2023,"4,1","€23,15"
-Bodega Bravo Escós,La Font del Mosquit 2022,"4,1","€22,95"
-Eivi,Limited Release 2022,"4,1","€22,95"
-Eivi,Limited Release 2023,"4,1","€22,95"
-Lagar Da Condesa,Albariño Rías Baixas 2022,"3,8","€22,95"
-Celler Frisach,Vernatxa Blanca 2022,"4,0","€22,95"
-Sierra de Toloño,Viura 2020,"3,7","€22,93"
-Bodegas Martín Códax,Rías Baixas Albariño Organistrum 2020,"4,1","€22,75"
-Pazo Casanova,Finca Viñoa Embotellado Tardío 2019,"4,0","€22,50"
-Belondrade,Quinta Apolonia 2022,"4,0","€22,50"
-Santiago Roma,Selección Albariño 2022,"4,0","€22,50"
-Menade,Nosso Verdejo 2021,"3,8","€22,36"
-Monopole,Blanco Seco (Clasico) 2020,"3,8","€22,25"
-Pazo Señorans,Albariño 2022,"4,1","€22,25"
-Can Axartell,Corum 2021,"3,9","€22,20"
-Adegas Gran Vinum,Mar de Viñas Albariño 2023,"4,0","€22,11"
-Marqués de Riscal,Finca Montico Gran Vino de Rueda 2021,"4,1","€21,99"
-Quinta de Couselo,Quinta de Couselo 2021,"4,1","€21,95"
-Bodegas Clunia,Albillo 2022,"4,0","€21,95"
-Belondrade,Quinta Apolonia 2023,"4,0","€21,95"
-Clos 93,Paréntesis Blanc 2019,"3,8","€21,95"
-Tobella,Bocins 2020,"4,1","€21,95"
-Lagar de la Salud,Dulas Blanco Barrica 2021,"4,0","€21,95"
-Altavins,Garnacha Blanca 2023,"3,9","€21,86"
-Sierra de Toloño,Viura 2023,"3,7","€21,83"
-El Pacto,El Pacto del Alto Najerilla Blanco 2021,"3,9","€21,79"
-Viñátigo,Listan Blanco de Canarias Blanco 2022,"3,8","€21,50"
-Eduardo Peña,María Andrea 2022,"3,9","€21,50"
-Attis,Albariño Lías Finas 2023,"4,1","€21,50"
-Ferrador,Treixadura - Torrontés 2022,"4,2","€21,40"
-Iturrialde,Geroa Txakoli 2021,"3,7","€21,01"
-Bodegas Pascual,Leira Reyero Albariño 2023,"4,0",€21
-Tentenublo,Rioja Blanco 2021,"3,8","€20,95"
-Ossian,Quintaluna 2021,"4,0","€20,95"
-Viña Costeira,Via Barrosa Albariño 2023,"4,0","€20,77"
-Javier Sanz Viticultor,Singular V Malcorta Verdejo 2023,"4,1","€23,95"
-Pazo Casanova,Finca Viñoa Blanco 2021,"4,0","€20,50"
-Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2022,"3,8","€20,50"
-Estones,Vine Blanco 2019,"4,1","€20,50"
-Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2021,"3,7","€20,50"
-Protos,Verdejo 2023,"3,9","€20,46"
-Lagar de Cervera,Pazo de Seoane Rosal 2021,"4,0","€20,40"
-Zárate,Albariño 2023,"4,0","€20,40"
-Eduardo Peña,María Andrea 2023,"3,9","€20,40"
-Acustic Celler,Ritme Blanc 2022,"3,9","€20,25"
-Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2023,"4,2","€20,19"
-Macià Batle,Blanc de Blancs 2023,"3,8","€20,02"
-Marqués de Vizhoja,Torre la Moreira Albariño 2021,"3,9",€20
-Abadia da Cova,A Fuga Blanco 2021,"4,0",€20
-DaVide,Albariño 2022,"4,1","€23,26"
-Abadia de Poblet,Blanco 2018,"3,9","€25,77"
-Pazo Casanova,Finca Viñoa Embotellado Tardío 2020,"4,1","€20,70"
-R. López de Heredia,Viña Tondonia Gran Reserva Blanco 1996,"4,3",€133
-Cota 45,UBE de Ubérrima Maina 2016,"4,1","€49,95"
-Belondrade,Les Parcelles 2018,"4,5","€458,20"
-Rodrigo Mendez,Cies Blanco 2021,"4,1","€21,90"
-Jordi Llorens,Kremo 2018,"3,9",€21
-Gutiérrez de la Vega,Tío Raimundo 2018,"3,8","€21,70"
-Forjas del Salnés,Goliardo Tintos de Mar Loureiro 2019,"3,7","€27,15"
-DaVide,2 Dúo 2023,"3,9","€21,10"
-Cesca Vicent,Cabaler 2021,"4,0","€21,25"
-Bodegas Bhilar,Phincas Thousand Mils Blanco 2019,"4,1","€35,40"
-Forjas del Salnés,Goliardo a Telleira Albariño 2021,"4,2","€29,80"
-Javi Revert,Micalet 2023,"4,0","€33,40"
-Telmo Rodriguez,MR (Mountain Wine) 2016,"4,1","€39,95"
-Olivardots,Blanc de Gresa 2021,"4,0","€27,30"
-Masia Serra,Ctònia 2023,"3,8","€34,28"
-Enric Soler,Istiu Blanco 2021,"4,2",€35
-Godeval,Revival Godello 2022,"4,4","€37,50"
-Raúl Pérez,Sketch 2015,"4,3","€84,70"
-Paco & Lola,Vintage Albariño 2018,"4,2","€26,90"
-Bodega Campo Eliseo,Campo Eliseo Blanco 2018,"4,2","€35,90"
-José Pariente,Cuvée Especial Verdejo 2019,"4,1","€34,95"
-Enric Soler,Espenyalluchs 2022,"4,2","€54,50"
-Enric Soler,Impro-Visació Vinyes de Xarel-lo 2021,"4,2","€32,45"
-Fillaboa,Selección Finca Monte Alto 2018,"4,0","€24,95"
-Remelluri,Rioja Blanco 2013,"4,4","€89,50"
-4 Monos,Albillo Real 2022,"3,8","€24,50"
-Ordóñez,Nisia Verdejo Old Vines 2016,"3,8","€29,29"
-Familia Torres,Milmanda 2019,"4,1","€49,90"
-Valdesil,Pezas da Portela Godello 2022,"4,2","€33,80"
-Vall Llach,Aigua de Llum 2021,"4,2",€48
-L'Olivera,Agaliu 2022,"3,7","€20,32"
-El Grifo,Malvasia Seco Colección 2022,"4,1","€25,45"
-Shaya,Habis 2021,"4,2","€24,25"
-Villota,Blanco 2018,"4,0","€23,47"
-Terroir Al Límit Soc. Lda,Historic Blanco 2022,"4,0","€22,50"
-Botani,Moscatel Old Vines 2016,"4,0",€21
-AT Roca,Cantallops Xarel-lo 2022,"4,2","€20,95"
-Descregut,Vermell 2022,"3,8","€21,20"
-Can Ràfols dels Caus,Pairal Xarel-lo 2020,"4,1","€37,95"
-Celler Piñol,L'Avi Arrufi Blanc 2021,"4,0","€24,43"
-R. López de Heredia,Viña Tondonia Reserva Blanco 2001,"4,0",€363
-R. López de Heredia,Viña Tondonia Reserva Blanco 2011,"4,4","€186,95"
-Menade,Nosso Verdejo 2020,"4,0","€36,95"
-Telmo Rodriguez,MR (Mountain Wine) 2015,"4,2","€39,95"
-José Pariente,Verdejo Fermentado en Barrica 2021,"4,2","€28,34"
-Cal Pla,Mas d'en Compte Priorat White 2018,"4,2","€23,50"
-Veronica Ortega,La Llorona Godello 2022,"3,9","€28,30"
-Callejo,El Lebrero 2020,"3,9","€34,95"
-Mar de Frades,Albariño Atlantico 2022,"4,2","€23,30"
-Sicus,Cartoixà 2019,"3,7",€23
-Remelluri,Rioja Blanco 2021,"4,3","€109,95"
-Tomàs Cusiné,Macabeu De vinyes Velles Finca Racons 2018,"3,9","€29,91"
-Alemany i Corrió,Cargol Ttreu Vi 2022,"3,9","€26,14"
-D. Mateos,La Mateo Tempranillo Blanco 2021,"4,0","€27,90"
-La Vizcaína,La del Vivo (Lomas de Valtuille) 2022,"4,1","€21,90"
-Toro Albalá,Miut El Jabonero 2020,"4,0","€39,95"
-Bodega Contador (Benjamín Romeo),Qué Bonito Cacareaba Blanco 2021,"4,4","€60,78"
-R. López de Heredia,Viña Gravonia 2015,"4,2","€46,10"
-Can Ràfols dels Caus,Pairal Xarel-lo 2019,"4,1",€32
-Pazo San Mauro,Sanamaro Sobre Lias 2021,"4,0","€48,46"
-R. López de Heredia,Viña Tondonia Reserva Blanco 2012,"4,4","€186,95"
-Pazo Barrantes,Albariño 2021,"3,8","€45,95"
-La Vizcaína,La del Vivo (Lomas de Valtuille) 2021,"4,1","€53,70"
-Mas Estela,Vinya Selva de Mar Blanco 2021,"3,8","€29,31"
-Mar de Frades,Albariño Atlantico 2022,"4,2","€23,30"
-Suertes del Marqués,Trenzado 2023,"3,9",€20
-Mas d'en Gil,Coma Blanca Priorat 2017,"4,3","€56,27"
-Clos Mogador,Nelin 2018,"4,2","€64,99"
-Anima Mundi,Xarel-lo 2021,"4,2","€24,60"
-Dominio do Bibei,Lapola 2021,"4,2","€23,90"
-Nivarius,Finca la Nevera 2017,"4,2","€22,90"
-Familia Torres,Sons de Prades Vinyes de Milmanda 2021,"4,0","€28,45"
-Godeval,Cepas Vellas Godello 2022,"4,2","€24,50"
-Martí Fabra,Masia Carreras Empordà Blanco 2022,"4,2","€20,40"
-Pazo Barrantes,La Comtesse de Pazo Barrantes Albariño 2018,"4,4",€120
-César Márquez,La Salvación Godello 2022,"4,2","€23,80"
-Bodegas Chaves,Cinco Islas Oro Albariño 2021,"4,4","€36,95"
-Marqués de Riscal,Barón de Chirel Verdejo Viñas Centenarias 2021,"4,1","€53,48"
-Ordóñez,Nisia Las Suertes Verdejo Old Vines 2017,"4,2","€29,16"
-Joaquim Batlle,Foranell Picapoll 2021,"3,9","€22,46"
-Joaquim Batlle,Foranell Picapoll 2021,"3,9","€22,46"
-Telmo Rodriguez,Molino Real Mountain Blanco 2017,"4,2","€45,29"
-Edetària,Blanca 2020,"3,9","€33,09"
-Can Bas,La Creu 2022,"4,1","€29,95"
-Clos Mogador,Nelin 2012,"4,2","€81,51"
-Bodega la Tapada - Guitian,Godello 2022,"3,9","€20,98"
-Bodegas Chaves,Cinco Islas Oro Albariño 2018,"4,4","€34,50"
-L'Olivera,Blanc de Marges 2018,"4,1","€20,22"
-Mas Blanch I Jove,Saó Blanc 2014,"3,8","€25,32"
-Mas de Mancuso,Macabeo 2020,"4,0","€26,70"
-Josep Grau Viticultor,Carenes Gratallops 2021,"4,2","€41,70"
-Algueira,Cortezada 2023,"3,9","€25,20"
-Naia,Naiades 2011,"4,1","€59,95"
-Pazo Barrantes,Albariño 2017,"3,9","€48,75"
-Attis,Embaixador Albariño 2020,"4,4","€38,80"
-El Grillo y La Luna,"Canto del Grillo Cri, Cri 2021","4,2","€25,45"
-Hermanos Lurton,Cuesta de Oro Verdejo 2022,"4,0","€26,28"
-Anima Mundi,Pells Skin Contact Macabeu 2021,"4,2","€25,79"
-Orto Vins,Blanc d'Orto Brisat 2021,"3,8","€21,15"
-Valtea,Cuvée Especial Albariño 2019,"4,0","€24,95"
-Oxer Wines,Marko Loretxoa 2020,"4,1",€35
-Chivite,Navarra Coleccion 125 Blanco 2015,"4,3","€43,50"
-Eivi,Limited Release 2021,"4,1","€21,95"
-Murua,Murua Blanco Fermentado en Barrica 2020,"4,2","€22,50"
-Enric Soler,Nun Vinya dels Taus 2022,"4,3","€69,50"
-Enric Soler,Nun Vinya dels Taus 2021,"4,4","€59,45"
-Naia,Naiades 2014,"4,0","€27,95"
-Mesquida Mora,Acrollam Blanc 2023,"3,8","€24,64"
-Enric Soler,Nun Vinya dels Taus 2020,"4,4","€57,50"
-Alfredo Arribas,Trossos Sants 2018,"3,9","€21,50"
-Tianna Negre,Ses Nines Blanc Selecció 07/9 2022,"3,8","€21,31"
-Bodega la Tapada - Guitian,Fermentado en Barrica Godello 2021,"3,8","€30,81"
-Cérvoles,Blanc 2021,"4,0","€25,60"
-Vinyes dels Aspres,Blanc dels Aspres Criança 2022,"4,1","€26,38"
-Bodegas San Román,Malvasia 2020,"4,2","€38,85"
-Marqués de Riscal,Finca Montico Gran Vino de Rueda 2019,"3,8","€22,99"
-Pardas,Pur Xarel-lo 2019,"3,9","€22,95"
-Villota,Blanco 2019,"4,0","€32,68"
-Bodegas Fulcro,O Equilibrio 2022,"4,1","€22,80"
-Pazo Casanova,Finca Viñoa Blanco 2022,"4,0","€20,95"
-Alvear,3 Miradas Cerro Macho 2019,"3,9","€24,85"
-Azpilicueta,Colección Privada Blanco 2021,"4,2","€26,46"
-Horacio Calvente,Guindalera 2021,"3,9","€22,50"
-Pretium,Blanco 2020,"3,9","€26,95"
-Naia,Naia 2018,"3,9","€32,95"
-Ossian,Viñas Viejas Verdejo 2018,"4,2","€39,95"
-Ossian,Viñas Viejas Verdejo 2019,"4,3","€35,50"
-Gramona,Sauvignon Blanc Penedès 2022,"3,9","€26,37"
-Pazos de Lusco,Lusco Albariño 2022,"4,0","€22,95"
-Vinyes Singulars,Macabeu 2021,"3,7","€23,80"
-Eudald Massana Noya,Avi Ton Xarel-lo 2021,"3,9","€27,27"
-Bodega la Tapada - Guitian,Sobre Lías Godello 2021,"4,0","€25,83"
-Jean Leon,Chardonnay Penedès Vinya Gigi 2018,"3,9","€32,60"
-Vinícola Real,Cueva del Monge Blanco 2018,"4,0","€25,25"
-Sangenís I Vaqué,Lo Coster Blanc 2022,"4,2","€26,70"
-Nin-Ortiz,Terra Vermella de Nin Blanco 2016,"4,0","€44,49"
-Terra Remota,Caminante 2023,"4,1","€21,50"
-Nin-Ortiz,Terra Vermella de Nin Blanco 2017,"4,2","€44,49"
-Gramona,Sauvignon Blanc Penedès 2022,"3,9","€26,37"
-Vinyes Singulars,Xarel-lo 2021,"3,8","€24,22"
-Vinyes Singulars,Macabeu 2021,"3,7","€23,80"
-Vins El Cep,Clot del Roure Xarel-lo 2021,"4,1","€25,35"
-Pazos de Lusco,Lusco Albariño 2022,"4,0","€22,95"
-Fedellos do Couto,Testoiro 2022,"4,0","€26,90"
-Valmiñor,Davila M-100 2018,"3,8","€23,70"
-Pazo Señorans,Colección Albariño Rías Baixas 2019,"4,0","€26,46"
-Toro Albalá,Miut L'Assemblage 2020,"3,7","€41,95"
-Artadi,Santa Cruz de Artazu Blanco 2018,"3,9","€23,50"
-Abadal,Nuat 2020,"3,9","€32,60"
-Attis,Sitta Doliola 2018,"4,0","€39,50"
-Ramón do Casar,Treixadura 2022,"4,2","€25,85"
-Aalto,Blanco de Parcela 2022,"4,3","€67,95"
-Forjas del Salnés,Leirana Finca Genoveva Albariño 2021,"4,1","€33,90"
-R. López de Heredia,Viña Gravonia 2016,"4,2","€49,90"
-Artadi,Viñas de Gain Blanco 2016,"3,8",€30
-Aalto,Blanco de Parcela 2020,"4,2","€66,55"
-Bodegas El Paraguas,La Sombrilla 2020,"4,2",€45
-Laventura,Viura 2022,"3,9","€20,19"
-Huguet de Can Feixes,Chardonnay 2020,"4,0","€24,10"
-Palacios Remondo,Rioja Plácet Valtomelloso 2023,"3,9","€29,40"
-Clos d'Agon,Amic Blanc 2023,"3,7","€21,96"
-Godeval,1986 Godello 2018,"4,4","€77,90"
-Dominio do Bibei,Lalume 2020,"4,0","€25,90"
-Sicus,Sons Cartoixá 2017,"3,9",€47
-Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2021,"4,0","€24,46"
-Edetària,Selecció Blanca 2021,"4,0","€24,90"
-Fillaboa,Selección Finca Monte Alto 2021,"4,1","€23,30"
-Contino,Rioja Blanco 2020,"4,0","€36,18"
-Agro de Bazán,Granbazán Albariño Etiqueta Ámbar 2022,"4,0","€23,55"
-Suertes del Marqués,Vidonia 2022,"4,2","€35,30"
-Bodegas Clunia,Albillo 2023,"4,0","€21,95"
-Fefiñanes,Albariño de Fefiñanes III Año 2021,"4,2","€42,60"
-Familia Torres,Milmanda 2017,"4,1","€74,06"
-Bodega Contador (Benjamín Romeo),Predicador Blanco 2022,"4,0","€31,91"
-Remírez de Ganuza,Rioja Blanco 2021,"4,3","€27,20"
-Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2021,"4,2","€36,95"
-Ànima Negra,Quíbia (Falanis) 2022,"3,8","€22,63"
-Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2022,"4,3","€47,76"
-Vinsnus,SiurAlta Gris 2019,"3,8","€29,50"
-Chivite,Navarra Coleccion 125 Blanco 2021,"4,3","€35,39"
-Mar de Frades,Finca Valiñas 2017,"4,3","€33,48"
-Botani,Muscat 2022,"4,0","€23,97"
-Can Ràfols dels Caus,El Rocallís 2018,"4,1","€107,34"
-Telmo Rodriguez,El Transistor Verdejo 2018,"3,7","€25,31"
-As Laxas,Bágoa do Miño Lágrima Albariño 2019,"3,9","€21,87"
-La Caña,Navia Albarino 2019,"4,2","€28,85"
-Rodrigo Mendez,Cies Blanco 2020,"3,9","€21,90"
-Castillo Perelada,Finca La Garriga Blanca 2021,"3,8","€21,05"
-Pago de Vallegarcía,Vallegarcia Viognier 2022,"4,1","€24,50"
-Micro Bio (MicroBio),Isse Vinador Soñador 2019,"4,0","€24,90"
-Micro Bio (MicroBio),Microbio 2019,"4,0","€24,90"
-Telmo Rodriguez,MR (Mountain Wine) 2019,"4,2","€42,50"
-Marco Abella,Loidana Blanc 2021,"3,8","€21,50"
-Can Ràfols dels Caus,El Rocallís 2020,"4,3","€41,15"
-Raúl Pérez,Ultreia La Claudina 2020,"4,2",€55
-D. Mateos,Navaldar Blanco 2020,"3,7","€30,99"
-Marqués de la Sierra,Pedro Ximénez 1927,"3,4","€23,79"
-Rafael Palacios,Sorte O Soro Val do Bibei 2016,"4,6","€477,95"
-Enric Soler,Espenyalluchs 2021,"4,2","€47,45"
-Victoria Ordoñez,Monticara 2018,"4,1","€30,50"
-Bodegas Mas Alta,Artigas Blanco 2020,"4,1","€23,20"
-El Mas de l'A,Les Margues 2020,"4,2","€41,50"
-Pago de Vallegarcía,Vallegarcia Viognier 2018,"4,1","€23,86"
-Bodegas Pedro Escudero,Bestia Parda 2018,"4,2","€23,95"
-Enric Soler,Impro-Visació Vinyes de Xarel-lo 2022,"4,1","€37,50"
-Sicus,Cartoixà 2018,"3,9","€42,50"
-El Grifo,Malvasía Coleccion Semidulce 2021,"4,2","€25,18"
-Alfredo Arribas,Trossos Tros Blanc 2016,"4,2","€53,93"
-Gramona,Pinoteamo 2019,"4,0","€23,47"
-R. López de Heredia,Viña Tondonia Gran Reserva Blanco 2001,"4,3","€778,85"
-Finca Valpiedra,Rioja Blanco Reserva 2018,"4,2",€64
-Quinta da Muradella,Gorvia Blanco 2019,"4,0","€49,50"
-Luis A. Rodriguez Vazquez,Viña de Martin Os Pasás Ribeiro 2019,"4,1","€23,65"
-Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,"4,3","€44,18"
-Horacio Calvente,Guindalera 2020,"3,9","€22,95"
-Familia Torres,Fransola 2018,"3,9","€29,30"
-Pazo San Mauro,Albariño 2022,"4,0","€24,70"
-Artadi,Santa Cruz de Artazu Blanco 2019,"3,9","€26,50"
-Shaya,Habis 2019,"4,1","€33,50"
-Envínate,Palo Blanco 2021,"4,1",€45
-Luis A. Rodriguez Vazquez,A Teixa Ribeiro 2019,"4,2","€29,90"
-En Números Vermells,Garnatxa Blanca del Carlos 2022,"4,0","€22,75"
-Attis,Sangarida La Guiana Godello 2021,"4,4","€45,90"
-Attis,Mar Albariño 2021,"4,4",€92
-Envínate,Táganan Blanco 2023,"3,9","€28,31"
-Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2020,"4,1","€41,90"
-Avancia,Cuvée de O Godello 2023,"3,9","€32,96"
-Raventos d'Alella,Santa Maria Pansa Blanca de Alella 2015,"3,8","€22,23"
-Bertha,Mountain Bertha 2017,"3,7","€20,63"
-Familia Torres,Milmanda 2021,"4,1",€50
-Envínate,Táganan Blanco 2023,"3,9","€28,31"
-Bodegas Martín Códax,Rías Baixas Albariño Lias 2021,"4,1","€21,95"
-Bodegas Virgen de Galir,Sede e Fame Palomino 2019,"4,0","€29,99"
-Abadía Retuerta,LeDomaine Blanco de Guarda 2020,"4,4","€37,99"
-Forjas del Salnés,Leirana Finca Genoveva Albariño 2022,"4,1","€34,79"
-Vegalfaro,Pago de los Balagueses Chardonnay 2021,"4,1","€24,40"
-Cota 45,UBE de Ubérrima Paganilla 2022,"4,1","€28,96"
-Castell d'Encus,Taleia 2019,"4,2","€34,64"
-Castell d'Encus,Taleia 2020,"4,2","€28,45"
-Castillo Perelada,Finca La Garriga Blanca 2022,"3,9","€28,83"
-Belondrade,Belondrade y Lurton 2021,"4,4","€69,95"
-Familia Torres,Milmanda 2021,"4,1",€50
-Pazo Barrantes,Albariño 2020,"3,8","€39,99"
-Alfredo Arribas,Tros Blanc Saleres Grenache Blanca 2017,"4,2","€52,45"
-Paco & Lola,Prime Albariño Lias 2019,"4,1","€22,94"
-Conreria d'Scala Dei,Antecessor Les Brugueres 1997,"4,1",€110
-Bodegas Mauro,Godello Blanco 2018,"4,2",€56
-Contino,Rioja Blanco 2021,"3,9","€27,29"
-Artadi,Viñas de Gain Blanco 2019,"4,0",€34
-Viña Nora,Nora da Neve 2020,"4,1","€27,30"
-Martín Códax,Albariño 2022,"4,0","€21,51"
-Familia Torres,Sons de Prades Vinyes de Milmanda 2018,"3,8","€28,07"
-Cims de Porrera,Vi de Vila Blanco 2021,"3,9","€23,85"
-Terroir Al Límit Soc. Lda,Terra de Cuques 2019,"4,1",€30
-Avancia,Godello 2021,"4,2","€33,50"
-La Caña,Albarino 2022,"4,0","€22,45"
-Familia Torres,Fransola 2022,"4,2","€24,95"
-Castro Candaz,La Vertical 2020,"4,2","€20,95"
-Escoda-Sanahuja,Els Bassots 2021,"4,1","€32,13"
-Castell d'Encus,Ekam 2022,"4,2","€26,45"
-Gallina de Piel,Ikigall 2020,"3,9","€26,70"
-Mas d'en Gil,Coma Blanca Priorat 2018,"4,3","€43,90"
-Bodegas Martín Códax,OW 2021,"3,8","€22,95"
-Bodegas Mauro,Godello Blanco 2022,"4,2","€58,88"
-Bodegas Cosme Palacio,Cosme Palacio 1894 Blanco 2019,"4,0",€52
-Viña Nora,Nora da Neve 2021,"4,1","€26,10"
-Cuatro Rayas,Amador Diez Cuvée Verdejo 2018,"4,2","€36,50"
-Laureano Serres Montagut,Mendall Abeurador 2021,"4,1","€58,50"
-Fefiñanes,1583 Albariño de Fefiñanes 2022,"4,0",€27
-Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2022,"4,2","€23,70"
-Ramón Bilbao,Verdejo Rueda 2022,"3,8","€21,38"
-Emilio Moro,La Revelía Godello 2019,"4,2","€26,25"
-Ossian,Viñas Viejas Verdejo 2020,"4,3",€40
-Clos d'Agon,Blanco 2017,"3,9","€47,46"
-Cota 45,UBE de Ubérrima El Reventón 2022,"4,1","€28,96"
-Allende,Rioja Blanco 2020,"4,0","€23,40"
+hyperlink,Brand,Wine,Rating,Price,Timestamps
+/NL/nl/marques-de-vizhoja-torre-la-moreira-albarino/w/1155895?year=2021&price_id=33469755,Marqués de Vizhoja,Torre la Moreira Albariño 2021,"3,9",€20,1727909135.2815337
+/NL/nl/adegas-moure-a-fuga-blanco/w/7394327?year=2021&price_id=29331233,Abadia da Cova,A Fuga Blanco 2021,"4,0",€20,1727909135.2825665
+/NL/nl/es-macia-batle-blanc-de-blancs/w/77641?year=2023&price_id=36281252,Macià Batle,Blanc de Blancs 2023,"3,8","€20,02",1727909135.2835963
+/NL/nl/pago-de-los-capellanes-o-luar-do-sil-valdeorras-godello-valdeorras-white-wine-v/w/5766980?year=2023&price_id=35941230,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2023,"4,2","€20,19",1727909135.2846203
+/NL/nl/acustic-celler-ritme-blanc/w/1315034?year=2022&price_id=35774353,Acustic Celler,Ritme Blanc 2022,"3,9","€20,25",1727909135.2856383
+/NL/nl/lagar-de-cervera-pazo-de-seoane-rosal/w/4960687?year=2021&price_id=35911039,Lagar de Cervera,Pazo de Seoane Rosal 2021,"4,0","€20,40",1727909135.2866697
+/NL/nl/zarate-albarino/w/2342567?year=2023&price_id=35911693,Zárate,Albariño 2023,"4,0","€20,40",1727909135.28768
+/NL/nl/eduardo-pena-red/w/2184512?year=2023&price_id=36040113,Eduardo Peña,María Andrea 2023,"3,9","€20,40",1727909135.2887127
+/NL/nl/protos-verdejo/w/1135415?year=2023&price_id=36188501,Protos,Verdejo 2023,"3,9","€20,46",1727909135.2897677
+/NL/nl/pazo-casanova-finca-vinoa-blanco/w/2306989?year=2021&price_id=30848306,Pazo Casanova,Finca Viñoa Blanco 2021,"4,0","€20,50",1727909135.2908027
+/NL/nl/mas-foraster-josep-foraster-brisat-del-coster-macabeu-tc7fb/w/6596629?year=2022&price_id=32721489,Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2022,"3,8","€20,50",1727909135.2918098
+/NL/nl/estones-vine-blanco/w/3441518?year=2019&price_id=34155538,Estones,Vine Blanco 2019,"4,1","€20,50",1727909135.2928886
+/NL/nl/mas-foraster-josep-foraster-brisat-del-coster-macabeu-tc7fb/w/6596629?year=2021&price_id=29667448,Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2021,"3,7","€20,50",1727909135.293909
+/NL/nl/javier-sanz-viticultor-singular-v-malcorta-verdejo/w/3973507?year=2023&price_id=36891936,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2023,"4,1","€23,95",1727909135.2949262
+/NL/nl/costeira-via-barrosa-albarino/w/7587471?year=2023&price_id=36730373,Viña Costeira,Via Barrosa Albariño 2023,"4,0","€20,77",1727909135.2949262
+/NL/nl/tentenublo-rioja-blanco/w/4152844?year=2021&price_id=34930840,Tentenublo,Rioja Blanco 2021,"3,8","€20,95",1727909135.2961593
+/NL/nl/pascual-leira-reyero-albarino/w/1199223?year=2023&price_id=36996763,Bodegas Pascual,Leira Reyero Albariño 2023,"4,0",€21,1727909135.2971644
+/NL/nl/iturrialde-txacoli-de-bizcaia-geroa-txakoli/w/5264069?year=2021&price_id=33767831,Iturrialde,Geroa Txakoli 2021,"3,7","€21,01",1727909135.2982285
+/NL/nl/ferrador-treixadura-torrontes/w/10863689?year=2022&price_id=36902545,Ferrador,Treixadura - Torrontés 2022,"4,2","€21,40",1727909135.2992327
+/NL/nl/vinatigo-listan-blanco-de-canarias-blanco/w/1853082?year=2022&price_id=36810825,Viñátigo,Listan Blanco de Canarias Blanco 2022,"3,8","€21,50",1727909135.3002455
+/NL/nl/eduardo-pena-red/w/2184512?year=2022&price_id=35359355,Eduardo Peña,María Andrea 2022,"3,9","€21,50",1727909135.3018079
+/NL/nl/attis-albarino-lias-finas/w/1249045?year=2023&price_id=36017090,Attis,Albariño Lías Finas 2023,"4,1","€21,50",1727909135.3023226
+/NL/nl/ossian-quintaluna/w/1169393?year=2021&price_id=36541213,Ossian,Quintaluna 2021,"4,0","€21,60",1727909135.3033457
+/NL/nl/el-pacto-el-pacto-del-alto-najerilla-blanco/w/10484389?year=2021&price_id=34206251,El Pacto,El Pacto del Alto Najerilla Blanco 2021,"3,9","€21,79",1727909135.3048594
+/NL/nl/sierra-de-tolono-viura/w/3226947?year=2023&price_id=35522806,Sierra de Toloño,Viura 2023,"3,7","€21,83",1727909135.3053637
+/NL/nl/nin-ortiz-terra-vermella-de-nin-blanco/w/4220654?year=2020&price_id=34658381,Nin-Ortiz,Terra Vermella de Nin Blanco 2020,"4,1","€63,96",1727909135.3064067
+/NL/nl/eulogio-pomares-maceracion-con-pieles/w/4321994?year=2021&price_id=35939679,Eulogio Pomares,Maceración Con Pieles 2021,"4,2","€62,40",1727909135.3074656
+/NL/nl/pazo-senorans-seleccion-de-anada-albarino-rias-baixas/w/50644?year=2014&price_id=35317646,Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2014,"4,3","€61,95",1727909135.3085463
+/NL/nl/pujanza-s-j-anteportalatina/w/5797172?year=2020&price_id=34931780,Pujanza,S.J. Anteportalatina 2020,"4,2","€59,95",1727909135.309629
+/NL/nl/venus-la-universal-venus-de-cartoixa/w/7428175?year=2018&price_id=35357562,Venus la Universal,Venus de Cartoixà 2018,"4,3","€59,95",1727909135.309629
+/NL/nl/vinyes-del-terrer-nus-del-terrer-blanco/w/8183114?year=2016&price_id=35866627,Vinyes del Terrer,Nus del Terrer Blanco 2016,"4,3","€59,50",1727909135.3116994
+/NL/nl/joan-rubio-obstinat/w/6331110?year=2018&price_id=35503332,Joan Rubió,Obstinat 2018,"3,9","€59,50",1727909135.3122048
+/NL/nl/rafael-palacios-as-sortes-val-do-bibei-godello/w/1889460?year=2022&price_id=36607274,Rafael Palacios,As Sortes Val do Bibei Godello 2022,"4,3","€59,16",1727909135.3142447
+/NL/nl/gomez-cruzado-montes-obarenes-seleccion-terroir/w/4406127?year=2019&price_id=30590275,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,"4,3",€59,1727909135.315274
+/NL/nl/gomez-cruzado-montes-obarenes-seleccion-terroir/w/4406127?year=2021&price_id=37120687,Gómez Cruzado,Montes Obarenes Selección Terroir 2021,"4,3",€59,1727909135.3162885
+/NL/nl/pazo-senorans-tras-los-muros-albarino/w/7748278?year=2020&price_id=37106705,Pazo Señorans,Tras Los Muros Albariño 2020,"4,3","€58,90",1727909135.3183577
+/NL/nl/bodegas-ximenez-spinola-varietal-fermentacion-lenta/w/4361682?year=2021&price_id=33294116,Bodegas Ximénez-Spínola,Varietal Fermentacion Lenta 2021,"4,2","€58,28",1727909135.3183577
+/NL/nl/sara-perez-y-rene-barbier-gratallops-partida-bellvisos-blanco/w/5344552?year=2019&price_id=35521587,Sara Pérez y René Barbier,Gratallops Partida Bellvisos Blanco 2019,"4,2","€57,95",1727909135.3203783
+/NL/nl/familia-torres-milmanda/w/2623?year=2020&price_id=33113833,Familia Torres,Milmanda 2020,"4,0","€56,95",1727909135.3203783
+/NL/nl/javier-sanz-viticultor-finca-saltamontes/w/1661843?year=2018&price_id=35548635,Javier Sanz Viticultor,Finca Saltamontes 2018,"4,1","€56,95",1727909135.321953
+/NL/nl/llanos-negros-los-tabaqueros/w/4214223?year=2006&price_id=33402228,Llanos Negros,Los Tabaqueros 2006,"4,3",€55,1727909135.3225424
+/NL/nl/vinyes-del-terrer-nus-del-terrer-blanco/w/8183114?year=2019&price_id=30825842,Vinyes del Terrer,Nus del Terrer Blanco 2019,"4,3",€55,1727909135.3235648
+/NL/nl/clos-mogador-nelin/w/1178755?year=2021&price_id=35304453,Clos Mogador,Nelin 2021,"4,2","€54,95",1727909135.3246017
+/NL/nl/sara-perez-y-rene-barbier-gratallops-partida-bellvisos-blanco/w/5344552?year=2018&price_id=34932066,Sara Pérez y René Barbier,Gratallops Partida Bellvisos Blanco 2018,"4,2","€54,95",1727909135.3256114
+/NL/nl/belondrade-belondrade-y-lurton/w/76476?year=2022&price_id=37141954,Belondrade,Belondrade y Lurton 2022,"4,4","€54,95",1727909135.326772
+/NL/nl/nin-ortiz-planetes-de-nin-priorat-blanc/w/5821631?year=2022&price_id=34658382,Nin-Ortiz,Planetes de Nin Priorat Blanc 2022,"4,0","€54,81",1727909135.3277824
+/NL/nl/nin-ortiz-terra-vermella-de-nin-blanco/w/4220654?year=2019&price_id=34521412,Nin-Ortiz,Terra Vermella de Nin Blanco 2019,"4,1","€52,95",1727909135.328826
+/NL/nl/clos-mogador-nelin/w/1178755?year=2020&price_id=34932048,Clos Mogador,Nelin 2020,"4,2","€52,95",1727909135.3308637
+/NL/nl/clos-mogador-nelin/w/1178755?year=2019&price_id=34931291,Clos Mogador,Nelin 2019,"4,2","€51,95",1727909135.3318963
+/NL/nl/zarate-el-palomar-albarino/w/1125013?year=2022&price_id=37106718,Zárate,El Palomar Albariño 2022,"4,1","€51,90",1727909135.3318963
+/NL/nl/zarate-balado-albarino/w/1815023?year=2022&price_id=37100369,Zárate,Balado Albariño 2022,"4,0","€51,90",1727909135.3333821
+/NL/nl/zarate-tras-da-vina-albarino/w/1125479?year=2021&price_id=37106731,Zárate,Tras da Viña Albariño 2021,"4,2","€51,90",1727909135.3343947
+/NL/nl/can-bas-la-romana/w/2284872?year=2019&price_id=33617454,Can Bas,La Romana 2019,"4,3","€49,95",1727909135.3354063
+/NL/nl/enate-chardonnay-fermentado-en-barrica/w/9063?year=2021&price_id=34931757,Enate,Chardonnay Fermentado en Barrica 2021,"4,2","€49,75",1727909135.3364165
+/NL/nl/pares-balta-electio-xarel-lo/w/1262317?year=2022&price_id=36233920,Parés Baltà,Electio Xarel-lo 2022,"4,0","€49,69",1727909135.337431
+/NL/nl/suertes-del-marques-vidonia/w/1595719?year=2021&price_id=35911146,Suertes del Marqués,Vidonia 2021,"4,2","€48,70",1727909135.3384607
+/NL/nl/muchada-leclapart-lumiere/w/7289725?year=2019&price_id=34475245,Muchada-Léclapart,Lumière 2019,"4,1","€48,40",1727909135.3395195
+/NL/nl/muchada-leclapart-lumiere/w/7289725?year=2018&price_id=22561791,Muchada-Léclapart,Lumière 2018,"4,1","€47,95",1727909135.3405538
+/NL/nl/telmo-rodriguez-molino-real/w/63224?year=2019&price_id=35076245,Telmo Rodriguez,Molino Real 2019,"4,3","€47,88",1727909135.3415577
+/NL/nl/telmo-rodriguez-molino-real/w/63224?year=2010&price_id=26473265,Telmo Rodriguez,Molino Real 2010,"4,3","€47,88",1727909135.3425915
+/NL/nl/telmo-rodriguez-molino-real/w/63224?year=2017&price_id=25284011,Telmo Rodriguez,Molino Real 2017,"4,1","€47,88",1727909135.3436818
+/NL/nl/telmo-rodriguez-molino-real/w/63224?year=2015&price_id=19448716,Telmo Rodriguez,Molino Real 2015,"4,2","€47,88",1727909135.3436818
+/NL/nl/telmo-rodriguez-molino-real/w/63224?year=2016&price_id=23071861,Telmo Rodriguez,Molino Real 2016,"4,4","€47,88",1727909135.344704
+/NL/nl/bodegas-ximenez-spinola-varietal-fermentacion-lenta/w/4361682?year=2022&price_id=34866809,Bodegas Ximénez-Spínola,Varietal Fermentacion Lenta 2022,"4,3","€47,19",1727909135.3457308
+/NL/nl/scala-dei-massipa-de-scala-dei-garnatxa-blanca-xenin/w/5475411?year=2022&price_id=36168061,Scala Dei,Massipa de Scala Dei Garnatxa Blanca - Xenin 2022,"4,3",€47,1727909135.3467808
+/NL/nl/pomal-vinos-singulares-tempranillo-blanco-reserva/w/4953160?year=2017&price_id=34098299,Viña Pomal,Vinos Singulares Tempranillo Blanco Reserva 2017,"4,1","€46,95",1727909135.3477924
+/NL/nl/puro-rofe-juan-bello/w/10370613?year=2022&price_id=35001645,Puro Rofe,Juan Bello 2022,"4,0","€46,50",1727909135.3488443
+/NL/nl/conreria-d-scala-dei-les-brugueres-blanc/w/1112354?year=2022&price_id=35366014,Conreria d'Scala Dei,Les Brugueres Blanc 2022,"4,1","€46,45",1727909135.3498542
+/NL/nl/veronica-ortega-tormenta/w/11319692?year=2021&price_id=32761271,Veronica Ortega,Tormenta 2021,"4,1","€46,40",1727909135.3508651
+/NL/nl/pazo-barrantes-gran-vino-albarino/w/10072848?year=2020&price_id=36739729,Pazo Barrantes,Gran Vino Albariño 2020,"4,3","€45,95",1727909135.3508651
+/NL/nl/pazo-barrantes-gran-vino-albarino/w/10072848?year=2021&price_id=35327607,Pazo Barrantes,Gran Vino Albariño 2021,"4,3","€45,95",1727909135.3524299
+/NL/nl/mengoba-mengoba-las-botas/w/5060046?year=2017&price_id=35910978,Mengoba,Mengoba las Botas 2017,"4,0","€45,90",1727909135.3529449
+/NL/nl/zarate-balado-albarino/w/1815023?year=2021&price_id=35911133,Zárate,Balado Albariño 2021,"4,1","€45,40",1727909135.3539886
+/NL/nl/zarate-tras-da-vina-albarino/w/1125479?year=2020&price_id=35911132,Zárate,Tras da Viña Albariño 2020,"4,2","€45,40",1727909135.3550527
+/NL/nl/zarate-el-palomar-albarino/w/1125013?year=2021&price_id=35911134,Zárate,El Palomar Albariño 2021,"4,2","€45,40",1727909135.3560991
+/NL/nl/puro-rofe-tilama/w/7303759?year=2023&price_id=36944823,Puro Rofe,Tilama 2023,"4,1","€44,95",1727909135.3571355
+/NL/nl/sierra-de-tolono-nahikun-blanco/w/6439235?year=2022&price_id=32524903,Sierra de Toloño,Nahikun Blanco 2022,"4,0","€44,86",1727909135.3582895
+/NL/nl/costers-del-priorat-blanc-de-closos-vinyes-velles-old-vines-priorat/w/6622455?year=2021&price_id=33354839,Costers del Priorat,Blanc de Closos Vinyes Velles Old Vines 2021,"3,9","€44,09",1727909135.359296
+/NL/nl/mengoba-mengoba-las-tinajas/w/3867213?year=2017&price_id=35910977,Mengoba,Mengoba las Tinajas 2017,"3,6","€43,95",1727909135.360333
+/NL/nl/pazo-barrantes-albarino/w/1183384?year=2019&price_id=35610333,Pazo Barrantes,Albariño 2019,"3,9","€43,50",1727909135.3613849
+/NL/nl/pago-de-los-capellanes-o-luar-do-sil-vides-de-corgomo/w/10019588?year=2019&price_id=35940592,Pago de Los Capellanes,O Luar do Sil Vides de Córgomo 2019,"4,2","€43,40",1727909135.3624215
+/NL/nl/terroir-al-limit-soc-lda-terra-de-cuques/w/1704723?year=2021&price_id=36945586,Terroir Al Límit Soc. Lda,Terra de Cuques 2021,"4,0","€42,90",1727909135.3634305
+/NL/nl/costers-del-priorat-blanc-de-closos-vinyes-velles-old-vines-priorat/w/6622455?year=2019&price_id=32523336,Costers del Priorat,Blanc de Closos Vinyes Velles Old Vines 2019,"3,9","€42,09",1727909135.3644602
+/NL/nl/clos-figueras-font-de-la-figuera-priorat-blanco/w/5009290?year=2022&price_id=35368911,Clos Figueras,Font de la Figuera Priorat Blanco 2022,"4,0",€42,1727909135.3655152
+/NL/nl/ossian-vinas-viejas-verdejo-castilla-and-leon/w/6142915?year=2021&price_id=36730925,Ossian,Viñas Viejas Verdejo 2021,"4,2",€42,1727909135.3665721
+/NL/nl/es-credo-mirabelles/w/5408107?year=2019&price_id=35803485,Celler Credo,Mirabelles 2019,"3,8","€41,95",1727909135.3676465
+/NL/nl/puro-rofe-chibusque/w/7546707?year=2020&price_id=34931534,Puro Rofe,Chibusque 2020,"4,0","€41,95",1727909135.3686767
+/NL/nl/bodegas-virgen-de-galir-regueiron/w/9073219?year=2022&price_id=36281166,Bodegas Virgen de Galir,Regueirón 2022,"4,1","€41,27",1727909135.3686767
+/NL/nl/remirez-de-ganuza-rioja-blanco-reserva/w/6492988?year=2021&price_id=36739653,Remírez de Ganuza,Rioja Blanco Reserva 2021,"4,3","€40,95",1727909135.3696878
+/NL/nl/trossos-del-priorat-abracadabra/w/2116277?year=2021&price_id=35911321,Trossos del Priorat,Abracadabra 2021,"4,1","€40,24",1727909135.371702
+/NL/nl/abadia-retuerta-ledomaine-blanco-de-guarda/w/1552884?year=2022&price_id=35939972,Abadía Retuerta,LeDomaine Blanco de Guarda 2022,"4,3","€39,95",1727909135.3722363
+/NL/nl/es-credo-mirabelles/w/5408107?year=2017&price_id=34931516,Celler Credo,Mirabelles 2017,"3,8","€39,95",1727909135.3727455
+/NL/nl/puro-rofe-masdache/w/7240412?year=2020&price_id=34931536,Puro Rofe,Masdache 2020,"4,1","€39,95",1727909135.373861
+/NL/nl/rodriguez-y-sanzo-clavius/w/6383509?year=2018&price_id=29804580,Rodriguez y Sanzo,Clavius 2018,"4,0","€39,95",1727909135.3748665
+/NL/nl/mixtura-blanco/w/10486117?year=2020&price_id=32326891,Mixtura,Blanco 2020,"4,3","€39,90",1727909135.375884
+/NL/nl/vinedos-verticales-filitas-y-lutitas/w/5358419?year=2018&price_id=32525095,Viñedos Verticales,Filitas y Lutitas 2018,"3,9","€39,65",1727909135.376899
+/NL/nl/artuke-trascuevas/w/10610296?year=2021&price_id=37106285,Artuke,Trascuevas 2021,"4,1","€39,50",1727909135.3779128
+/NL/nl/bodega-tameran-malvasia-volcanica/w/9868988?year=2022&price_id=36576894,Bodega Tamerán,Malvasia Volcanica 2022,"4,2","€39,40",1727909135.3789265
+/NL/nl/bodega-tameran-verdello/w/9868994?year=2021&price_id=35911163,Bodega Tamerán,Verdello 2021,"4,2","€39,40",1727909135.3799336
+/NL/nl/bodega-tameran-vijariego-blanco/w/9950732?year=2021&price_id=35911164,Bodega Tamerán,Vijariego Blanco 2021,"4,1","€39,40",1727909135.3809621
+/NL/nl/bodega-tameran-marmajuelo/w/9898318?year=2021&price_id=35911162,Bodega Tamerán,Marmajuelo 2021,"4,2","€39,40",1727909135.3820722
+/NL/nl/verum-castilla-la-mancha-airen-de-pie-franco/w/6785466?year=2020&price_id=32525045,Verum,Airén de Pie Franco 2020,"3,7","€39,32",1727909135.3820722
+/NL/nl/es-credo-aloers-xarel-lo/w/2451140?year=2019&price_id=32523042,Celler Credo,Aloers Xarel-lo 2019,"3,9","€39,32",1727909135.3831155
+/NL/nl/terroir-al-limit-soc-lda-terra-de-cuques/w/1704723?year=2022&price_id=32939083,Terroir Al Límit Soc. Lda,Terra de Cuques 2022,"4,1","€39,10",1727909135.3841262
+/NL/nl/algueira-escalada/w/1186282?year=2019&price_id=27840818,Algueira,Escalada 2019,"4,1",€39,1727909135.3851352
+/NL/nl/bodega-campo-eliseo-campo-eliseo-blanco/w/5388543?year=2014&price_id=28374952,Bodega Campo Eliseo,Campo Eliseo Blanco 2014,"3,9","€38,95",1727909135.3861427
+/NL/nl/bimbache-blanco/w/7763843?year=2021&price_id=34931807,Bimbache,Blanco 2021,"4,1","€38,95",1727909135.3871744
+/NL/nl/bodega-contador-benjamin-romeo-predicador-blanco/w/1265045?year=2019&price_id=34930702,Bodega Contador (Benjamín Romeo),Predicador Blanco 2019,"4,0","€38,95",1727909135.3882425
+/NL/nl/es-margon-albarin-valdemuz/w/4713932?year=2015&price_id=33384868,Bodegas Margon - Pricum,Albariñ Valdemuz 2015,"4,1","€38,90",1727909135.3894024
+/NL/nl/costador-metamorphika-macabeu-orange/w/8682370?year=2021&price_id=37011681,Costador,Metamorphika Macabeu Orange 2021,"3,9","€38,90",1727909135.390406
+/NL/nl/equipo-navazos-navazos-niepoort-blanco/w/1123702?year=2019&price_id=33214779,Equipo Navazos,Navazos Niepoort Blanco 2019,"3,9","€38,50",1727909135.39141
+/NL/nl/jose-pariente-cuvee-especial-verdejo/w/1586229?year=2021&price_id=33551407,José Pariente,Cuvée Especial Verdejo 2021,"4,1","€38,45",1727909135.3924644
+/NL/nl/eulogio-pomares-sal-da-terra-albarino/w/7996000?year=2022&price_id=36576901,Eulogio Pomares,Sal da Terra Albariño 2022,"4,3","€38,30",1727909135.3935037
+/NL/nl/vinatigo-ensamblaje-blanco/w/2491162?year=2022&price_id=36788255,Viñátigo,Ensamblaje Blanco 2022,"4,2",€38,1727909135.394529
+/NL/nl/la-cana-navia-albarino/w/2490865?year=2021&price_id=35393558,La Caña,Navia Albarino 2021,"4,2","€37,95",1727909135.3955894
+/NL/nl/quinta-de-couselo-tradicion-rosal/w/9692726?year=2015&price_id=30847579,Quinta de Couselo,Tradición Rosal 2015,"4,2","€37,50",1727909135.3955894
+/NL/nl/quinta-de-couselo-seleccion-rosal/w/5955710?year=2015&price_id=23728824,Quinta de Couselo,Selección Rosal 2015,"4,2","€37,50",1727909135.3966458
+/NL/nl/valdesil-pezas-da-portela-godello/w/1927931?year=2021&price_id=34932320,Valdesil,Pezas da Portela Godello 2021,"4,2","€37,50",1727909135.3977046
+/NL/nl/ramon-bilbao-limite-norte-reserva-tempranillo-blanco-maturana-blanca/w/8923948?year=2017&price_id=36374758,Ramón Bilbao,Límite Norte Reserva Tempranillo Blanco - Maturana Blanca 2017,"4,0","€37,20",1727909135.3987496
+/NL/nl/atlante-valle-de-la-orotava-albillo-criollo-listan-blanco/w/6410338?year=2020&price_id=33697188,Atlante,Albillo Criollo - Listán Blanco 2020,"3,9",€37,1727909135.3997805
+/NL/nl/muchada-leclapart-elixir/w/6844613?year=2019&price_id=31648946,Muchada-Léclapart,Elixir 2019,"4,2","€36,95",1727909135.4008298
+/NL/nl/muchada-leclapart-etoile/w/6802279?year=2019&price_id=28374431,Muchada-Léclapart,Ètoile 2019,"4,0","€36,95",1727909135.4018543
+/NL/nl/veronica-ortega-la-llorona-godello/w/9542815?year=2021&price_id=32755073,Veronica Ortega,La Llorona Godello 2021,"4,1","€36,60",1727909135.4028952
+/NL/nl/jose-pariente-verdejo-rueda/w/1286379?year=2021&price_id=33950583,José Pariente,Verdejo 2021,"4,1","€36,60",1727909135.4028952
+/NL/nl/comando-g-el-hombre-bala-blanco/w/8335066?year=2022&price_id=35283970,Comando G,El Hombre Bala Blanco 2022,"4,0","€36,51",1727909135.4050326
+/NL/nl/artadi-vinas-de-gain-blanco/w/2970021?year=2015&price_id=22456076,Artadi,Viñas de Gain Blanco 2015,"3,7","€36,51",1727909135.4050326
+/NL/nl/pago-de-vallegarcia-vallegarcia-viognier/w/1144208?year=2021&price_id=35866615,Pago de Vallegarcía,Vallegarcia Viognier 2021,"4,2","€36,50",1727909135.4060585
+/NL/nl/pares-balta-xarello-amphora-roja/w/3813674?year=2022&price_id=35911397,Parés Baltà,Xarel-lo Amphora Roja 2022,"4,0","€36,40",1727909135.4071162
+/NL/nl/verum-castilla-la-mancha-airen-de-pie-franco/w/6785466?year=2021&price_id=36202162,Verum,Airén de Pie Franco 2021,"3,6","€36,28",1727909135.4081757
+/NL/nl/a-coroa-twohundred-cestos-godello/w/1815065?year=2022&price_id=34774965,A Coroa,200 Cestos Godello 2022,"4,3","€35,95",1727909135.4092278
+/NL/nl/castell-d-encus-ekam/w/1232125?year=2021&price_id=37043748,Castell d'Encus,Ekam 2021,"4,2","€35,94",1727909135.4102647
+/NL/nl/menade-la-mision-rueda-white-wine-v/w/5463531?year=2019&price_id=30903443,Menade,La Misión 2019,"4,2","€35,01",1727909135.4113061
+/NL/nl/pazo-casanova-finca-vinoa-paraje-penaboa-ribeiro/w/6484678?year=2017&price_id=30848305,Pazo Casanova,Finca Viñoa Paraje Penaboa 2017,"4,2","€34,95",1727909135.4124048
+/NL/nl/es-credo-vi-d-re-penedes/w/8955938?year=2023&price_id=35803484,Celler Credo,Vi-D-Re 2023,"3,8","€34,95",1727909135.4134643
+/NL/nl/vina-mein-o-gran-mein-castes-brancas-blanco/w/9928513?year=2021&price_id=36478971,Viña Meín,O Gran Meín Castes Brancas Blanco 2021,"4,1","€34,95",1727909135.4134643
+/NL/nl/bodegas-felix-callejo-el-lebrero/w/3880545?year=2021&price_id=32618263,Callejo,El Lebrero 2021,"3,9","€34,95",1727909135.414528
+/NL/nl/hispano-suizas-finca-casa-julia-albarino/w/9655825?year=2022&price_id=37159342,Hispano Suizas,Finca Casa Julia Albariño 2022,"4,1","€34,95",1727909135.4155917
+/NL/nl/herencia-altes-la-serra-blanc/w/2640243?year=2021&price_id=36197106,Herència Altés,La Serra Blanc 2021,"4,1","€34,80",1727909135.4166534
+/NL/nl/estones-unic-px/w/5013950?year=2020&price_id=32231521,Estones,Únic PX 2020,"4,2","€34,50",1727909135.4176981
+/NL/nl/palacios-remondo-rioja-placet-valtomelloso/w/1220246?year=2022&price_id=36811776,Palacios Remondo,Rioja Plácet Valtomelloso 2022,"4,1","€33,95",1727909135.418709
+/NL/nl/puro-rofe-rofe-blanco/w/7116832?year=2022&price_id=36147549,Puro Rofe,Rofe Blanco 2022,"3,9","€33,95",1727909135.419723
+/NL/nl/vina-mein-o-gran-mein-castes-brancas-blanco/w/9928513?year=2020&price_id=34931906,Viña Meín,O Gran Meín Castes Brancas Blanco 2020,"4,1","€33,95",1727909135.4207716
+/NL/nl/sota-els-angels-blanco/w/5009695?year=2016&price_id=34930546,Sota els Àngels,Blanco 2016,"4,2","€33,95",1727909135.421794
+/NL/nl/telmo-rodriguez-branco-de-santa-cruz/w/2509745?year=2021&price_id=36709960,Telmo Rodriguez,Branco de Santa Cruz 2021,"4,1","€33,50",1727909135.422838
+/NL/nl/gancedo-herencia-del-capricho-godello/w/4611389?year=2020&price_id=36561731,Gancedo,Herencia del Capricho Godello 2020,"4,3","€33,50",1727909135.4238617
+/NL/nl/tantaka-juanjo-tellaetxe-diapiro/w/9292360?year=2021&price_id=35364347,Tantaka - Juanjo Tellaetxe,Diapiro 2021,"3,9","€33,25",1727909135.4249134
+/NL/nl/naia-naiades/w/87931?year=2019&price_id=34930555,Naia,Naiades 2019,"4,2","€32,95",1727909135.4259431
+/NL/nl/fedellos-do-couto-conasbrancas/w/4460268?year=2022&price_id=36518432,Fedellos do Couto,Conasbrancas 2022,"4,0","€32,90",1727909135.4269545
+/NL/nl/valenciso-fermentado-en-barrica-tempranillo-blanco/w/10806028?year=2022&price_id=35939929,VALENCISO,Fermentado En Barrica Tempranillo Blanco 2022,"4,2","€32,75",1727909135.4279685
+/NL/nl/albamar-o-sebal/w/6896895?year=2023&price_id=36929144,Albamar,O Sebal 2023,"4,0","€32,70",1727909135.4289947
+/NL/nl/es-castro-brey-sin-palabras-albarino/w/5093051?year=2018&price_id=33263318,Castro Brey,Sin Palabras Albariño 2018,"3,9","€32,50",1727909135.4300368
+/NL/nl/vina-mein-o-gran-mein-castes-brancas-blanco/w/9928513?year=2019&price_id=34931198,Viña Meín,O Gran Meín Castes Brancas Blanco 2019,"4,1","€32,45",1727909135.4315789
+/NL/nl/oriol-artigas-la-rumbera/w/4429416?year=2019&price_id=32524553,Oriol Artigas,La Rumbera 2019,"3,9","€32,27",1727909135.4320872
+/NL/nl/jose-pariente-verdejo-rueda/w/1286379?year=2022&price_id=32524178,José Pariente,Verdejo 2022,"4,1","€32,22",1727909135.433095
+/NL/nl/castellana-amador-diez-cuvee-verdejo/w/5461341?year=2015&price_id=30853016,Cuatro Rayas,Amador Diez Cuvée Verdejo 2015,"4,2","€31,95",1727909135.434105
+/NL/nl/shaya-habis/w/1197819?year=2020&price_id=34932333,Shaya,Habis 2020,"4,2","€31,95",1727909135.4351182
+/NL/nl/herencia-altes-la-serra-blanc/w/2640243?year=2020&price_id=35453436,Herència Altés,La Serra Blanc 2020,"4,1","€31,95",1727909135.4361706
+/NL/nl/set-ros-costenc-malvasia-de-sitges/w/8251977?year=2018&price_id=29804578,Set & Ros,Costenc Malvasia de Sitges 2018,"4,0","€31,95",1727909135.4371817
+/NL/nl/ordonez-nisia-las-suertes-verdejo-old-vines/w/4846683?year=2022&price_id=35391216,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2022,"4,2","€31,95",1727909135.4387116
+/NL/nl/jose-pariente-cuvee-especial-verdejo/w/1586229?year=2022&price_id=36928954,José Pariente,Cuvée Especial Verdejo 2022,"4,2","€41,95",1727909135.4397323
+/NL/nl/dominio-do-bibei-lapola/w/1147593?year=2020&price_id=37100356,Dominio do Bibei,Lapola 2020,"4,2","€31,90",1727909135.4408019
+/NL/nl/menade-la-mision-rueda-white-wine-v/w/5463531?year=2022&price_id=36710036,Menade,La Misión 2022,"4,1","€31,50",1727909135.4408019
+/NL/nl/acustic-celler-auditori-blanc/w/11157485?year=2021&price_id=32511892,Acustic Celler,Auditori Blanc 2021,"4,0","€31,50",1727909135.4423337
+/NL/nl/valdesil-asadoira-godello-sobre-lias/w/8012300?year=2022&price_id=36739571,Valdesil,Asadoira Godello Sobre Lias 2022,"3,9","€30,95",1727909135.4433382
+/NL/nl/raul-perez-la-del-vino-lomas-de-valtuille/w/8145378?year=2022&price_id=34931808,Raúl Pérez,La del Vino Lomas de Valtuille 2022,"4,0","€30,95",1727909135.4443653
+/NL/nl/luis-perez-la-escribana-macharnudo-cadiz/w/7888953?year=2022&price_id=36945585,Bodegas Luis Perez,La Escribana Macharnudo 2022,"4,2","€30,90",1727909135.4454288
+/NL/nl/sierra-cantabria-156664-organza/w/77877?year=2021&price_id=35022830,Sierra Cantabria,Organza 2021,"4,0","€30,65",1727909135.4464881
+/NL/nl/vinatigo-gual/w/2324050?year=2022&price_id=36788251,Viñátigo,Gual 2022,"4,0","€30,50",1727909135.4464881
+/NL/nl/pares-balta-satel-lit/w/9461232?year=2019&price_id=35911088,Parés Baltà,Satèl·lit 2019,"4,1","€30,40",1727909135.4475558
+/NL/nl/nanclares-y-prieto-o-bocoi-vello-de-silvia-albarino-rias-baixas/w/8713321?year=2022&price_id=35012167,Nanclares y Prieto,O Bocoi Vello de Silvia Albariño 2022,"4,1",€30,1727909135.4486208
+/NL/nl/bentomiz-ariyanas-terruno-pizarroso/w/2747786?year=2012&price_id=29778382,Bodegas Bentomiz,Ariyanas Terruño Pizarroso 2012,"4,3","€29,95",1727909135.4496875
+/NL/nl/ribas-sio-blanc/w/1142125?year=2022&price_id=33428047,Bodega Ribas,Sió Blanc 2022,"4,1","€29,95",1727909135.450793
+/NL/nl/can-bas-la-creu/w/2284871?year=2021&price_id=33617453,Can Bas,La Creu 2021,"4,2","€29,95",1727909135.4517398
+/NL/nl/matsu-la-jefa/w/9547192?year=2021&price_id=34659412,Matsu,La Jefa 2021,"4,1","€29,95",1727909135.452244
+/NL/nl/telmo-rodriguez-branco-de-santa-cruz/w/2509745?year=2020&price_id=34931908,Telmo Rodriguez,Branco de Santa Cruz 2020,"4,2","€29,95",1727909135.453284
+/NL/nl/matsu-la-jefa/w/9547192?year=2020&price_id=36601254,Matsu,La Jefa 2020,"4,2","€29,90",1727909135.4543564
+/NL/nl/bartolome-vernet-clos-bartolome-blanc/w/9798298?year=2021&price_id=33323031,Bartolomé Vernet,Clos Bartolomé Blanc 2021,"4,0","€29,75",1727909135.4554229
+/NL/nl/valenciso-rioja-blanco/w/1647969?year=2022&price_id=33480843,VALENCISO,Rioja Blanco 2022,"4,2","€29,75",1727909135.4565892
+/NL/nl/valenciso-rioja-blanco/w/1647969?year=2023&price_id=37128978,VALENCISO,Rioja Blanco 2023,"4,1","€29,50",1727909135.4565892
+/NL/nl/bell-cros-l-addicio/w/9006618?year=2020&price_id=33478790,Bell Cros,L’Addicio 2020,"4,0","€29,50",1727909135.457719
+/NL/nl/lagravera-ciclic-blanc/w/7735840?year=2021&price_id=36469519,Lagravera,Cíclic Blanc 2021,"4,1","€29,45",1727909135.458731
+/NL/nl/pago-de-los-capellanes-o-luar-do-sil-valdeorras-godello-sobre-lias/w/4277988?year=2022&price_id=35941223,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2022,"4,1","€29,25",1727909135.459745
+/NL/nl/felix-lorenzo-cachazo-carrasvinas-fermentado-en-barrica-rueda/w/2930930?year=2023&price_id=36576921,Bodegas Félix Lorenzo Cachazo,Carrasviñas Fermentado en Barrica 2023,"4,0","€29,20",1727909135.4607565
+/NL/nl/loxera-beberas-de-la-copa-de-tu-hermana/w/2434335?year=2020&price_id=32524393,Loxera,Beberás de la Copa de tu Hermana 2020,"3,9","€29,15",1727909135.4607565
+/NL/nl/algueira-cortezada-ribeira-sacra/w/1862105?year=2022&price_id=32846271,Algueira,Cortezada 2022,"3,9",€29,1727909135.4618893
+/NL/nl/valdesil-asadoira-godello-sobre-lias/w/8012300?year=2020&price_id=36739719,Valdesil,Asadoira Godello Sobre Lias 2020,"3,9","€28,95",1727909135.4631643
+/NL/nl/hispano-suizas-impromptu-sauvignon-blanc/w/1207409?year=2023&price_id=37058673,Hispano Suizas,Impromptu Sauvignon Blanc 2023,"4,0","€28,95",1727909135.464302
+/NL/nl/emilio-moro-la-revelia-godello-bierzo/w/6306232?year=2021&price_id=36739681,Emilio Moro,La Revelía Godello 2021,"4,1","€28,95",1727909135.4654272
+/NL/nl/fento-pedraneira-albarino/w/8688733?year=2022&price_id=35911694,Fento,Pedraneira Albariño 2022,"4,2","€28,45",1727909135.4654272
+/NL/nl/torralbenc-blanco/w/6284848?year=2021&price_id=31945943,Torralbenc,Blanco 2021,"3,9","€28,30",1727909135.467615
+/NL/nl/mixtura-mix-blanco/w/9587621?year=2021&price_id=32326890,Mixtura,MIX Blanco 2021,"4,2","€28,30",1727909135.467615
+/NL/nl/herencia-altes-trementinaire-garnatxa-blanca/w/7540746?year=2020&price_id=33301303,Herència Altés,Trementinaire Garnatxa Blanca 2020,"4,1","€27,95",1727909135.4686282
+/NL/nl/muchada-leclapart-univers/w/6750162?year=2019&price_id=29591469,Muchada-Léclapart,Univers 2019,"4,0","€27,95",1727909135.4686282
+/NL/nl/avgvstvs-chardonnay/w/1597345?year=2022&price_id=36075250,Avgvstvs,Chardonnay 2022,"4,1","€27,95",1727909135.4696383
+/NL/nl/loxera-beberas-de-la-copa-de-tu-hermana/w/2434335?year=2022&price_id=36123909,Loxera,Beberás de la Copa de tu Hermana 2022,"3,7","€27,94",1727909135.470712
+/NL/nl/bodega-cerron-stratum-wines-matas-altas-blanco/w/12370401?year=2022&price_id=35940653,Bodega Cerrón,Stratum Wines Matas Altas Blanco 2022,"4,0","€27,75",1727909135.470712
+/NL/nl/binigrau-nounat/w/1181612?year=2023&price_id=36292390,Binigrau,Nounat 2023,"4,2","€27,75",1727909135.471831
+/NL/nl/finca-pedreira-o-equilibrio/w/2030936?year=2021&price_id=36194279,Bodegas Fulcro,O Equilibrio 2021,"4,1","€27,50",1727909135.471831
+/NL/nl/bodegas-valdemar-conde-de-valdemar-finca-alto-cantabria/w/1163326?year=2021&price_id=33626767,Bodegas Valdemar,Conde de Valdemar Finca Alto Cantabria 2021,"4,0","€27,39",1727909135.472444
+/NL/nl/francisco-alfonso-albarino-pedralonga/w/2288501?year=2021&price_id=29779576,Pedralonga,Albariño Pedralonga 2021,"4,1","€26,95",1727909135.4729476
+/NL/nl/envinate-benje-blanco-ycoden-daute-isora/w/5903596?year=2023&price_id=36969161,Envínate,Benje Blanco 2023,"3,9","€26,95",1727909135.4729476
+/NL/nl/venus-la-universal-dido-macabeu-garnatxa-cartoixa/w/1173057?year=2022&price_id=36739568,Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2022,"4,0","€26,95",1727909135.473961
+/NL/nl/ramon-do-casar-nobre/w/6035229?year=2022&price_id=34806473,Ramón do Casar,Nobre 2022,"4,1","€26,50",1727909135.473961
+/NL/nl/jose-pariente-verdejo-fermentado-en-barrica/w/1491206?year=2020&price_id=30726917,José Pariente,Verdejo Fermentado en Barrica 2020,"4,1","€26,50",1727909135.4749672
+/NL/nl/joan-rubio-essencial/w/5362082?year=2022&price_id=35498064,Joan Rubió,Essencial 2022,"3,9","€26,50",1727909135.4760878
+/NL/nl/exopto-el-bernate-malvasia-riojana-blanco/w/8510393?year=2021&price_id=33443798,Bodegas Exopto,El Bernate Malvasia Riojana Blanco 2021,"3,9","€26,45",1727909135.4772267
+/NL/nl/terroir-al-limit-soc-lda-historic-blanco/w/5296325?year=2021&price_id=29472673,Terroir Al Límit Soc. Lda,Historic Blanco 2021,"3,9","€26,40",1727909135.4783628
+/NL/nl/olivier-riviere-la-bastid-rioja-blanco/w/5857638?year=2022&price_id=36256478,Olivier Rivière,La Bastid Rioja Blanco 2022,"4,1","€26,25",1727909135.4794893
+/NL/nl/murua-murua-blanco-fermentado-en-barrica/w/1651489?year=2022&price_id=36917355,Murua,Murua Blanco Fermentado en Barrica 2022,"4,1","€26,20",1727909135.4794893
+/NL/nl/venus-la-universal-dido-macabeu-garnatxa-cartoixa/w/1173057?year=2020&price_id=31855975,Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2020,"3,9",€26,1727909135.4806218
+/NL/nl/ostatu-lore-rioja/w/1981350?year=2021&price_id=35911548,Ostatu,Lore Rioja 2021,"4,0","€25,95",1727909135.4817429
+/NL/nl/ibizkus-blanco/w/3649178?year=2019&price_id=34441870,Ibizkus,Blanco 2019,"3,8","€25,95",1727909135.4832437
+/NL/nl/terra-remota-caminante/w/1239974?year=2020&price_id=30095594,Terra Remota,Caminante 2020,"4,0","€25,95",1727909135.48433
+/NL/nl/finca-allende-rioja-blanco/w/77131?year=2019&price_id=34167907,Allende,Rioja Blanco 2019,"4,1","€25,95",1727909135.48433
+/NL/nl/ibizkus-blanco/w/3649178?year=2023&price_id=36591075,Ibizkus,Blanco 2023,"3,8","€25,95",1727909135.4855072
+/NL/nl/casa-rojo-tokyo-gomez-rojo-la-malpagada/w/11982928?year=2020&price_id=34242394,Casa Rojo,Tokyo Gomez-Rojo La Malpagada 2020,"4,0","€25,95",1727909135.4866357
+/NL/nl/es-credo-ratpenat/w/2516035?year=2018&price_id=36739836,Celler Credo,Ratpenat 2018,"3,6","€25,95",1727909135.4877684
+/NL/nl/rafael-palacios-louro-godello/w/1620143?year=2022&price_id=34930588,Rafael Palacios,Louro Godello 2022,"4,1","€25,95",1727909135.4889042
+/NL/nl/bodegas-vilano-la-baraja-godello/w/9973364?year=2021&price_id=30113649,Bodegas Vilano,La Baraja Godello 2021,"4,1","€25,95",1727909135.4889042
+/NL/nl/lagar-de-cervera-albarino/w/1569801?year=2023&price_id=36383848,Lagar de Cervera,Albariño 2023,"4,1","€25,85",1727909135.490045
+/NL/nl/la-nina-de-cuenca-orovelo/w/7123817?year=2020&price_id=29884651,La Niña de Cuenca,Orovelo 2020,"4,1","€25,50",1727909135.491176
+/NL/nl/pazo-senorans-coleccion-albarino-rias-baixas/w/4151972?year=2023&price_id=36295550,Pazo Señorans,Colección Albariño Rías Baixas 2023,"4,1","€25,10",1727909135.4923441
+/NL/nl/raul-moreno-destellos/w/11829484?year=2022&price_id=36512671,Raul Moreno,Destellos 2022,"4,0",€25,1727909135.4933548
+/NL/nl/ostatu-lore-rioja/w/1981350?year=2020&price_id=33424278,Ostatu,Lore Rioja 2020,"4,0",€25,1727909135.4933548
+/NL/nl/moraza-las-tasugueras-blanc/w/11101342?year=2021&price_id=35230853,Bodegas Moraza,Las Tasugueras Blanc 2021,"4,0","€24,99",1727909135.494364
+/NL/nl/jean-leon-chardonnay-penedes-vinya-gigi/w/1535901?year=2022&price_id=35462333,Jean Leon,Chardonnay Penedès Vinya Gigi 2022,"4,1","€24,95",1727909135.4953756
+/NL/nl/mar-de-frades-godello/w/6538187?year=2020&price_id=33611486,Mar de Frades,Godello 2020,"3,8","€24,95",1727909135.4953756
+/NL/nl/rodriguez-sanzo-bajo-velo-verdejo/w/9095659?year=2021&price_id=32905495,Rodríguez Sanzo,Bajo Velo Verdejo 2021,"4,2","€24,95",1727909135.4965053
+/NL/nl/pedro-escudero-bestia-parda/w/7631924?year=2019&price_id=36783672,Bodegas Pedro Escudero,Bestia Parda 2019,"4,2","€24,95",1727909135.4965053
+/NL/nl/ossian-verdling-trocken-castilla-and-leon-white-wine/w/4202932?year=2016&price_id=34930551,Ossian,Verdling Trocken 2016,"3,8","€24,95",1727909135.4965053
+/NL/nl/bodegas-martin-codax-rias-baixas-albarino-organistrum/w/18114?year=2021&price_id=35638620,Bodegas Martín Códax,Rías Baixas Albariño Organistrum 2021,"4,0","€24,95",1727909135.4976301
+/NL/nl/torello-fifty-lliures-xarel-lo/w/9466791?year=2022&price_id=35776326,Torelló,50 Lliures Xarel·lo 2022,"3,9","€24,95",1727909135.4976301
+/NL/nl/telmo-rodriguez-el-transistor-verdejo/w/1441651?year=2020&price_id=27313292,Telmo Rodriguez,El Transistor Verdejo 2020,"3,8","€24,88",1727909135.4996805
+/NL/nl/mengoba-godello-sobre-lias/w/1376082?year=2022&price_id=35911685,Mengoba,Godello Sobre Lias 2022,"3,9","€24,70",1727909135.5006905
+/NL/nl/bodegas-amanovo-edicion-especial-verdejo-fb/w/9021489?year=2019&price_id=23726440,Bodegas Amanovo,Edición Especial Verdejo FB 2019,"4,4","€24,50",1727909135.5016966
+/NL/nl/telmo-rodriguez-el-transistor-verdejo/w/1441651?year=2022&price_id=35225720,Telmo Rodriguez,El Transistor Verdejo 2022,"3,9","€24,50",1727909135.5021994
+/NL/nl/javier-sanz-viticultor-fermentado-en-barrica-verdejo/w/1143872?year=2021&price_id=35548633,Javier Sanz Viticultor,Fermentado En Barrica Verdejo 2021,"3,9","€24,50",1727909135.5027041
+/NL/nl/jose-pariente-verdejo-fermentado-en-barrica/w/1491206?year=2022&price_id=34726297,José Pariente,Verdejo Fermentado en Barrica 2022,"4,2","€24,35",1727909135.5037148
+/NL/nl/botani-moscatel-old-vines/w/1240271?year=2022&price_id=35409764,Botani,Moscatel Old Vines 2022,"3,9","€24,25",1727909135.504736
+/NL/nl/casa-rojo-the-orange-republic/w/4628712?year=2022&price_id=34932521,Casa Rojo,The Orange Republic 2022,"4,0","€23,95",1727909135.5057943
+/NL/nl/valduero-bodegas-y-vinedo-blanco-de-albillo-garcia/w/1215270?year=2022&price_id=35345185,Bodegas Valduero,Blanco de Albillo (Garcia) 2022,"4,1","€23,95",1727909135.5057943
+/NL/nl/casa-rojo-la-marimorena-albarino/w/2472031?year=2022&price_id=36739624,Casa Rojo,La Marimorena Albariño 2022,"4,1","€23,95",1727909135.5068548
+/NL/nl/camino-del-bosque-libre-y-salvaje-narancha-orange/w/10599746?year=2019&price_id=31830865,Camino Del Bosque - Libre Y Salvaje,Narancha Orange 2019,"4,0","€23,95",1727909135.507913
+/NL/nl/esteban-celemin-senora-vale-albillo-real/w/7090272?year=2020&price_id=34633889,Esteban Celemín,Señora Vale Albillo Real 2020,"4,0","€23,95",1727909135.508964
+/NL/nl/bodegas-vilano-la-baraja-godello/w/9973364?year=2023&price_id=36720152,Bodegas Vilano,La Baraja Godello 2023,"4,2","€23,95",1727909135.508964
+/NL/nl/bodegas-vilano-la-baraja-godello/w/9973364?year=2022&price_id=35310060,Bodegas Vilano,La Baraja Godello 2022,"4,2","€27,95",1727909135.5099738
+/NL/nl/raul-perez-ultreia-godello/w/6835073?year=2021&price_id=35522395,Raúl Pérez,Ultreia Godello 2021,"4,0","€23,75",1727909135.5099738
+/NL/nl/enate-chardonnay-fermentado-en-barrica/w/9063?year=2022&price_id=34108829,Enate,Chardonnay Fermentado en Barrica 2022,"4,2","€23,70",1727909135.5109851
+/NL/nl/marques-de-riscal-finca-montico-gran-vino-de-rueda/w/1641428?year=2022&price_id=36314097,Marqués de Riscal,Finca Montico Gran Vino de Rueda 2022,"4,0","€23,50",1727909135.5115936
+/NL/nl/trossos-del-priorat-llum-d-alba/w/4561393?year=2022&price_id=35911662,Trossos del Priorat,Llum d'Alba 2022,"3,8","€23,45",1727909135.512211
+/NL/nl/esteban-celemin-verdeja-le-dicen/w/9997921?year=2020&price_id=34633888,Esteban Celemín,Verdeja le Dicen 2020,"4,0","€23,25",1727909135.5132887
+/NL/nl/telmo-rodriguez-el-transistor-verdejo/w/1441651?year=2021&price_id=34959818,Telmo Rodriguez,El Transistor Verdejo 2021,"3,9","€23,25",1727909135.5132887
+/NL/nl/eduardo-pena-castrelo-de-mino/w/1614612?year=2022&price_id=35911357,Eduardo Peña,Castrelo de Miño 2022,"4,1","€23,20",1727909135.5142932
+/NL/nl/rafael-palacios-louro-godello/w/1620143?year=2023&price_id=36607272,Rafael Palacios,Louro Godello 2023,"4,1","€23,15",1727909135.5154176
+/NL/nl/bodega-bravo-escos-la-font-del-mosquit-priorat/w/9104945?year=2022&price_id=36472114,Bodega Bravo Escós,La Font del Mosquit 2022,"4,1","€22,95",1727909135.516556
+/NL/nl/eivi-limited-release/w/1746501?year=2022&price_id=35106067,Eivi,Limited Release 2022,"4,1","€22,95",1727909135.5175707
+/NL/nl/eivi-limited-release/w/1746501?year=2023&price_id=37069185,Eivi,Limited Release 2023,"4,1","€22,95",1727909135.5186014
+/NL/nl/frisach-vernatxa-blanca/w/1994136?year=2022&price_id=36487386,Celler Frisach,Vernatxa Blanca 2022,"4,0","€22,95",1727909135.5196428
+/NL/nl/lagar-da-condesa-albarino-rias-baixas/w/1564535?year=2022&price_id=36739592,Lagar Da Condesa,Albariño Rías Baixas 2022,"3,8","€22,95",1727909135.5206673
+/NL/nl/sierra-de-tolono-viura/w/3226947?year=2020&price_id=32524892,Sierra de Toloño,Viura 2020,"3,7","€22,93",1727909135.5216954
+/NL/nl/bodegas-martin-codax-rias-baixas-albarino-organistrum/w/18114?year=2020&price_id=35393559,Bodegas Martín Códax,Rías Baixas Albariño Organistrum 2020,"4,1","€22,75",1727909135.522229
+/NL/nl/pazo-casanova-finca-vinoa-embotellado-tardio/w/6399137?year=2019&price_id=30848307,Pazo Casanova,Finca Viñoa Embotellado Tardío 2019,"4,0","€22,50",1727909135.5227365
+/NL/nl/belondrade-quinta-apolonia/w/2929881?year=2022&price_id=31980141,Belondrade,Quinta Apolonia 2022,"4,0","€22,50",1727909135.5237637
+/NL/nl/santiago-roma-roma-seleccion-rias-baixas-albarino/w/1197163?year=2022&price_id=35396548,Santiago Roma,Selección Albariño 2022,"4,0","€22,50",1727909135.5248218
+/NL/nl/menade-nosso-verdejo/w/2523589?year=2021&price_id=32524458,Menade,Nosso Verdejo 2021,"3,8","€22,36",1727909135.5258663
+/NL/nl/monopole-la-rioja-blanco-seco-clasico/w/1925448?year=2020&price_id=36562601,Monopole,Blanco Seco (Clasico) 2020,"3,8","€22,25",1727909135.5258663
+/NL/nl/pazo-senorans-albarino/w/50634?year=2022&price_id=33309937,Pazo Señorans,Albariño 2022,"4,1","€22,25",1727909135.5268784
+/NL/nl/can-axartell-corum/w/7555677?year=2021&price_id=34010058,Can Axartell,Corum 2021,"3,9","€22,20",1727909135.5268784
+/NL/nl/gran-vinum-mar-de-vinas-albarino/w/1372702?year=2023&price_id=36093284,Adegas Gran Vinum,Mar de Viñas Albariño 2023,"4,0","€22,11",1727909135.5278914
+/NL/nl/marques-de-riscal-finca-montico-gran-vino-de-rueda/w/1641428?year=2021&price_id=32529027,Marqués de Riscal,Finca Montico Gran Vino de Rueda 2021,"4,1","€21,98",1727909135.5278914
+/NL/nl/quinta-de-couselo-quinta-de-couselo/w/1313684?year=2021&price_id=30847575,Quinta de Couselo,Quinta de Couselo 2021,"4,1","€21,95",1727909135.529009
+/NL/nl/bodegas-clunia-albillo/w/6696991?year=2022&price_id=34627205,Bodegas Clunia,Albillo 2022,"4,0","€21,95",1727909135.530015
+/NL/nl/belondrade-quinta-apolonia/w/2929881?year=2023&price_id=37141953,Belondrade,Quinta Apolonia 2023,"4,0","€21,95",1727909135.531056
+/NL/nl/clos-93-parentesis-blanc-priorat/w/4513249?year=2019&price_id=29804571,Clos 93,Paréntesis Blanc 2019,"3,8","€21,95",1727909135.53216
+/NL/nl/tobella-bocins/w/6863831?year=2020&price_id=30096231,Tobella,Bocins 2020,"4,1","€21,95",1727909135.533205
+/NL/nl/lagar-de-la-salud-dulas-blanco-barrica/w/6718166?year=2021&price_id=34633903,Lagar de la Salud,Dulas Blanco Barrica 2021,"4,0","€21,95",1727909135.5342364
+/NL/nl/altavins-garnacha-blanca/w/2702936?year=2023&price_id=35270917,Altavins,Garnacha Blanca 2023,"3,9","€21,86",1727909135.5352516
+/NL/nl/sierra-de-tolono-viura/w/3226947?year=2023&price_id=35522806,Sierra de Toloño,Viura 2023,"3,7","€21,83",1727909135.536268
+/NL/nl/el-pacto-el-pacto-del-alto-najerilla-blanco/w/10484389?year=2021&price_id=34206251,El Pacto,El Pacto del Alto Najerilla Blanco 2021,"3,9","€21,79",1727909135.5373065
+/NL/nl/ossian-quintaluna/w/1169393?year=2021&price_id=36541213,Ossian,Quintaluna 2021,"4,0","€21,60",1727909135.5383615
+/NL/nl/vinatigo-listan-blanco-de-canarias-blanco/w/1853082?year=2022&price_id=36810825,Viñátigo,Listan Blanco de Canarias Blanco 2022,"3,8","€21,50",1727909135.5394304
+/NL/nl/attis-albarino-lias-finas/w/1249045?year=2023&price_id=36017090,Attis,Albariño Lías Finas 2023,"4,1","€21,50",1727909135.5404756
+/NL/nl/eduardo-pena-red/w/2184512?year=2022&price_id=35359355,Eduardo Peña,María Andrea 2022,"3,9","€21,50",1727909135.5414784
+/NL/nl/ferrador-treixadura-torrontes/w/10863689?year=2022&price_id=36902545,Ferrador,Treixadura - Torrontés 2022,"4,2","€21,40",1727909135.542992
+/NL/nl/iturrialde-txacoli-de-bizcaia-geroa-txakoli/w/5264069?year=2021&price_id=33767831,Iturrialde,Geroa Txakoli 2021,"3,7","€21,01",1727909135.5440025
+/NL/nl/pascual-leira-reyero-albarino/w/1199223?year=2023&price_id=36996763,Bodegas Pascual,Leira Reyero Albariño 2023,"4,0",€21,1727909135.545052
+/NL/nl/tentenublo-rioja-blanco/w/4152844?year=2021&price_id=34930840,Tentenublo,Rioja Blanco 2021,"3,8","€20,95",1727909135.546081
+/NL/nl/costeira-via-barrosa-albarino/w/7587471?year=2023&price_id=36730373,Viña Costeira,Via Barrosa Albariño 2023,"4,0","€20,77",1727909135.546081
+/NL/nl/javier-sanz-viticultor-singular-v-malcorta-verdejo/w/3973507?year=2023&price_id=36891936,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2023,"4,1","€23,95",1727909135.5471425
+/NL/nl/pazo-casanova-finca-vinoa-blanco/w/2306989?year=2021&price_id=30848306,Pazo Casanova,Finca Viñoa Blanco 2021,"4,0","€20,50",1727909135.548202
+/NL/nl/mas-foraster-josep-foraster-brisat-del-coster-macabeu-tc7fb/w/6596629?year=2022&price_id=32721489,Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2022,"3,8","€20,50",1727909135.5492392
+/NL/nl/estones-vine-blanco/w/3441518?year=2019&price_id=34155538,Estones,Vine Blanco 2019,"4,1","€20,50",1727909135.5502472
+/NL/nl/mas-foraster-josep-foraster-brisat-del-coster-macabeu-tc7fb/w/6596629?year=2021&price_id=29667448,Mas Foraster,Josep Foraster Brisat del Coster Macabeu 2021,"3,7","€20,50",1727909135.5502472
+/NL/nl/protos-verdejo/w/1135415?year=2023&price_id=36188501,Protos,Verdejo 2023,"3,9","€20,46",1727909135.5512605
+/NL/nl/lagar-de-cervera-pazo-de-seoane-rosal/w/4960687?year=2021&price_id=35911039,Lagar de Cervera,Pazo de Seoane Rosal 2021,"4,0","€20,40",1727909135.5517726
+/NL/nl/zarate-albarino/w/2342567?year=2023&price_id=35911693,Zárate,Albariño 2023,"4,0","€20,40",1727909135.5522838
+/NL/nl/eduardo-pena-red/w/2184512?year=2023&price_id=36040113,Eduardo Peña,María Andrea 2023,"3,9","€20,40",1727909135.5533314
+/NL/nl/acustic-celler-ritme-blanc/w/1315034?year=2022&price_id=35774353,Acustic Celler,Ritme Blanc 2022,"3,9","€20,25",1727909135.554373
+/NL/nl/pago-de-los-capellanes-o-luar-do-sil-valdeorras-godello-valdeorras-white-wine-v/w/5766980?year=2023&price_id=35941230,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2023,"4,2","€20,19",1727909135.5554235
+/NL/nl/es-macia-batle-blanc-de-blancs/w/77641?year=2023&price_id=36281252,Macià Batle,Blanc de Blancs 2023,"3,8","€20,02",1727909135.55644
+/NL/nl/marques-de-vizhoja-torre-la-moreira-albarino/w/1155895?year=2021&price_id=33469755,Marqués de Vizhoja,Torre la Moreira Albariño 2021,"3,9",€20,1727909135.5574486
+/NL/nl/adegas-moure-a-fuga-blanco/w/7394327?year=2021&price_id=29331233,Abadia da Cova,A Fuga Blanco 2021,"4,0",€20,1727909135.5595734
+/NL/nl/r-lopez-de-heredia-vina-tondonia-reserva-blanco/w/2155298?year=2001&price_id=35701772,R. López de Heredia,Viña Tondonia Reserva Blanco 2001,"4,0","€302,50",1727909135.5605776
+/NL/nl/jordi-llorens-kremo/w/8299504?year=2018&price_id=21640090,Jordi Llorens,Kremo 2018,"3,9",€21,1727909135.5615995
+/NL/nl/veronica-ortega-la-llorona-godello/w/9542815?year=2022&price_id=37028623,Veronica Ortega,La Llorona Godello 2022,"3,9","€28,30",1727909135.562651
+/NL/nl/gutierrez-de-la-vega-tio-raimundo/w/2913273?year=2018&price_id=21269369,Gutiérrez de la Vega,Tío Raimundo 2018,"3,8","€21,70",1727909135.5636916
+/NL/nl/javi-revert-micalet/w/6003367?year=2023&price_id=36497018,Javi Revert,Micalet 2023,"4,0","€33,40",1727909135.5647225
+/NL/nl/abadia-de-poblet-blanco/w/7134702?year=2018&price_id=31485174,Abadia de Poblet,Blanco 2018,"3,9","€25,77",1727909135.5657787
+/NL/nl/sicus-cartoixa/w/5384165?year=2019&price_id=34813036,Sicus,Cartoixà 2019,"3,7",€23,1727909135.5668278
+/NL/nl/el-grifo-malvasia-seco-coleccion/w/5837173?year=2022&price_id=31740810,El Grifo,Malvasia Seco Colección 2022,"4,1","€25,45",1727909135.5678532
+/NL/nl/mas-estela-vinya-selva-de-mar-blanco/w/94720?year=2021&price_id=32570358,Mas Estela,Vinya Selva de Mar Blanco 2021,"3,8","€29,31",1727909135.5688694
+/NL/nl/four-monos-albillo-real/w/4216107?year=2022&price_id=36826396,4 Monos,Albillo Real 2022,"3,8","€24,50",1727909135.5698814
+/NL/nl/ordonez-nisia-verdejo-old-vines/w/1375410?year=2016&price_id=12012953,Ordóñez,Nisia Verdejo Old Vines 2016,"3,8","€29,29",1727909135.5714056
+/NL/nl/masia-serra-ctonia/w/1490880?year=2023&price_id=35500968,Masia Serra,Ctònia 2023,"3,8","€34,28",1727909135.5719144
+/NL/nl/bodega-campo-eliseo-campo-eliseo-blanco/w/5388543?year=2018&price_id=32075985,Bodega Campo Eliseo,Campo Eliseo Blanco 2018,"4,2","€35,90",1727909135.572926
+/NL/nl/fillaboa-seleccion-finca-monte-alto/w/2081101?year=2018&price_id=30720897,Fillaboa,Selección Finca Monte Alto 2018,"4,0","€24,95",1727909135.573938
+/NL/nl/botani-moscatel-old-vines/w/1240271?year=2016&price_id=25832353,Botani,Moscatel Old Vines 2016,"4,0",€21,1727909135.576193
+/NL/nl/bodegas-chaves-cinco-islas-oro-albarino/w/7725123?year=2021&price_id=34857577,Bodegas Chaves,Cinco Islas Oro Albariño 2021,"4,4","€36,95",1727909135.5772066
+/NL/nl/davide-albarino/w/1304004?year=2022&price_id=33624892,DaVide,Albariño 2022,"4,1","€23,26",1727909135.5782192
+/NL/nl/jose-pariente-verdejo-fermentado-en-barrica/w/1491206?year=2021&price_id=36285649,José Pariente,Verdejo Fermentado en Barrica 2021,"4,2","€28,34",1727909135.5792315
+/NL/nl/pazo-casanova-finca-vinoa-embotellado-tardio/w/6399137?year=2020&price_id=34281640,Pazo Casanova,Finca Viñoa Embotellado Tardío 2020,"4,1","€20,70",1727909135.5792315
+/NL/nl/pazo-san-mauro-sanamaro-sobre-lias/w/96993?year=2021&price_id=35026846,Pazo San Mauro,Sanamaro Sobre Lias 2021,"4,0","€48,46",1727909135.5802433
+/NL/nl/d-mateos-la-mateo-tempranillo-blanco/w/4977519?year=2021&price_id=33769053,D. Mateos,La Mateo Tempranillo Blanco 2021,"4,0","€27,90",1727909135.581269
+/NL/nl/belondrade-les-parcelles-rueda/w/11590493?year=2018&price_id=36256527,Belondrade,Les Parcelles 2018,"4,5","€458,20",1727909135.581269
+/NL/nl/remelluri-rioja-blanco/w/1156354?year=2013&price_id=34335587,Remelluri,Rioja Blanco 2013,"4,4","€89,50",1727909135.5818193
+/NL/nl/r-lopez-de-heredia-vina-tondonia-gran-reserva-blanco/w/9121?year=1996&price_id=35947397,R. López de Heredia,Viña Tondonia Gran Reserva Blanco 1996,"4,3",€133,1727909135.5823643
+/NL/nl/cota-45-ube-de-uberrima-albariza-de-barajuelas-maina/w/6116788?year=2016&price_id=35947085,Cota 45,UBE de Ubérrima Maina 2016,"4,1","€49,95",1727909135.5833964
+/NL/nl/davide-two-duo/w/1909717?year=2023&price_id=36283260,DaVide,2 Dúo 2023,"3,9","€21,10",1727909135.585429
+/NL/nl/cesca-vicent-cabaler/w/1968657?year=2021&price_id=34527586,Cesca Vicent,Cabaler 2021,"4,0","€21,25",1727909135.5864396
+/NL/nl/lagar-de-cervera-albarino/w/1569801?year=2021&price_id=30714443,Lagar de Cervera,Albariño 2021,"4,0","€23,80",1727909135.5874724
+/NL/nl/david-sampedro-gil-phincas-thousand-mils-blanco/w/2681637?year=2019&price_id=34361556,Bodegas Bhilar,Phincas Thousand Mils Blanco 2019,"4,1","€35,40",1727909135.588525
+/NL/nl/mas-d-en-gil-coma-blanca-priorat/w/1543909?year=2017&price_id=31485220,Mas d'en Gil,Coma Blanca Priorat 2017,"4,3","€56,27",1727909135.589579
+/NL/nl/raul-perez-sketch/w/1404969?year=2015&price_id=34679016,Raúl Pérez,Sketch 2015,"4,3","€84,70",1727909135.590667
+/NL/nl/mar-de-frades-albarino-atlantico-rias-baixas-white-wine-v-xsnde/w/1143504?year=2022&price_id=31485052,Mar de Frades,Albariño Atlantico 2022,"4,2","€23,30",1727909135.593135
+/NL/nl/es-espelt-quinze-roures/w/96031?year=2021&price_id=33624901,Espelt,Quinze Roures 2021,"3,9","€28,39",1727909135.5941586
+/NL/nl/alemany-i-corrio-cargol-ttreu-vi/w/1987057?year=2022&price_id=34338948,Alemany i Corrió,Cargol Ttreu Vi 2022,"3,9","€26,14",1727909135.5951772
+/NL/nl/toro-albala-miut-el-jabonero/w/10453608?year=2020&price_id=27520172,Toro Albalá,Miut El Jabonero 2020,"4,0","€39,95",1727909135.5961874
+/NL/nl/forjas-del-salnes-goliardo-a-telleira-albarino/w/2145699?year=2021&price_id=32231737,Forjas del Salnés,Goliardo a Telleira Albariño 2021,"4,2","€29,80",1727909135.5972111
+/NL/nl/forjas-del-salnes-goliardo-tintos-de-mar-loureiro/w/1497495?year=2019&price_id=34173949,Forjas del Salnés,Goliardo Tintos de Mar Loureiro 2019,"3,7","€27,15",1727909135.5982585
+/NL/nl/suertes-del-marques-trenzado/w/1691634?year=2023&price_id=36487352,Suertes del Marqués,Trenzado 2023,"3,9",€20,1727909135.5992916
+/NL/nl/pazo-barrantes-albarino/w/1183384?year=2021&price_id=37092929,Pazo Barrantes,Albariño 2021,"3,8","€45,95",1727909135.6013136
+/NL/nl/telmo-rodriguez-mr-mountain-wine/w/1884649?year=2015&price_id=36689603,Telmo Rodriguez,MR (Mountain Wine) 2015,"4,2","€39,95",1727909135.6023386
+/NL/nl/telmo-rodriguez-mr-mountain-wine/w/1884649?year=2016&price_id=30614245,Telmo Rodriguez,MR (Mountain Wine) 2016,"4,1","€39,95",1727909135.6033525
+/NL/nl/marques-de-riscal-baron-de-chirel-verdejo-vinas-centenarias/w/4626475?year=2021&price_id=33444999,Marqués de Riscal,Barón de Chirel Verdejo Viñas Centenarias 2021,"4,1","€53,48",1727909135.6043656
+/NL/nl/cesar-marquez-perez-la-salvacion-godello/w/5499005?year=2022&price_id=35847501,César Márquez,La Salvación Godello 2022,"4,2","€23,80",1727909135.6053898
+/NL/nl/rodrigo-mendez-cies-blanco/w/2184024?year=2021&price_id=29556870,Rodrigo Mendez,Cies Blanco 2021,"4,1","€21,90",1727909135.606432
+/NL/nl/bodega-contador-benjamin-romeo-que-bonito-cacareaba-blanco/w/1226981?year=2021&price_id=31484659,Bodega Contador (Benjamín Romeo),Qué Bonito Cacareaba Blanco 2021,"4,4","€60,78",1727909135.6074429
+/NL/nl/paco-lola-vintage-albarino-rias-baixas/w/5529093?year=2018&price_id=34424702,Paco & Lola,Vintage Albariño 2018,"4,2","€26,90",1727909135.6095235
+/NL/nl/villota-blanco/w/6243844?year=2018&price_id=34426319,Villota,Blanco 2018,"4,0","€23,47",1727909135.6105638
+/NL/nl/godeval-godello-revival/w/3874824?year=2022&price_id=37123679,Godeval,Revival Godello 2022,"4,4","€37,50",1727909135.6120856
+/NL/nl/enric-soler-espenyalluchs/w/3363528?year=2022&price_id=36084625,Enric Soler,Espenyalluchs 2022,"4,2","€54,50",1727909135.613096
+/NL/nl/godeval-godello-revival/w/3874824?year=2022&price_id=37123679,Godeval,Revival Godello 2022,"4,4","€37,50",1727909135.6141267
+/NL/nl/villota-blanco/w/6243844?year=2018&price_id=34426319,Villota,Blanco 2018,"4,0","€23,47",1727909135.61519
+/NL/nl/nivarius-finca-la-nevera/w/7126673?year=2017&price_id=33996458,Nivarius,Finca la Nevera 2017,"4,2","€22,90",1727909135.6162398
+/NL/nl/remelluri-rioja-blanco/w/1156354?year=2021&price_id=36532055,Remelluri,Rioja Blanco 2021,"4,3","€109,95",1727909135.618264
+/NL/nl/jose-pariente-cuvee-especial-verdejo/w/1586229?year=2019&price_id=33110429,José Pariente,Cuvée Especial Verdejo 2019,"4,1","€34,95",1727909135.6192756
+/NL/nl/familia-torres-milmanda/w/2623?year=2019&price_id=37075280,Familia Torres,Milmanda 2019,"4,1","€49,90",1727909135.620307
+/NL/nl/godeval-cepas-vellas-godello/w/1360389?year=2022&price_id=34234151,Godeval,Cepas Vellas Godello 2022,"4,2","€24,50",1727909135.6228917
+/NL/nl/es-lolivera-agaliu/w/1475218?year=2022&price_id=35182720,L'Olivera,Agaliu 2022,"3,7","€20,32",1727909135.623931
+/NL/nl/olivardots-blanc-de-gresa/w/1640127?year=2021&price_id=34497759,Olivardots,Blanc de Gresa 2021,"4,0","€27,30",1727909135.6249824
+/NL/nl/celler-marti-fabra-masia-carreras-emporda-blanco/w/2078469?year=2022&price_id=36875253,Martí Fabra,Masia Carreras Empordà Blanco 2022,"4,2","€20,40",1727909135.626027
+/NL/nl/shaya-habis/w/1197819?year=2021&price_id=35965483,Shaya,Habis 2021,"4,2","€24,25",1727909135.6270435
+/NL/nl/r-lopez-de-heredia-vina-tondonia-reserva-blanco/w/2155298?year=2012&price_id=35690494,R. López de Heredia,Viña Tondonia Reserva Blanco 2012,"4,4","€186,95",1727909135.6280515
+/NL/nl/enric-soler-istiu-blanco-vino-de-mesa/w/6328890?year=2021&price_id=37017571,Enric Soler,Istiu Blanco 2021,"4,2",€35,1727909135.629079
+/NL/nl/pazo-barrantes-la-comtesse-de-pazo-barrantes-albarino/w/1378925?year=2018&price_id=32278921,Pazo Barrantes,La Comtesse de Pazo Barrantes Albariño 2018,"4,4",€120,1727909135.6301389
+/NL/nl/tomas-cusine-macabeu-de-vinyes-velles-finca-racons/w/1199172?year=2018&price_id=31575835,Tomàs Cusiné,Macabeu De vinyes Velles Finca Racons 2018,"3,9","€29,91",1727909135.6316843
+/NL/nl/r-lopez-de-heredia-vina-gravonia/w/1399369?year=2015&price_id=34186473,R. López de Heredia,Viña Gravonia 2015,"4,2","€46,10",1727909135.6321924
+/NL/nl/celler-cal-pla-sl-mas-d-en-compte-priorat-white/w/1739977?year=2018&price_id=34306520,Cal Pla,Mas d'en Compte Priorat White 2018,"4,2","€23,50",1727909135.6342318
+/NL/nl/at-roca-cantallops-xarel-lo/w/4919107?year=2022&price_id=34155429,AT Roca,Cantallops Xarel-lo 2022,"4,2","€20,95",1727909135.636295
+/NL/nl/clos-mogador-nelin/w/1178755?year=2018&price_id=33512054,Clos Mogador,Nelin 2018,"4,2","€64,99",1727909135.636376
+/NL/nl/anima-mundi-comunidad-autnoma-de-catalua-at-roca-xarel-lo/w/6193295?year=2021&price_id=35119751,Anima Mundi,Xarel-lo 2021,"4,2","€24,60",1727909135.6373816
+/NL/nl/can-rafols-dels-caus-pairal-xarel-lo/w/1208693?year=2020&price_id=33734045,Can Ràfols dels Caus,Pairal Xarel-lo 2020,"4,1","€37,95",1727909135.638423
+/NL/nl/menade-nosso-verdejo/w/2523589?year=2020&price_id=27507451,Menade,Nosso Verdejo 2020,"4,0","€36,95",1727909135.638423
+/NL/nl/can-rafols-dels-caus-pairal-xarel-lo/w/1208693?year=2019&price_id=32264271,Can Ràfols dels Caus,Pairal Xarel-lo 2019,"4,1",€32,1727909135.6394558
+/NL/nl/familia-torres-sons-de-prades-vinyes-de-milmanda/w/5027645?year=2021&price_id=32584356,Familia Torres,Sons de Prades Vinyes de Milmanda 2021,"4,0","€28,45",1727909135.6404662
+/NL/nl/r-lopez-de-heredia-vina-tondonia-reserva-blanco/w/2155298?year=2012&price_id=35690494,R. López de Heredia,Viña Tondonia Reserva Blanco 2012,"4,4","€186,95",1727909135.641472
+/NL/nl/jose-pariente-cuvee-especial-verdejo/w/1586229?year=2019&price_id=33110429,José Pariente,Cuvée Especial Verdejo 2019,"4,1","€34,95",1727909135.643799
+/NL/nl/shaya-habis/w/1197819?year=2021&price_id=35965483,Shaya,Habis 2021,"4,2","€24,25",1727909135.6448154
+/NL/nl/at-roca-cantallops-xarel-lo/w/4919107?year=2022&price_id=34155429,AT Roca,Cantallops Xarel-lo 2022,"4,2","€20,95",1727909135.645842
+/NL/nl/descregut-desc-regut-penedes-vermell-red-wine-v-lc43d/w/5479881?year=2022&price_id=34402820,Descregut,Vermell 2022,"3,8","€21,20",1727909135.6468897
+/NL/nl/pinol-l-avi-arrufi-blanc/w/1392781?year=2021&price_id=31484936,Celler Piñol,L'Avi Arrufi Blanc 2021,"4,0","€24,43",1727909135.6479208
+/NL/nl/dominio-do-bibei-lapola/w/1147593?year=2021&price_id=35401091,Dominio do Bibei,Lapola 2021,"4,2","€23,90",1727909135.6489835
+/NL/nl/la-vizcaina-la-del-vivo-lomas-de-valtuille/w/1646826?year=2022&price_id=36875532,La Vizcaína,La del Vivo (Lomas de Valtuille) 2022,"4,1","€21,90",1727909135.6499882
+/NL/nl/la-vizcaina-la-del-vivo-lomas-de-valtuille/w/1646826?year=2021&price_id=35878441,La Vizcaína,La del Vivo (Lomas de Valtuille) 2021,"4,1","€53,70",1727909135.6521292
+/NL/nl/enric-soler-nun-vinya-dels-taus/w/1223714?year=2021&price_id=36876963,Enric Soler,Nun Vinya dels Taus 2021,"4,4","€59,45",1727909135.6531444
+/NL/nl/godeval-nineteen-eightysix-godello/w/9724965?year=2018&price_id=35707933,Godeval,1986 Godello 2018,"4,4","€77,90",1727909135.6541746
+/NL/nl/vinyes-dels-aspres-blanc-dels-aspres-crianca/w/1173672?year=2022&price_id=33624943,Vinyes dels Aspres,Blanc dels Aspres Criança 2022,"4,1","€26,38",1727909135.6552207
+/NL/nl/ossian-vinas-viejas-verdejo-castilla-and-leon/w/6142915?year=2018&price_id=34255709,Ossian,Viñas Viejas Verdejo 2018,"4,2","€39,95",1727909135.6562316
+/NL/nl/mar-de-frades-finca-valinas/w/1146614?year=2017&price_id=31485108,Mar de Frades,Finca Valiñas 2017,"4,3","€33,48",1727909135.657258
+/NL/nl/edetaria-blanca/w/1622859?year=2020&price_id=33731201,Edetària,Blanca 2020,"3,9","€33,09",1727909135.6593137
+/NL/nl/naia-naia/w/87930?year=2018&price_id=33110221,Naia,Naia 2018,"3,9","€32,95",1727909135.6603289
+/NL/nl/tianna-negre-ses-nines-seleccio-blanc-07-9/w/1635379?year=2022&price_id=32079692,Tianna Negre,Ses Nines Blanc Selecció 07/9 2022,"3,8","€21,31",1727909135.6613412
+/NL/nl/azpilicueta-coleccion-privada-blanco/w/1677249?year=2021&price_id=31484941,Azpilicueta,Colección Privada Blanco 2021,"4,2","€26,46",1727909135.6623647
+/NL/nl/horacio-calvente-guindalera/w/1210442?year=2021&price_id=30555635,Horacio Calvente,Guindalera 2021,"3,9","€22,50",1727909135.6633744
+/NL/nl/pretium-blanco/w/6900479?year=2020&price_id=36794042,Pretium,Blanco 2020,"3,9","€26,95",1727909135.6644053
+/NL/nl/attis-embaixador-albarino/w/4995987?year=2020&price_id=32208093,Attis,Embaixador Albariño 2020,"4,4","€38,80",1727909135.665459
+/NL/nl/vall-llach-aigua-de-llum/w/1683812?year=2022&price_id=34306533,Vall Llach,Aigua de Llum 2022,"4,1","€58,32",1727909135.6665099
+/NL/nl/tapada-fermentado-en-barrica-godello/w/1241106?year=2021&price_id=32570378,Bodega la Tapada - Guitian,Fermentado en Barrica Godello 2021,"3,8","€30,81",1727909135.667605
+/NL/nl/marques-de-riscal-finca-montico-gran-vino-de-rueda/w/1641428?year=2019&price_id=34433198,Marqués de Riscal,Finca Montico Gran Vino de Rueda 2019,"3,8","€22,99",1727909135.6686087
+/NL/nl/alfredo-arribas-trossos-sants/w/1362221?year=2018&price_id=24589650,Alfredo Arribas,Trossos Sants 2018,"3,9","€21,50",1727909135.669622
+/NL/nl/artadi-santa-cruz-de-artazu-blanco/w/7386777?year=2018&price_id=32867704,Artadi,Santa Cruz de Artazu Blanco 2018,"3,9","€23,50",1727909135.6706374
+/NL/nl/fedellos-do-couto-testoiro/w/9250263?year=2022&price_id=36352844,Fedellos do Couto,Testoiro 2022,"4,0","€26,90",1727909135.6721652
+/NL/nl/es-bodegas-el-paraguas-la-sombrilla/w/5237348?year=2020&price_id=32895671,Bodegas El Paraguas,La Sombrilla 2020,"4,2",€45,1727909135.6732001
+/NL/nl/eivi-limited-release/w/1746501?year=2021&price_id=36383022,Eivi,Limited Release 2021,"4,1","€21,95",1727909135.6742342
+/NL/nl/gramona-sauvignon-blanc-penedes/w/1825219?year=2022&price_id=33731198,Gramona,Sauvignon Blanc Penedès 2022,"3,9","€26,37",1727909135.6752434
+/NL/nl/sicus-sons-cartoixa/w/5394416?year=2017&price_id=34813046,Sicus,Sons Cartoixá 2017,"3,9",€47,1727909135.6762562
+/NL/nl/tapada-sobre-lias-godello/w/1200765?year=2021&price_id=31484701,Bodega la Tapada - Guitian,Sobre Lías Godello 2021,"4,0","€25,83",1727909135.6772811
+/NL/nl/vinyes-singulars-xarel-lo/w/1501861?year=2021&price_id=31485340,Vinyes Singulars,Xarel-lo 2021,"3,8","€24,22",1727909135.678331
+/NL/nl/vins-el-cep-clot-del-roure-xarel-lo/w/1773335?year=2021&price_id=31485225,Vins El Cep,Clot del Roure Xarel-lo 2021,"4,1","€25,35",1727909135.679383
+/NL/nl/vinyes-singulars-macabeu/w/2291781?year=2021&price_id=35182712,Vinyes Singulars,Macabeu 2021,"3,7","€23,80",1727909135.6804328
+/NL/nl/bodegas-clunia-albillo/w/6696991?year=2023&price_id=36398968,Bodegas Clunia,Albillo 2023,"4,0","€21,95",1727909135.6820037
+/NL/nl/barbara-fores-blanc/w/1229013?year=2021&price_id=33624897,Bàrbara Forés,Blanc 2021,"3,7","€24,74",1727909135.6825202
+/NL/nl/ordonez-nisia-las-suertes-verdejo-old-vines/w/4846683?year=2017&price_id=18031221,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2017,"4,2","€29,16",1727909135.6846411
+/NL/nl/joaquim-batlle-foranell-picapoll/w/1865475?year=2021&price_id=35387625,Joaquim Batlle,Foranell Picapoll 2021,"3,9","€22,46",1727909135.685656
+/NL/nl/telmo-rodriguez-molino-real-mountain-blanco/w/1245000?year=2017&price_id=31484677,Telmo Rodriguez,Molino Real Mountain Blanco 2017,"4,2","€45,29",1727909135.6866891
+/NL/nl/alta-alella-cau-d-en-genis/w/3844956?year=2022&price_id=37196327,Alta Alella,Cau d'en Genís 2022,"3,9","€22,90",1727909135.6877282
+/NL/nl/mas-blanch-i-jove-sao-blanc/w/1491539?year=2014&price_id=33327131,Mas Blanch I Jove,Saó Blanc 2014,"3,8","€25,32",1727909135.6887794
+/NL/nl/finca-pedreira-o-equilibrio/w/2030936?year=2022&price_id=33734042,Bodegas Fulcro,O Equilibrio 2022,"4,1","€22,80",1727909135.6898315
+/NL/nl/telmo-rodriguez-el-transistor-verdejo/w/1441651?year=2019&price_id=31787216,Telmo Rodriguez,El Transistor Verdejo 2019,"3,8","€24,50",1727909135.6908805
+/NL/nl/pardas-pur-xarel-lo/w/5261872?year=2019&price_id=35401375,Pardas,Pur Xarel-lo 2019,"3,9","€22,95",1727909135.6923933
+/NL/nl/bodegas-chaves-cinco-islas-oro-albarino/w/7725123?year=2018&price_id=31699614,Bodegas Chaves,Cinco Islas Oro Albariño 2018,"4,4","€34,50",1727909135.693399
+/NL/nl/artadi-vinas-de-gain-blanco/w/2970021?year=2016&price_id=37058583,Artadi,Viñas de Gain Blanco 2016,"3,8",€30,1727909135.6944437
+/NL/nl/clos-mogador-nelin/w/1178755?year=2012&price_id=35947385,Clos Mogador,Nelin 2012,"4,2","€81,51",1727909135.6954968
+/NL/nl/toro-albala-miut-l-assemblage/w/10839944?year=2020&price_id=34857760,Toro Albalá,Miut L'Assemblage 2020,"3,7","€41,95",1727909135.6965492
+/NL/nl/sangenis-lo-coster-blanc/w/1981483?year=2022&price_id=34877257,Sangenís I Vaqué,Lo Coster Blanc 2022,"4,2","€26,70",1727909135.6975908
+/NL/nl/can-bas-la-creu/w/2284871?year=2022&price_id=35574650,Can Bas,La Creu 2022,"4,1","€29,95",1727909135.6986756
+/NL/nl/hermanos-lurton-cuesta-de-oro-verdejo/w/13694?year=2022&price_id=35500930,Hermanos Lurton,Cuesta de Oro Verdejo 2022,"4,0","€26,28",1727909135.6996803
+/NL/nl/alvear-three-miradas-cerro-macho/w/6334479?year=2019&price_id=32216027,Alvear,3 Miradas Cerro Macho 2019,"3,9","€24,85",1727909135.7006943
+/NL/nl/adegas-valminor-davila-m-100/w/2325855?year=2018&price_id=35156183,Valmiñor,Davila M-100 2018,"3,8","€23,70",1727909135.7022054
+/NL/nl/can-feixes-chardonnay/w/1375273?year=2020&price_id=32264251,Huguet de Can Feixes,Chardonnay 2020,"4,0","€24,10",1727909135.7032104
+/NL/nl/francisco-castillo-priorat-blanc/w/2414335?year=2023&price_id=36946430,Bodegas Celler Francisco Castillo - Clos Dominic,Priorat Blanc 2023,"4,1","€22,80",1727909135.7042236
+/NL/nl/el-grillo-y-la-luna-canto-del-grillo-cri-cri/w/1684367?year=2021&price_id=32231727,El Grillo y La Luna,"Canto del Grillo Cri, Cri 2021","4,2","€25,45",1727909135.7052393
+/NL/nl/escoda-sanahuja-els-bassots/w/1176629?year=2022&price_id=33670778,Escoda-Sanahuja,Els Bassots 2022,"4,0","€22,30",1727909135.706264
+/NL/nl/algueira-cortezada-ribeira-sacra/w/1862105?year=2023&price_id=36893101,Algueira,Cortezada 2023,"3,9","€25,20",1727909135.7073112
+/NL/nl/murua-murua-blanco-fermentado-en-barrica/w/1651489?year=2020&price_id=28970050,Murua,Murua Blanco Fermentado en Barrica 2020,"4,2","€22,50",1727909135.7083402
+/NL/nl/chivite-comunidad-foral-de-navarra-navarra-coleccion-125-blanco/w/78778?year=2021&price_id=36930988,Chivite,Navarra Coleccion 125 Blanco 2021,"4,3","€37,29",1727909135.7093863
+/NL/nl/laventura-viura/w/2951038?year=2022&price_id=36595504,Laventura,Viura 2022,"3,9","€20,19",1727909135.7104645
+/NL/nl/es-lolivera-blanc-de-marges/w/4827800?year=2018&price_id=19870422,L'Olivera,Blanc de Marges 2018,"4,1","€20,22",1727909135.711934
+/NL/nl/pazos-de-lusco-lusco-albarino/w/1186952?year=2022&price_id=32911179,Pazos de Lusco,Lusco Albariño 2022,"4,0","€22,95",1727909135.7129622
+/NL/nl/tapada-godello/w/5111264?year=2022&price_id=33306431,Bodega la Tapada - Guitian,Godello 2022,"3,9","€20,98",1727909135.7152364
+/NL/nl/terras-gauda-terras-gauda-o-rosal-etiqueta-negra-black-label/w/3705?year=2021&price_id=33295375,Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2021,"4,2","€36,95",1727909135.716262
+/NL/nl/attis-sitta-doliola/w/7950788?year=2018&price_id=30209464,Attis,Sitta Doliola 2018,"4,0","€39,50",1727909135.7173033
+/NL/nl/masies-davinyo-abadal-nuat/w/1542141?year=2020&price_id=35226893,Abadal,Nuat 2020,"3,9","€32,60",1727909135.7183142
+/NL/nl/naia-naiades/w/87931?year=2011&price_id=24899699,Naia,Naiades 2011,"4,1","€59,95",1727909135.7193234
+/NL/nl/mas-de-mancuso-macabeo/w/7418629?year=2020&price_id=35988556,Mas de Mancuso,Macabeo 2020,"4,0","€26,70",1727909135.7203543
+/NL/nl/josep-grau-viticultor-carenes-gratallops/w/11303144?year=2021&price_id=32278919,Josep Grau Viticultor,Carenes Gratallops 2021,"4,2","€41,70",1727909135.7213864
+/NL/nl/pazo-casanova-finca-vinoa-blanco/w/2306989?year=2022&price_id=34575693,Pazo Casanova,Finca Viñoa Blanco 2022,"4,0","€20,95",1727909135.7224038
+/NL/nl/mesquida-mora-acrollam-blanc/w/1261599?year=2023&price_id=36876991,Mesquida Mora,Acrollam Blanc 2023,"3,8","€23,45",1727909135.723415
+/NL/nl/enric-soler-nun-vinya-dels-taus/w/1223714?year=2022&price_id=36084628,Enric Soler,Nun Vinya dels Taus 2022,"4,3","€69,50",1727909135.7244313
+/NL/nl/nin-ortiz-terra-vermella-de-nin-blanco/w/4220654?year=2017&price_id=23876387,Nin-Ortiz,Terra Vermella de Nin Blanco 2017,"4,2","€44,49",1727909135.7254584
+/NL/nl/enric-soler-nun-vinya-dels-taus/w/1223714?year=2020&price_id=27666347,Enric Soler,Nun Vinya dels Taus 2020,"4,4","€57,50",1727909135.7264884
+/NL/nl/fillaboa-seleccion-finca-monte-alto/w/2081101?year=2021&price_id=35156170,Fillaboa,Selección Finca Monte Alto 2021,"4,1","€23,30",1727909135.727524
+/NL/nl/clos-d-agon-amic-blanc/w/1526732?year=2023&price_id=36972590,Clos d'Agon,Amic Blanc 2023,"3,7","€21,96",1727909135.7285752
+/NL/nl/palacios-remondo-rioja-placet-valtomelloso/w/1220246?year=2023&price_id=36603615,Palacios Remondo,Rioja Plácet Valtomelloso 2023,"3,9","€29,40",1727909135.7307308
+/NL/nl/nin-ortiz-terra-vermella-de-nin-blanco/w/4220654?year=2016&price_id=22359157,Nin-Ortiz,Terra Vermella de Nin Blanco 2016,"4,0","€44,49",1727909135.7317443
+/NL/nl/r-lopez-de-heredia-vina-gravonia/w/1399369?year=2016&price_id=35989761,R. López de Heredia,Viña Gravonia 2016,"4,2","€49,90",1727909135.7322485
+/NL/nl/aalto-blanco-de-parcela/w/9412660?year=2020&price_id=32844001,Aalto,Blanco de Parcela 2020,"4,2","€66,55",1727909135.7342818
+/NL/nl/agro-de-bazan-granbazan-albarino-etiqueta-ambar/w/1706062?year=2022&price_id=32797211,Agro de Bazán,Granbazán Albariño Etiqueta Ámbar 2022,"4,0","€23,55",1727909135.7353268
+/NL/nl/pazo-senorans-coleccion-albarino-rias-baixas/w/4151972?year=2019&price_id=36693065,Pazo Señorans,Colección Albariño Rías Baixas 2019,"4,0","€26,46",1727909135.7363667
+/NL/nl/edetaria-seleccio-blanca/w/2432292?year=2021&price_id=35174031,Edetària,Selecció Blanca 2021,"4,1","€24,90",1727909135.7374039
+/NL/nl/bodegas-san-roman-malvasia/w/7203788?year=2020&price_id=32215965,Bodegas San Román,Malvasia 2020,"4,2","€38,85",1727909135.738416
+/NL/nl/familia-torres-milmanda/w/2623?year=2017&price_id=25135675,Familia Torres,Milmanda 2017,"4,1","€74,06",1727909135.7394314
+/NL/nl/orto-blanc-d-orto-brisat/w/4441415?year=2021&price_id=36724474,Orto Vins,Blanc d'Orto Brisat 2021,"3,8","€21,15",1727909135.7404644
+/NL/nl/venus-la-universal-dido-macabeu-garnatxa-cartoixa/w/1173057?year=2021&price_id=32346759,Venus la Universal,Dido Macabeu - Garnatxa - Cartoixa 2021,"4,0","€24,46",1727909135.742753
+/NL/nl/jean-leon-chardonnay-penedes-vinya-gigi/w/1535901?year=2018&price_id=25649739,Jean Leon,Chardonnay Penedès Vinya Gigi 2018,"3,9","€32,60",1727909135.7437837
+/NL/nl/anima-negra-quibia-falanis/w/1227001?year=2022&price_id=34589770,Ànima Negra,Quíbia (Falanis) 2022,"3,8","€22,63",1727909135.7447968
+/NL/nl/forjas-del-salnes-leirana-finca-genoveva-albarino/w/1789020?year=2021&price_id=30440443,Forjas del Salnés,Leirana Finca Genoveva Albariño 2021,"4,1","€33,90",1727909135.7458367
+/NL/nl/do-ferreiro-cepas-vellas-rias-baixas-albarino/w/1191728?year=2022&price_id=34638319,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2022,"4,3","€34,90",1727909135.7468793
+/NL/nl/anima-mundi-comunidad-autnoma-de-catalua-at-roca-pells-skin-contact-macabeu/w/6192634?year=2021&price_id=28553366,Anima Mundi,Pells Skin Contact Macabeu 2021,"4,2","€25,79",1727909135.747923
+/NL/nl/vinsnus-siuralta-gris/w/2848405?year=2019&price_id=24612502,Vinsnus,SiurAlta Gris 2019,"3,8","€29,50",1727909135.748935
+/NL/nl/ossian-vinas-viejas-verdejo-castilla-and-leon/w/6142915?year=2019&price_id=30304496,Ossian,Viñas Viejas Verdejo 2019,"4,3","€35,50",1727909135.7515678
+/NL/nl/terra-remota-caminante/w/1239974?year=2023&price_id=35411293,Terra Remota,Caminante 2023,"4,1","€21,50",1727909135.752091
+/NL/nl/fefinanes-albarino-de-fefinanes-iii-ano/w/1187112?year=2021&price_id=35580834,Fefiñanes,Albariño de Fefiñanes III Año 2021,"4,2","€42,60",1727909135.7531066
+/NL/nl/eudald-massana-noya-avi-ton-xarel-lo/w/1604363?year=2021&price_id=32079686,Eudald Massana Noya,Avi Ton Xarel-lo 2021,"3,9","€27,27",1727909135.7541237
+/NL/nl/cervoles-blanc/w/1126962?year=2021&price_id=34900122,Cérvoles,Blanc 2021,"4,0","€25,60",1727909135.7562156
+/NL/nl/vinsnus-siuralta-gris/w/2848405?year=2019&price_id=24612502,Vinsnus,SiurAlta Gris 2019,"3,8","€29,50",1727909135.75727
+/NL/nl/fefinanes-albarino-de-fefinanes-iii-ano/w/1187112?year=2021&price_id=35580834,Fefiñanes,Albariño de Fefiñanes III Año 2021,"4,2","€42,60",1727909135.7583349
+/NL/nl/eudald-massana-noya-avi-ton-xarel-lo/w/1604363?year=2021&price_id=32079686,Eudald Massana Noya,Avi Ton Xarel-lo 2021,"3,9","€27,27",1727909135.759444
+/NL/nl/valtea-cuvee-especial-albarino/w/4259448?year=2019&price_id=24659921,Valtea,Cuvée Especial Albariño 2019,"4,0","€24,95",1727909135.7605073
+/NL/nl/contino-rioja-blanco/w/2580382?year=2020&price_id=32797223,Contino,Rioja Blanco 2020,"4,0","€36,18",1727909135.7619703
+/NL/nl/bodega-contador-benjamin-romeo-predicador-blanco/w/1265045?year=2022&price_id=34338952,Bodega Contador (Benjamín Romeo),Predicador Blanco 2022,"4,0","€31,91",1727909135.7629817
+/NL/nl/suertes-del-marques-vidonia/w/1595719?year=2022&price_id=35580826,Suertes del Marqués,Vidonia 2022,"4,2","€35,30",1727909135.7640076
+/NL/nl/pazo-barrantes-albarino/w/1183384?year=2017&price_id=18174949,Pazo Barrantes,Albariño 2017,"3,9","€48,75",1727909135.7650583
+/NL/nl/remirez-de-ganuza-rioja-blanco/w/3183419?year=2021&price_id=36010966,Remírez de Ganuza,Rioja Blanco 2021,"4,3","€27,20",1727909135.7661092
+/NL/nl/oxer-bastegieta-marko-loretxoa/w/8436121?year=2020&price_id=34416339,Oxer Wines,Marko Loretxoa 2020,"4,1",€35,1727909135.767144
+/NL/nl/ramon-do-casar-treixadura/w/2543474?year=2022&price_id=32693960,Ramón do Casar,Treixadura 2022,"4,2","€25,85",1727909135.7681618
+/NL/nl/villota-blanco/w/6243844?year=2019&price_id=32044609,Villota,Blanco 2019,"4,0","€32,68",1727909135.769181
+/NL/nl/dominio-do-bibei-lalume/w/5889597?year=2020&price_id=35654753,Dominio do Bibei,Lalume 2020,"4,0","€25,90",1727909135.7702026
+/NL/nl/clos-d-agon-blanco/w/1239187?year=2017&price_id=31485363,Clos d'Agon,Blanco 2017,"3,9","€47,46",1727909135.7718453
+/NL/nl/rafael-palacios-sorte-o-soro-val-do-bibei/w/1509282?year=2016&price_id=36759773,Rafael Palacios,Sorte O Soro Val do Bibei 2016,"4,6","€417,45",1727909135.7723556
+/NL/nl/enric-soler-espenyalluchs/w/3363528?year=2021&price_id=36876999,Enric Soler,Espenyalluchs 2021,"4,2","€47,45",1727909135.7733855
+/NL/nl/sicus-cartoixa/w/5384165?year=2018&price_id=34813022,Sicus,Cartoixà 2018,"3,9","€42,50",1727909135.7744336
+/NL/nl/envinate-taganan-blanco/w/2561621?year=2023&price_id=37084179,Envínate,Táganan Blanco 2023,"3,9","€28,31",1727909135.7754695
+/NL/nl/alfredo-arribas-trossos-tros-blanc/w/1376420?year=2016&price_id=23304161,Alfredo Arribas,Trossos Tros Blanc 2016,"4,2","€53,93",1727909135.776581
+/NL/nl/el-grifo-malvasia-coleccion-semidulce/w/1775097?year=2021&price_id=27098726,El Grifo,Malvasía Coleccion Semidulce 2021,"4,2","€25,18",1727909135.778607
+/NL/nl/compania-de-vinos-trico-albarino/w/1213919?year=2021&price_id=37161064,Compañía de Vinos Tricó,Albariño 2021,"4,0","€23,50",1727909135.779629
+/NL/nl/enric-soler-espenyalluchs/w/3363528?year=2019&price_id=24318007,Enric Soler,Espenyalluchs 2019,"4,3","€41,50",1727909135.7806778
+/NL/nl/bodegas-mas-alta-artigas-blanco/w/5527138?year=2020&price_id=35511014,Bodegas Mas Alta,Artigas Blanco 2020,"4,1","€23,20",1727909135.7822373
+/NL/nl/quinta-da-muradella-gorvia-blanco/w/1512245?year=2019&price_id=34900292,Quinta da Muradella,Gorvia Blanco 2019,"4,0","€49,50",1727909135.7822373
+/NL/nl/horacio-calvente-guindalera/w/1210442?year=2020&price_id=27801913,Horacio Calvente,Guindalera 2020,"3,9","€22,95",1727909135.7843323
+/NL/nl/pedro-escudero-bestia-parda/w/7631924?year=2018&price_id=35071535,Bodegas Pedro Escudero,Bestia Parda 2018,"4,2","€23,95",1727909135.7853992
+/NL/nl/el-mas-de-l-a-les-margues/w/9420436?year=2020&price_id=32707001,El Mas de l'A,Les Margues 2020,"4,2","€41,50",1727909135.7864242
+/NL/nl/raventos-d-alella-santa-maria-pansa-blanca-de-alella/w/4857795?year=2015&price_id=14465278,Raventos d'Alella,Santa Maria Pansa Blanca de Alella 2015,"3,8","€22,23",1727909135.7874482
+/NL/nl/paco-lola-prime-albarino-lias-rias-baixas/w/4447966?year=2019&price_id=31485315,Paco & Lola,Prime Albariño Lias 2019,"4,1","€22,94",1727909135.7894998
+/NL/nl/gramona-pinoteamo/w/4692460?year=2019&price_id=31484801,Gramona,Pinoteamo 2019,"4,0","€23,47",1727909135.7905262
+/NL/nl/botani-muscat/w/5982492?year=2022&price_id=31485350,Botani,Muscat 2022,"4,0","€23,97",1727909135.7915561
+/NL/nl/can-rafols-dels-caus-el-rocallis/w/1184631?year=2018&price_id=31484716,Can Ràfols dels Caus,El Rocallís 2018,"4,1","€107,34",1727909135.7927468
+/NL/nl/laureano-serres-montagut-mendall-abeurador/w/4292750?year=2021&price_id=34813051,Laureano Serres Montagut,Mendall Abeurador 2021,"4,1","€58,50",1727909135.7937717
+/NL/nl/attis-sangarida-la-guiana-godello/w/9396756?year=2021&price_id=31467151,Attis,Sangarida La Guiana Godello 2021,"4,4","€45,90",1727909135.7948155
+/NL/nl/attis-mar-albarino/w/2681086?year=2021&price_id=33666119,Attis,Mar Albariño 2021,"4,4",€92,1727909135.7958508
+/NL/nl/pazo-san-mauro-albarino/w/96992?year=2022&price_id=33445025,Pazo San Mauro,Albariño 2022,"4,0","€24,70",1727909135.796895
+/NL/nl/bodegas-martin-codax-ow/w/7850128?year=2021&price_id=31720516,Bodegas Martín Códax,OW 2021,"3,8","€22,95",1727909135.7979364
+/NL/nl/finca-valpiedra-rioja-blanco-reserva/w/9662991?year=2018&price_id=35947135,Finca Valpiedra,Rioja Blanco Reserva 2018,"4,2",€64,1727909135.7989497
+/NL/nl/artadi-santa-cruz-de-artazu-blanco/w/7386777?year=2019&price_id=33224597,Artadi,Santa Cruz de Artazu Blanco 2019,"3,9","€26,50",1727909135.800985
+/NL/nl/rodriguez-vazquez-vina-de-martin-escolma-ribeiro/w/1848747?year=2017&price_id=31696623,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,"4,3","€44,18",1727909135.8020425
+/NL/nl/telmo-rodriguez-el-transistor-verdejo/w/1441651?year=2018&price_id=33326841,Telmo Rodriguez,El Transistor Verdejo 2018,"3,7","€25,31",1727909135.8030534
+/NL/nl/pago-de-vallegarcia-vallegarcia-viognier/w/1144208?year=2018&price_id=26520115,Pago de Vallegarcía,Vallegarcia Viognier 2018,"4,1","€23,86",1727909135.804081
+/NL/nl/castellana-amador-diez-cuvee-verdejo/w/5461341?year=2018&price_id=33621408,Cuatro Rayas,Amador Diez Cuvée Verdejo 2018,"4,2","€36,50",1727909135.8051789
+/NL/nl/terras-gauda-terras-gauda-o-rosal-etiqueta-negra-black-label/w/3705?year=2020&price_id=31740862,Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2020,"4,1","€41,90",1727909135.8062317
+/NL/nl/castillo-perelada-finca-la-garriga-blanca/w/99359?year=2021&price_id=32216022,Castillo Perelada,Finca La Garriga Blanca 2021,"3,8","€21,05",1727909135.8072476
+/NL/nl/conreria-d-scala-dei-antecessor-les-brugueres-priorat/w/6085355?year=1997&price_id=32148589,Conreria d'Scala Dei,Antecessor Les Brugueres 1997,"4,1",€110,1727909135.8093176
+/NL/nl/pago-de-vallegarcia-vallegarcia-viognier/w/1144208?year=2022&price_id=36830504,Pago de Vallegarcía,Vallegarcia Viognier 2022,"4,1","€24,50",1727909135.8103502
+/NL/nl/jose-pariente-finca-las-comas-verdejo/w/7273309?year=2018&price_id=30916610,José Pariente,Finca Las Comas Verdejo 2018,"4,3","€39,90",1727909135.8118834
+/NL/nl/familia-torres-sons-de-prades-vinyes-de-milmanda/w/5027645?year=2018&price_id=23277694,Familia Torres,Sons de Prades Vinyes de Milmanda 2018,"3,8","€28,07",1727909135.8124743
+/NL/nl/micro-bio-microbio-isse-vinador-sonador/w/5859878?year=2019&price_id=27305389,Micro Bio (MicroBio),Isse Vinador Soñador 2019,"4,0","€24,90",1727909135.8134975
+/NL/nl/micro-bio-microbio-microbio/w/6492987?year=2019&price_id=26215706,Micro Bio (MicroBio),Microbio 2019,"4,0","€24,90",1727909135.8145537
+/NL/nl/castell-d-encus-taleia/w/1203731?year=2020&price_id=35411291,Castell d'Encus,Taleia 2020,"4,2","€28,45",1727909135.8156133
+/NL/nl/quinta-da-muradella-alanda-blanco/w/1307801?year=2021&price_id=34900293,Quinta da Muradella,Alanda Blanco 2021,"3,7","€30,90",1727909135.8176723
+/NL/nl/bodegas-cosme-palacio-cosme-palacio-1894-blanco/w/1637821?year=2019&price_id=36839784,Bodegas Cosme Palacio,Cosme Palacio 1894 Blanco 2019,"4,0",€55,1727909135.8187172
+/NL/nl/nora-nora-da-neve/w/1160154?year=2021&price_id=36591845,Viña Nora,Nora da Neve 2021,"4,1","€26,10",1727909135.819733
+/NL/nl/fefinanes-fifteen-eightythree-albarino-de-fefinanes/w/1187117?year=2022&price_id=34361536,Fefiñanes,1583 Albariño de Fefiñanes 2022,"4,0",€27,1727909135.820745
+/NL/nl/la-cana-navia-albarino/w/2490865?year=2019&price_id=23273336,La Caña,Navia Albarino 2019,"4,2","€28,85",1727909135.8222675
+/NL/nl/alfredo-arribas-tros-blanc-saleres-grenache-blanca/w/7417219?year=2017&price_id=36802932,Alfredo Arribas,Tros Blanc Saleres Grenache Blanca 2017,"4,2","€52,45",1727909135.8234909
+/NL/nl/en-numeros-vermells-garnatxa-blanca-del-carlos/w/2539743?year=2022&price_id=36443232,En Números Vermells,Garnatxa Blanca del Carlos 2022,"4,0","€22,75",1727909135.8244953
+/NL/nl/rodrigo-mendez-cies-blanco/w/2184024?year=2020&price_id=30426133,Rodrigo Mendez,Cies Blanco 2020,"3,9","€21,90",1727909135.8255053
+/NL/nl/vegalfaro-pago-de-los-balagueses-chardonnay/w/1506037?year=2021&price_id=32695885,Vegalfaro,Pago de los Balagueses Chardonnay 2021,"4,1","€24,40",1727909135.8265188
+/NL/nl/nora-nora-da-neve/w/1160154?year=2020&price_id=33731216,Viña Nora,Nora da Neve 2020,"4,1","€27,30",1727909135.8275769
+/NL/nl/as-laxas-bagoa-do-mino-lagrima-albarino/w/1163813?year=2019&price_id=35630035,As Laxas,Bágoa do Miño Lágrima Albariño 2019,"3,9","€21,87",1727909135.8286006
+/NL/nl/telmo-rodriguez-mr-mountain-wine/w/1884649?year=2019&price_id=36689679,Telmo Rodriguez,MR (Mountain Wine) 2019,"4,2","€42,50",1727909135.830682
+/NL/nl/bodegas-mauro-godello-blanco/w/3129436?year=2018&price_id=35289818,Bodegas Mauro,Godello Blanco 2018,"4,2",€56,1727909135.8317094
+/NL/nl/r-lopez-de-heredia-vina-tondonia-gran-reserva-blanco/w/9121?year=2001&price_id=5315290,R. López de Heredia,Viña Tondonia Gran Reserva Blanco 2001,"4,3","€778,85",1727909135.832246
+/NL/nl/rodriguez-vazquez-vina-de-martin-os-pasas-ribeiro/w/1278827?year=2019&price_id=34426399,Luis A. Rodriguez Vazquez,Viña de Martin Os Pasás Ribeiro 2019,"4,1","€23,65",1727909135.832755
+/NL/nl/rodriguez-vazquez-a-teixa-ribeiro/w/2756688?year=2019&price_id=36521049,Luis A. Rodriguez Vazquez,A Teixa Ribeiro 2019,"4,2","€29,90",1727909135.834784
+/NL/nl/marco-abella-loidana-blanc/w/8743678?year=2021&price_id=35599473,Marco Abella,Loidana Blanc 2021,"3,8","€21,50",1727909135.835837
+/NL/nl/victoria-ordonez-monticara/w/5252241?year=2018&price_id=28444148,Victoria Ordoñez,Monticara 2018,"4,1","€30,50",1727909135.8368669
+/NL/nl/enric-soler-impro-visacio-vinyes-de-xarel-lo/w/2249459?year=2022&price_id=35724344,Enric Soler,Impro-Visació Vinyes de Xarel-lo 2022,"4,1","€37,50",1727909135.8378835
+/NL/nl/do-ferreiro-rias-baixas-albarino/w/1259463?year=2022&price_id=33039937,Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2022,"4,2","€23,70",1727909135.8389761
+/NL/nl/avancia-godello/w/1210648?year=2021&price_id=29742797,Avancia,Godello 2021,"4,2","€33,50",1727909135.839982
+/NL/nl/la-cana-albarino/w/1163144?year=2022&price_id=32679072,La Caña,Albarino 2022,"4,0","€22,45",1727909135.8415272
+/NL/nl/bodegas-virgen-de-galir-sede-e-fame-palomino/w/11235921?year=2019&price_id=36672645,Bodegas Virgen de Galir,Sede e Fame Palomino 2019,"4,0","€31,49",1727909135.843065
+/NL/nl/bodegas-mauro-godello-blanco/w/3129436?year=2022&price_id=35290360,Bodegas Mauro,Godello Blanco 2022,"4,2","€58,88",1727909135.8440905
+/NL/nl/avancia-godello/w/1210648?year=2021&price_id=29742797,Avancia,Godello 2021,"4,2","€33,50",1727909135.8451166
+/NL/nl/la-cana-albarino/w/1163144?year=2022&price_id=32679072,La Caña,Albarino 2022,"4,0","€22,45",1727909135.8461518
+/NL/nl/bodegas-virgen-de-galir-sede-e-fame-palomino/w/11235921?year=2019&price_id=36672645,Bodegas Virgen de Galir,Sede e Fame Palomino 2019,"4,0","€31,49",1727909135.84716
+/NL/nl/belondrade-belondrade-y-lurton/w/76476?year=2021&price_id=34025820,Belondrade,Belondrade y Lurton 2021,"4,4","€69,95",1727909135.8481698
+/NL/nl/cota-45-ube-de-uberrima-el-reventon/w/10780990?year=2022&price_id=35947269,Cota 45,UBE de Ubérrima El Reventón 2022,"4,1","€28,96",1727909135.8492007
+/NL/nl/can-rafols-dels-caus-el-rocallis/w/1184631?year=2020&price_id=33283251,Can Ràfols dels Caus,El Rocallís 2020,"4,3","€41,15",1727909135.8502333
+/NL/nl/bertha-mountain-bertha/w/4426831?year=2017&price_id=33624884,Bertha,Mountain Bertha 2017,"3,7","€20,63",1727909135.852301
+/NL/nl/cota-45-ube-de-uberrima-paganilla/w/7405451?year=2022&price_id=35947108,Cota 45,UBE de Ubérrima Paganilla 2022,"4,1","€28,96",1727909135.8533375
+/NL/nl/familia-torres-milmanda/w/2623?year=2021&price_id=36930973,Familia Torres,Milmanda 2021,"4,1",€53,1727909135.8543594
+/NL/nl/es-cims-de-porrera-vi-de-vila-blanco/w/5529178?year=2021&price_id=34877248,Cims de Porrera,Vi de Vila Blanco 2021,"3,9","€23,85",1727909135.8554032
+/NL/nl/gallina-de-piel-ikigall/w/7172482?year=2020&price_id=37126955,Gallina de Piel,Ikigall 2020,"3,9","€26,70",1727909135.856418
+/NL/nl/familia-torres-fransola/w/2622?year=2018&price_id=27209049,Familia Torres,Fransola 2018,"3,9","€29,30",1727909135.8574283
+/NL/nl/shaya-habis/w/1197819?year=2019&price_id=36917372,Shaya,Habis 2019,"4,1","€33,50",1727909135.8595083
+/NL/nl/artadi-vinas-de-gain-blanco/w/2970021?year=2019&price_id=34749178,Artadi,Viñas de Gain Blanco 2019,"4,0",€34,1727909135.8605285
+/NL/nl/castell-d-encus-ekam/w/1232125?year=2022&price_id=34659555,Castell d'Encus,Ekam 2022,"4,2","€26,45",1727909135.861555
+/NL/nl/abadia-retuerta-ledomaine-blanco-de-guarda/w/1552884?year=2020&price_id=27509761,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,"4,4","€37,99",1727909135.8626242
+/NL/nl/castillo-perelada-finca-la-garriga-blanca/w/99359?year=2022&price_id=33039929,Castillo Perelada,Finca La Garriga Blanca 2022,"3,9","€28,83",1727909135.8636374
+/NL/nl/castell-d-encus-taleia/w/1203731?year=2019&price_id=31485300,Castell d'Encus,Taleia 2019,"4,2","€34,64",1727909135.86466
+/NL/nl/d-mateos-navaldar-blanco/w/4585561?year=2020&price_id=31385644,D. Mateos,Navaldar Blanco 2020,"3,7","€30,99",1727909135.8656855
+/NL/nl/terroir-al-limit-soc-lda-terra-de-cuques/w/1704723?year=2019&price_id=37017575,Terroir Al Límit Soc. Lda,Terra de Cuques 2019,"4,1",€30,1727909135.8677602
+/NL/nl/finca-allende-rioja-blanco/w/77131?year=2020&price_id=36529919,Allende,Rioja Blanco 2020,"4,0","€23,40",1727909135.8687754
+/NL/nl/pazo-barrantes-albarino/w/1183384?year=2020&price_id=33966225,Pazo Barrantes,Albariño 2020,"3,8","€39,99",1727909135.8697884
+/NL/nl/bodegas-martin-codax-rias-baixas-albarino-lias/w/1525584?year=2021&price_id=34861941,Bodegas Martín Códax,Rías Baixas Albariño Lias 2021,"4,1","€21,95",1727909135.870845
+/NL/nl/familia-torres-fransola/w/2622?year=2022&price_id=34372501,Familia Torres,Fransola 2022,"4,2","€24,95",1727909135.872358
+/NL/nl/pazo-barrantes-albarino/w/1183384?year=2020&price_id=33966225,Pazo Barrantes,Albariño 2020,"3,8","€39,99",1727909135.8733718
+/NL/nl/familia-torres-fransola/w/2622?year=2022&price_id=34372501,Familia Torres,Fransola 2022,"4,2","€24,95",1727909135.8743842
+/NL/nl/escoda-sanahuja-els-bassots/w/1176629?year=2021&price_id=33899770,Escoda-Sanahuja,Els Bassots 2021,"4,1","€32,13",1727909135.8753963
+/NL/nl/mas-d-en-gil-coma-blanca-priorat/w/1543909?year=2018&price_id=34300359,Mas d'en Gil,Coma Blanca Priorat 2018,"4,3","€43,90",1727909135.8774257
+/NL/nl/raul-perez-ultreia-la-claudina/w/4875451?year=2020&price_id=34908231,Raúl Pérez,Ultreia La Claudina 2020,"4,2",€55,1727909135.8784523
+/NL/nl/marques-de-la-sierra-pedro-ximenez/w/2356464?year=1927&price_id=34426623,Marqués de la Sierra,Pedro Ximénez 1927,"3,4","€23,79",1727909135.879498
+/NL/nl/castro-candaz-la-vertical/w/4317169?year=2020&price_id=32166270,Castro Candaz,La Vertical 2020,"4,2","€20,95",1727909135.8805342
+/NL/nl/d-mateos-navaldar-blanco/w/4585561?year=2020&price_id=31385644,D. Mateos,Navaldar Blanco 2020,"3,7","€30,99",1727909135.881554
+/NL/nl/bodegas-martin-codax-rias-baixas-albarino-lias/w/1525584?year=2021&price_id=34861941,Bodegas Martín Códax,Rías Baixas Albariño Lias 2021,"4,1","€21,95",1727909135.882914
+/NL/nl/terroir-al-limit-soc-lda-terra-de-cuques/w/1704723?year=2019&price_id=37017575,Terroir Al Límit Soc. Lda,Terra de Cuques 2019,"4,1",€30,1727909135.8839285
+/NL/nl/forjas-del-salnes-leirana-finca-genoveva-albarino/w/1789020?year=2022&price_id=35869860,Forjas del Salnés,Leirana Finca Genoveva Albariño 2022,"4,1","€34,79",1727909135.8850117
