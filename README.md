@@ -28,6 +28,6 @@ Running the code takes approximate 45 minutes. **When the code is running, do no
 ## Important note
 Make sure that, before running the makefile, the following python packages are installed:
 ```
-pip3 install selenium
-pip3 install webdriver_manager
-pip3 install beautifulsoup4
+!pip3 install selenium
+!pip3 install webdriver_manager
+!pip3 install beautifulsoup4
