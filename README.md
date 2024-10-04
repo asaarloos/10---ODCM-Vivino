@@ -14,13 +14,13 @@ In this project, we scrape date from the website Vivino. The extracted data coul
 ## Code
 When the makefile is run in the terminal, the code will automatically run. This consists of 3 parts:
 
-### Webscraping ()
+### 1. Webscraping
 First ther webscraping code will run, which can be found in the 'Vivino-web-scraper-Team10' file. The code will run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type (so 6 datasets in total). Later, when cleaning the data, each dataset will get identified by adding an extra column with the type. Then, all datasets will be merged into one dataset containing all 8,057 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,568 wines.
 
-### Cleaning
+### 2. Cleaning
 When all 6 seperate datasets are created, a Rscript will run which cleans this data. This code can be found in the 'Data_Cleaning' file. First, for each dataset a column will be added, incidcating the type of wine. Then all 6 datasets will be merged to one final dataset named 'Vivino-wine-data'. This data will be further cleaned. Since Vivino offers some wines multiple times on the website, all duplicate rows are removed. The final data will be stored in a csv file (Vivino-wine-data.csv), containing information of 7,566 wines.
 
-### Removing Irrelevant Files
+### 3. Removing Irrelevant Files
 When all the code has run, the 6 datasets that are created by the webscraper (before merging) will automatically be removed. Since all information can also be found in the final dataset, these seperate datasets are of no use anymore. In order to keep a tidy workspace, the old datafiles are removed.
 
 Running the code takes approximate 45 minutes. **When the code is running, do not interupt, so the code does not break!**
