@@ -39,12 +39,19 @@ final_data$Year <- year
 # Extract the wine id from the Hyperlink
 wine_id <- sub(".*/w/([0-9]+)\\?.*", "\\1", hyperlink)
 
-# Change hyperlink to WineID
-final_data$hyperlink <- wine_id
-names(final_data)[1]<-paste("WineID")
+# Add WineID as new variable in the data
+final_data$WineID <- wine_id
 
 # Rename Reviews to ReviewCount
 names(final_data)[5]<-paste("ReviewCount")
+
+# Remove the euro sign and replace commas with periods in the Price column
+final_data$Price <- gsub("€", "", final_data$Price)  
+final_data$Price <- sub(",", ".", sub(".", "", final_data$Price, fixed=TRUE), fixed=TRUE)
+
+# Convert Rating and Price columns to numeric
+final_data$Rating <- as.numeric(final_data$Rating)
+final_data$Price <- as.numeric(final_data$Price)
 
 # Wine rating is shown without comma, divide ratings by 10
 final_data$Rating <- final_data$Rating / 10
