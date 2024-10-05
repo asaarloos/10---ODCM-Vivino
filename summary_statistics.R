@@ -51,6 +51,10 @@ ggplot(wine_data, aes(x = Year)) +
   geom_histogram(binwidth = 1, fill = 'lightblue', color = 'black') +
   labs(title = "Histogram of Wine Harvest Years", x = "Year", y = "Count") +
   theme_minimal()
+min_year <- min(wine_data$Year, na.rm = TRUE)  
+max_year <- max(wine_data$Year, na.rm = TRUE)
+print(min_year)
+print(max_year)
 
 # Create scatter plot with log transformation of Price
 ggplot(data = wine_data, aes(x = log(Price), y = Rating)) +
@@ -61,3 +65,14 @@ ggplot(data = wine_data, aes(x = log(Price), y = Rating)) +
        y = "Rating (0-5)") +
   ylim(0, 5) +  
   theme_minimal()  
+
+# Check for missing information
+missing_summary <- wine_data %>%
+  summarise(across(everything(), ~ sum(is.na(.)), .names = "missing_{.col}")) %>%
+  mutate(across(everything(), ~ . / nrow(wine_data) * 100, .names = "missing_pct_{.col}"))
+print(missing_summary)
+
+# Check which entries have missing Year values
+missing_years <- wine_data %>%
+  filter(is.na(Year))
+print(missing_years)
