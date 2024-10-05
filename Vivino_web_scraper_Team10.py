@@ -4,7 +4,7 @@
 # # Team Project - OCDM
 # 
 # ## Project 
-# In this document is the code written to scrape the data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines, it is impossible to scrape all of them. Therefore, we made created a sample of wines we are going to scrape. This sample consists of all wines originated in Spain and that is deliverable to the Netherlands. As of 04-10-2024 This leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
+# In this document is the code written to scrape the data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines, it is impossible to scrape all of them. Therefore, we made created a sample of wines we are going to scrape. This sample consists of all wines originated in Spain and that is deliverable to the Netherlands. As of 05-10-2024 This leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
 # - **Hyperlink**: The hyperlink of each wine, which includes the unique id of each wine. The unique wine id will later be isolated when cleaning the data.
 # - **Brand**: The brand that produces the wine.
 # - **Wine**: The name of the specific wine.
@@ -12,10 +12,10 @@
 # - **Price**: The price of the specific wine. When the wine is on discount, the original price will be taken, not the discounted price.
 # - **Timestamp**: The timestamp at which the data is extracted. This is useful if the dataset will be used in future analysis, so the date and time of extraction can always be found.
 # 
-# *Important note: Since the Vivino website offerse some wines multiple times, later the duplicate rows will be deleted, which leaves a sample of 7,568 wines*
+# *Important note: Since the Vivino website offerse some wines multiple times, later the duplicate rows will be deleted, which leaves a sample of 7,585 wines*
 # 
 # ### Code
-# The code will run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the type. Then, all datasets will be merged into one dataset containing all 8,111 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,568 wines.
+# The code will run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the type. Then, all datasets will be merged into one dataset containing all 8,111 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,585 wines.
 # 
 # We created a makefile to automate this process. When running the makefile (located in the GitHub repository), it will first run this webscraping code, creating seperate datasets per type of wine. Because there is no need anymore for the seperate datasets (since they are all merged together), the makefile will also deleted the seperate datasets created by the webscraper.
 

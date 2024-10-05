@@ -62,12 +62,6 @@ final_data$Timestamp <- as.Date(as.POSIXct(final_data$Timestamp, origin="1970-01
 # Since some wines are offered multiple times on the Vivino website, it is important to only keep unique wines so there are no duplicates
 final_data <- unique(final_data)
 
-# Processing the price column
-final_data$Price <- gsub("€", "", final_data$Price) #Remove the Euro sign
-final_data$Price <- gsub("\\.", "", final_data$Price) #Remove the thousands separator
-final_data$Price <- gsub(",", ".", final_data$Price) #Replace the comma with a dot to fix the decimal separator
-final_data$Price <- as.numeric(final_data$Price) #Convert price column to numeric
-
 # Convert timestamp column to date format
 final_data$Timestamp <- as.Date(final_data$Timestamp, format = "%Y-%m-%d")
 
