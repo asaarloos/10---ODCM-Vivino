@@ -1,11 +1,18 @@
 # Load necessary libraries
+install.packages('tidyverse')
+install.packages('ggplot2')
+install.packages('knitr')
+install.packages('kableExtra')
+install.packages('readr')
+
 library(tidyverse)
 library(ggplot2)
 library(knitr)
 library(kableExtra)
+library(readr)
+# Load the dataset
 
-# Load the dataset 
-wine_data <- read.csv("Vivino_wine_data.csv")
+wine_data <- read_csv("Vivino_wine_data.csv")
 
 # Summary statistics
 summary_stats <- wine_data %>%
