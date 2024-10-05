@@ -4,7 +4,7 @@ seperate_data:
 	python Vivino_web_scraper_Team10.py
 
 Vivino_wine_data.csv: red_wine.csv white_wine.csv rose_wine.csv sparkling_wine.csv dessert_wine.csv fortified_wine.csv
-	R --vanilla < Data_Cleaning.R
+	Rscript Data_Cleaning.R
 
 clean:
 	del red_wine.csv
