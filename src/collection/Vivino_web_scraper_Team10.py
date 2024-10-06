@@ -9,7 +9,6 @@
 # - **Brand**: The brand that produces the wine.
 # - **Wine**: The name of the specific wine.
 # - **Rating**: The star rating of the specific wine (0-5).
-# - **Reviews**: The number of reviews a specific wine has.
 # - **Price**: The price of the specific wine. When the wine is on discount, the original price will be taken, not the discounted price.
 # - **Timestamp**: The timestamp at which the data is extracted. This is useful if the dataset will be used in future analysis, so the date and time of extraction can always be found.
 # 
@@ -59,7 +58,7 @@ urls = ('https://www.vivino.com/explore?e=eJzLLbI1VMvNzLM1UMtNrLA1NFBLrrT181FLtn
       'https://www.vivino.com/explore?e=eJzLLbI1VMvNzLM1MVDLTaywNTUwUEuutPXzUUu2dQ0NUisASqen2ZYlFmWmliTmqOUXpdimpBYnq-UnVdoWFGUmp6qVl0THAlUlVxYD6dRiNTAJAN31HSE%3D') # 40-500 euro
 
 # Open a csv file to store the data in
-with open('red_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/red_wine.csv', mode='w', newline='', encoding='utf-8') as file:
       writer = csv.writer(file)
 
       # Write the header row
@@ -179,7 +178,7 @@ for url in urls:
             time.sleep(2)
 
       # Open a csv file to store the data in
-      with open('red_wine.csv', mode='a', newline='', encoding='utf-8') as file:
+      with open('../../data/red_wine.csv', mode='a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
 
             # Write the data rows
@@ -211,7 +210,7 @@ urls = ('https://www.vivino.com/explore?e=eJzLLbI1VMvNzLM1UMtNrLA1MlBLrrT181FLtn
         'https://www.vivino.com/explore?e=eJzLLbI1VMvNzLM1MlDLTaywNTUwUEuutPXzUUu2dQ0NUisASqen2ZYlFmWmliTmqOUXpdgmFier5SdV2hYUZSanqpWXRMfaGgE1FQPp1GI1MAkAvnccuA%3D%3D') # 20-500 euro
 
 # Open a csv file to store the data in
-with open('white_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/white_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
@@ -331,7 +330,7 @@ for url in urls:
         time.sleep(2)
 
     # Open a csv file to store the data in
-    with open('white_wine.csv', mode='a', newline='', encoding='utf-8') as file:
+    with open('../../data/white_wine.csv', mode='a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
 
         # Write the data rows
@@ -470,7 +469,7 @@ for entry in wine_entries:
     time.sleep(2)
 
 # Open csv file to store the data
-with open('rose_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/rose_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
@@ -613,7 +612,7 @@ for entry in wine_entries:
     time.sleep(2)
 
 # Open csv file to store the data
-with open('sparkling_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/sparkling_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
@@ -756,7 +755,7 @@ for entry in wine_entries:
     time.sleep(2)
 
 # Open csv file to store the data
-with open('dessert_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/dessert_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row
@@ -899,7 +898,7 @@ for entry in wine_entries:
     time.sleep(2)
 
 # Open csv file to store the data
-with open('fortified_wine.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('../../data/fortified_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
     # Write the header row

@@ -5,12 +5,12 @@ library(readr)
 
 ## INPUT
 # Import the data 
-red_wine <- read_csv("red_wine.csv")
-white_wine <- read_csv("white_wine.csv")
-rose_wine <- read_csv("rose_wine.csv")
-sparkling_wine <- read_csv("sparkling_wine.csv")
-dessert_wine <- read_csv("dessert_wine.csv")
-fortified_wine <- read_csv("fortified_wine.csv")
+red_wine <- read_csv("../../data/red_wine.csv")
+white_wine <- read_csv("../../data/white_wine.csv")
+rose_wine <- read_csv("../../data/rose_wine.csv")
+sparkling_wine <- read_csv("../../data/sparkling_wine.csv")
+dessert_wine <- read_csv("../../data/dessert_wine.csv")
+fortified_wine <- read_csv("../../data/fortified_wine.csv")
 
 ## TRANSFORMATION
 # Add category that indicates the type of wine
@@ -69,4 +69,4 @@ final_data$Timestamp <- as.Date(final_data$Timestamp, format = "%Y-%m-%d")
 final_data <- final_data[, c(7,1,10,2,3,9,8,6,4,5)]
 
 ## OUTPUT
-write.csv(final_data, 'Vivino_wine_data.csv', row.names = FALSE)
+write.csv(final_data, '../../data/Vivino_wine_data.csv', row.names = FALSE)

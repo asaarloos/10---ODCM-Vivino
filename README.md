@@ -6,7 +6,6 @@ In this project, we scrape date from the website Vivino. The extracted data coul
 - **Brand**: The brand that produces the wine.
 - **Wine**: The name of the specific wine.
 - **Rating**: The star rating of the specific wine (0-5).
-- **Reviews**: The number of reviews a specific wine has.
 - **Price**: The price of the specific wine. When the wine is on discount, the original price will be taken, not the discounted price.
 - **Timestamp**: The timestamp at which the data is extracted. This is useful if the dataset will be used in future analysis, so the date and time of extraction can always be found.
 
