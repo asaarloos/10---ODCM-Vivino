@@ -174,6 +174,9 @@ for url in urls:
             timestamps = time.time()
             timestamp.append(timestamps)
 
+            # Wait for 2 seconds to not overload the server
+            time.sleep(2)
+
       # Open a csv file to store the data in
       with open('red_wine.csv', mode='a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
@@ -322,6 +325,9 @@ for url in urls:
         # Extract timestamp
         timestamps = time.time()
         timestamp.append(timestamps)
+        
+        # Wait for 2 seconds to not overload the server
+        time.sleep(2)
 
     # Open a csv file to store the data in
     with open('white_wine.csv', mode='a', newline='', encoding='utf-8') as file:
@@ -458,6 +464,9 @@ for entry in wine_entries:
                 
     timestamps = time.time()
     timestamp.append(timestamps)
+
+    # Wait for 2 seconds to not overload the server
+    time.sleep(2)
 
 # Open csv file to store the data
 with open('rose_wine.csv', mode='w', newline='', encoding='utf-8') as file:
@@ -599,6 +608,9 @@ for entry in wine_entries:
     timestamps = time.time()
     timestamp.append(timestamps)
 
+    # Wait for 2 seconds to not overload the server
+    time.sleep(2)
+
 # Open csv file to store the data
 with open('sparkling_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
@@ -739,6 +751,9 @@ for entry in wine_entries:
     timestamps = time.time()
     timestamp.append(timestamps)
 
+    # Wait for 2 seconds to not overload the server
+    time.sleep(2)
+
 # Open csv file to store the data
 with open('dessert_wine.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
@@ -878,6 +893,9 @@ for entry in wine_entries:
                 
     timestamps = time.time()
     timestamp.append(timestamps)
+
+    # Wait for 2 seconds to not overload the server
+    time.sleep(2)
 
 # Open csv file to store the data
 with open('fortified_wine.csv', mode='w', newline='', encoding='utf-8') as file:

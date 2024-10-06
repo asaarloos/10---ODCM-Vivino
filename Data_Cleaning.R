@@ -65,5 +65,8 @@ final_data <- unique(final_data)
 # Convert timestamp column to date format
 final_data$Timestamp <- as.Date(final_data$Timestamp, format = "%Y-%m-%d")
 
+# Rearranging column for readability
+final_data <- final_data[, c(7,1,10,2,3,9,8,6,4,5)]
+
 ## OUTPUT
 write.csv(final_data, 'Vivino_wine_data.csv', row.names = FALSE)
