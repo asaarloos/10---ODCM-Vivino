@@ -67,6 +67,7 @@ print(max_year)
 category_distribution <- wine_data %>%
   group_by(Category) %>%
   summarise(Frequency = n()) %>%
+  mutate(`Relative Frequency` = paste0(round((Frequency / sum(Frequency)) * 100, 1), "%")) %>%
   arrange(desc(Frequency))
 
 # Display frequency distribution table for Category
