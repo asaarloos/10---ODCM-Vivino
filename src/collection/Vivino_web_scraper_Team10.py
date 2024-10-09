@@ -1,28 +1,25 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Team Project - OCDM
-# 
-# ## Project 
-# This document contains the code  to scrape data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines. The sample we are going to scrape consists of all wines originated in Spain and that are deliverable to the Netherlands. At 05-10-2024, this leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
-# - **Hyperlink**: The hyperlink of each wine, which includes the unique id of each wine. The unique wine id will later be isolated when cleaning the data.
-# - **Brand**: The brand that produces the wine.
-# - **Wine**: The name of the specific wine.
-# - **Rating**: The star rating of the specific wine (0-5).
-# - **Price**: The price of the specific wine. When the wine is on discount, the original price will be taken, not the discounted price.
-# - **Timestamp**: The timestamp at which the data is extracted. This is useful if the dataset will be used in future analysis, so the date and time of extraction can always be found.
-# 
-# *Important note: Since the Vivino website offerse some wines multiple times, later the duplicate rows will be deleted, which leaves a sample of 7,585 wines*
-# 
-### Code
-# ### Code
-# The code will be run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the wine category. Then, all datasets will be merged into one dataset containing all 8,057 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,585 wines.
+# Team Project ODCM - Team 10
 
-# We created a makefile to automate this process. When running the makefile, it will first run this webscraping code, creating seperate datasets per type of wine. Then, the datasets will be merged into one csv file, which will then be cleaned and several summary statistics will be calculated and plots will be created. The individual files for each category created by the web scraper will be deleted.
+## Project 
+#This document contains the code  to scrape data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines. The sample we are going to scrape consists of all wines originated in Spain and that are deliverable to the Netherlands. At 05-10-2024, this leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
+#- **Hyperlink**: The hyperlink of each wine, which includes the unique id of each wine. The unique wine id will later be isolated when cleaning the data.
+#- **Brand**: The brand that produces the wine.
+#- **Wine**: The name of the specific wine.
+#- **Rating**: The rating of the specific wine (0-5).
+#- **Price**: The price of the specific wine. When the wine is on discount, the original price will be taken, not the discounted price.
+#- **Timestamp**: The timestamp at which the data is extracted. This will be useful in future analyses, so the date and time of extraction can always be found.
+
+### Code
+#The code will be run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the wine category. Then, all datasets will be merged into one dataset containing all 8,057 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,585 wines.
+
+#We created a makefile to automate this process. When running the makefile, it will first run this webscraping code, creating seperate datasets per type of wine. Then, the datasets will be merged into one csv file, which will then be cleaned and several summary statistics will be calculated and plots will be created. The individual files for each category created by the web scraper will be deleted.
 
 # ### Install the packages & librabies 
 # 
-# To extract the date, we make use of Beautiful Soup and Selenium. In order to run the code, first install and import the packages below:
+# To extract the data, we make use of Beautiful Soup and Selenium. In order to run the code, first install and import the packages below:
 
 # In[15]:
 
