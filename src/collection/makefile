@@ -1,11 +1,11 @@
 DATA = ../../data
 
-all: seperate_data $(DATA)/Vivino_wine_data.csv clean
+all: $(DATA)/Vivino_wine_data.csv clean
 
-seperate_data: Vivino_web_scraper_Team10.py
+separate_data: Vivino_web_scraper_Team10.py
 	python Vivino_web_scraper_Team10.py
 
-$(DATA)/Vivino_wine_data.csv: $(DATA)/red_wine.csv $(DATA)/white_wine.csv $(DATA)/rose_wine.csv $(DATA)/sparkling_wine.csv $(DATA)/dessert_wine.csv $(DATA)/fortified_wine.csv Data_Cleaning.R
+$(DATA)/Vivino_wine_data.csv: separate_data Data_Cleaning.R 
 	Rscript Data_Cleaning.R
 
 clean:
