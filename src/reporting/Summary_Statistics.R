@@ -12,7 +12,7 @@ library(kableExtra)
 library(readr)
 # Load the dataset
 
-wine_data <- read_csv("Vivino_wine_data.csv")
+wine_data <- read_csv("../../data/Vivino_wine_data.csv")
 
 # Summary statistics
 summary_stats <- wine_data %>%
@@ -49,21 +49,42 @@ print(unique_brands_count)
 
 # Histogram for Rating
 ggplot(wine_data, aes(x = Rating)) +
-  geom_histogram(binwidth = 0.5, fill = "blue", color = "black", alpha = 0.7) +
+  geom_histogram(binwidth = 0.1, fill = "blue", color = "black", alpha = 0.7) +
   labs(title = "Distribution of Wine Ratings", x = "Rating", y = "Count") +
   theme_minimal()
 
 # Histogram of Year
 ggplot(wine_data, aes(x = Year)) +
   geom_histogram(binwidth = 1, fill = 'lightblue', color = 'black') +
-  labs(title = "Histogram of Wine Harvest Years", x = "Year", y = "Count") +
+  labs(title = "Distribution of Wine Harvest Years", x = "Year", y = "Count") +
   theme_minimal()
 min_year <- min(wine_data$Year, na.rm = TRUE)  
 max_year <- max(wine_data$Year, na.rm = TRUE)
 print(min_year)
 print(max_year)
 
-# Create scatter plot with log transformation of Price
+# Frequency distribution for Category
+category_distribution <- wine_data %>%
+  group_by(Category) %>%
+  summarise(Frequency = n()) %>%
+  arrange(desc(Frequency))
+
+# Display frequency distribution table for Category
+category_table <- kable(category_distribution, caption = "Frequency Distribution of Wine Categories") %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("striped", "hover", "condensed"))
+print(category_table)
+
+# Convert Category to a factor with levels ordered by frequency
+category_distribution$Category <- factor(category_distribution$Category, levels = category_distribution$Category)
+
+# Create the bar plot
+ggplot(category_distribution, aes(x = Category, y = Frequency)) +
+  geom_bar(stat = "identity", fill = "blue", color = "black", alpha = 0.7) +
+  labs(title = "Frequency Distribution of Wine Categories", x = "Category", y = "Frequency") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Scatter plot with log transformation of Price
 ggplot(data = wine_data, aes(x = log(Price), y = Rating)) +
   geom_point(color = "blue", size = 2) + 
   geom_smooth(method = "lm", se = FALSE, color = "red") + 
