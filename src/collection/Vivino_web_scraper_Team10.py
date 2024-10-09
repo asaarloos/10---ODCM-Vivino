@@ -4,7 +4,7 @@
 # # Team Project - OCDM
 # 
 # ## Project 
-# In this document is the code written to scrape the data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines, it is impossible to scrape all of them. Therefore, we made created a sample of wines we are going to scrape. This sample consists of all wines originated in Spain and that is deliverable to the Netherlands. As of 05-10-2024 This leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
+# This document contains the code  to scrape data from Vivino. The extracted data could be used to analyse the influence of the price of wine on consumer ratings. The Vivino website offers over millions of different wines. The sample we are going to scrape consists of all wines originated in Spain and that are deliverable to the Netherlands. At 05-10-2024, this leaves a sample of 8,079 wines (this number could change over time). Of these wines, the following data will be extracted:
 # - **Hyperlink**: The hyperlink of each wine, which includes the unique id of each wine. The unique wine id will later be isolated when cleaning the data.
 # - **Brand**: The brand that produces the wine.
 # - **Wine**: The name of the specific wine.
@@ -14,10 +14,11 @@
 # 
 # *Important note: Since the Vivino website offerse some wines multiple times, later the duplicate rows will be deleted, which leaves a sample of 7,585 wines*
 # 
+### Code
 # ### Code
-# The code will run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the type. Then, all datasets will be merged into one dataset containing all 8,111 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,585 wines.
-# 
-# We created a makefile to automate this process. When running the makefile (located in the GitHub repository), it will first run this webscraping code, creating seperate datasets per type of wine. Because there is no need anymore for the seperate datasets (since they are all merged together), the makefile will also deleted the seperate datasets created by the webscraper.
+# The code will be run individually for each type of wine: red, white, rose, sparkling, dessert and fortified. After the code of each type is run, a dataset will be created containing all wines of that type. Later, when cleaning the data, each dataset will get identified by adding an extra column with the wine category. Then, all datasets will be merged into one dataset containing all 8,057 wines. This dataset will be further cleaned and after removing duplicate wines, it will producte a final dataset with 7,585 wines.
+
+# We created a makefile to automate this process. When running the makefile, it will first run this webscraping code, creating seperate datasets per type of wine. Then, the datasets will be merged into one csv file, which will then be cleaned and several summary statistics will be calculated and plots will be created. The individual files for each category created by the web scraper will be deleted.
 
 # ### Install the packages & librabies 
 # 
@@ -44,7 +45,7 @@ import csv
 
 # ## Red Wines 
 # 
-# In the cell below we are collecting the data of the red wines. To be safe that the code doesn't break, we seperate the wines we want to extract into 4 seperate urls. These urls are then, one by one, fed into the code using a for loop. After scraping, the data will be appended to a csv file names 'red_wine.csv'.
+# In the cell below the data of the red wines are collected. To ensure that the code doesn't break, we filter the wines to create separate extraction batches, each with their own URL. These urls are then, one by one, fed into the code using a for loop. After scraping, the data will be appended to a csv file named 'red_wine.csv' in the data folder.
 
 # In[5]:
 
@@ -198,7 +199,7 @@ for url in urls:
 
 # ## White Wines
 # 
-# In the cell below we are collecting the data of the white wines. To be safe that the code doesn't break, we seperate the wines we want to extract into 2 seperate urls. These urls are then, one by one, fed into the code using a for loop. After scraping, the data will be appended to a csv file names 'white_wine.csv'.
+# In the cell below the data of the white wines are collected. To ensure that the code doesn't break, we filter the wines to create separate extraction batches, each with their own URL. These urls are then, one by one, fed into the code using a for loop. After scraping, the data will be appended to a csv file named 'white_wine.csv' in the data folder.
 
 # In[6]:
 
@@ -350,8 +351,7 @@ for url in urls:
 
 # ## Rose Wines
 # 
-# In the cell below we are collecting the data of the red wines. Since the number of rose wines is not extensive, it is not necesarry to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of rose wines. After scraping, the data will be appended to a csv file names 'rose_wine.csv'.
-
+# In the cell below we are collecting the data of the rose wines. Since the number of rose wines is limited, it is not necessary to seperate the wines into seperate urls. Therefore, the code is only run once to extract the full set of rose wines. After scraping, the data will be appended to a csv file named 'rose_wine.csv' in the data folder.
 # In[7]:
 
 service = Service(ChromeDriverManager().install())
@@ -492,7 +492,7 @@ print("Data saved to 'rose_wine.csv' successfully.")
 
 # ## Sparkling Wines
 # 
-# In the cell below we are collecting the data of the red wines. Since the number of sparkling wines is not extensive, it is not necesarry to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of sparkling wines. After scraping, the data will be appended to a csv file names 'sparkling_wine.csv'.
+# In the cell below we are collecting the data of the sparkling wines. Since the number of sparkling wines is limited, it is not necessary to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of sparkling wines. After scraping, the data will be appended to a csv file named 'sparkling_wine.csv' in the data folder.
 
 # In[8]:
 
@@ -635,7 +635,7 @@ print("Data saved to 'sparkling_wine.csv' successfully.")
 
 # ## Dessert Wines
 # 
-# In the cell below we are collecting the data of the red wines. Since the number of dessert wines is not extensive, it is not necesarry to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of dessert wines. After scraping, the data will be appended to a csv file names 'dessert_wine.csv'.
+# In the cell below we are collecting the data of the dessert wines. Since the number of dessert wines is limited, it is not necessary to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of dessert wines. After scraping, the data will be appended to a csv file named 'dessert_wine.csv' in the data folder.
 
 # In[31]:
 
@@ -778,7 +778,7 @@ print("Data saved to 'dessert_wine.csv' successfully.")
 
 # ## Fortified Wines
 # 
-# In the cell below we are collecting the data of the red wines. Since the number of fortified wines is not extensive, it is not necesarry to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of fortified wines. After scraping, the data will be appended to a csv file names 'fortified_wine.csv'.
+# In the cell below we are collecting the data of the fortified wines. Since the number of fortified wines is limited, it is not necessary to seperate the wines into seperate urls. Therefore, the code is only run once with the full set of fortified wines. After scraping, the data will be appended to a csv file named 'fortified_wine.csv' in the data folder.
 
 # In[10]:
 
